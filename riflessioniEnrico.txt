@@ -1,0 +1,69 @@
+Al di là delle formule matematiche di analisi della concordanza globale, in questa prima fase, visto che è la prima occasione in cui ognuno codifica e poi si analizzano gli esiti (e non possiamo ancora dire che il sistema di etichette è complessivamente robusto) è importante secondo me capire due cose:
+1. se ci sono etichette problematiche
+2. se ci sono risposte problematiche
+
+Per quanto riguarda 1. direi che un'etichetta è problematica se, nelle risposte in cui è usata, essa viene usata da "pochi codificatori" (ma se usata da zero codificatori questo non indica un problema).
+Per quanto riguarda 2. direi che una risposta è problematica se, nelle etichette che sono usate per codificarla, ci sono "pochi codificatori" che la usano.
+
+
+Per il calcolo della "problematicità" delle etichette, cioè il punto 1., io userei una cosa di questo tipo.
+
+Consideriamo una certa specifica etichetta L e ricordiamo che siamo 6 codificatori.
+
+Definiamo
+R = numero di risposte su cui almeno un codificatore ha usato quell'etichetta L (vale tra 0 e numero di risposte che si stanno valutando, 20 in questo caso)
+C_i = numero di codificatori che nella i-esima delle R risposte ha usato l'etichetta L (vale tra 1 e 6)
+
+Poi calcoliamo, per ogni etichetta L per cui R è diverso da zero, cioè solo per un'etichetta effettivamente usata
+
+R_i = 6-C_i
+come misura della problematicità dell'etichetta L nella i-esima risposta  
+
+PR_L = (somma sulle R risposte dei valori R_i) / R
+come misura della problematicità dell'etichetta L, che potrà assumere un valore tra 0 (assenza di problematicità) e 5 (massimo di problematicità)
+
+Alcuni esempi:
+1. l'etichetta L è stata usata da almeno un codificatore in 1 risposta e solo 1 codificatore l'ha usata. Allora l'unico valore di R_i è 5, e PR_L vale 5/1 = 5
+2. l'etichetta L è stata usata da almeno un codificatore in 10 risposte. In tutti i casi solo 1 codificatore l'ha usata. Allora i valori di R_i sono tutti 5, e PR_L vale (10*5)/10 = 5
+(Si potrebbe discutere se sia più problematica l'etichetta del caso 1 o quella del caso 2, ma mi sembra un problema di secondo livello)
+3. l'etichetta L è stata usata da almeno un codificatore in 2 risposte. In entrambi i casi sempre 3 codificatori l'hanno usata. Allora i valori di R_i sono tutti 3, e PR_L vale (3+3)/2 = 3
+4. l'etichetta L è stata usata da almeno un codificatore in 5 risposte. In 3 casi l'hanno usata 5 codificatori e in 2 tutti e 6. Allora i valori di R_i sono per 3 volte 1 e per 2 volte 0 e PR_L vale (3*1)/5 = 0,6
+5. l'etichetta L è stata usata da almeno un codificatore in 3 risposte. In una prima risposta è stata usata da 3 codificatori, in una seconda da tutti e 6 e in una terza da 1. Allora i valori di R_i sono 3, 0, 5, e PR_L vale (3+0+5)/3 = 8/3 = 2,67
+6. l'etichetta L è stata usata da almeno un codificatore in 6 risposte. Il numero di codificatori che l'ha usata è diverso per ogni risposta. Allora i valori di R_i sono 0 (per la risposta in cui tutti e 6 i codificatori hanno usato l'etichetta), 1 (usata da 5 codificatori), 2 (da 4), 3, 4, 5 (usata solo da 1 codificatore) e PR_L vale (0+1+2+3+4+5) = 15/6 = 2,5
+
+
+Per il calcolo della "problematicità" delle risposte, cioè il punto 2., io userei una cosa di questo tipo.
+
+Consideriamo una certa specifica risposta T e ricordiamo che siamo 6 codificatori.
+
+Definiamo
+Q = numero di etichette usate da almeno un codificatore per quella risposta T
+C_i = numero di codificatori che nella i-esima delle Q etichette ha usato l'etichetta i (vale tra 1 e 6)
+
+Poi calcoliamo per ogni risposta (infatti ogni risposta ha almeno un'etichetta che dice che la risposta è vuota o generica o non pertinente)
+
+T_i = 6-C_i
+come misura della problematicità della risposta T rispetto all'etichetta i-esima
+
+PR_T = (somma sulle Q etichette dei valori T_i) / Q
+come misura della problematicità della risposta T, che potrà assumere un valore tra 0 (assenza di problematicità) e X (massimo di problematicità)
+
+Alcuni esempi:
+1. nella risposta T è stata usata 1 sola etichetta solo da 1 codificatore. Allora l'unico valore di T_i è 5, e PR_T vale 5/1 = 5
+2. nella risposta T sono state usate 10 etichette. In tutti i casi solo 1 codificatore le ha usate. Allora i valori di T_i sono tutti 5, e PR_T vale (10*5)/10 = 5
+(Si potrebbe discutere se sia più problematica la risposta del caso 1 o quella del caso 2, ma mi sembra un problema di secondo livello)
+3. nella risposta T sono state usate 2 etichette da almeno un codificatore. In entrambi i casi sempre 3 codificatori l'hanno usata. Allora i valori di T_i sono tutti 3, e PR_T vale (3+3)/2 = 3
+4. nella risposta T sono state usate 5 etichette da almeno un codificatore. In 3 casi le etichette sono state usate da 5 codificatori e in 2 tutti e 6. Allora i valori di T_i sono per 3 volte 1 e per 2 volte 0 e PR_T vale (3*1)/5 = 0,6
+5. nella risposta T sono state usate 3 etichette da almeno un codificatore. Una prima etichetta è stata usata da 3 codificatori, una seconda da tutti e 6 e una terza da 1. Allora i valori di T_i sono 3, 0, 5, e PR_T vale (3+0+5)/3 = 8/3 = 2,67
+6. nella risposta T sono state usate 6 etichette da almeno un codificatore. Il numero di codificatori che hanno usate le etichette è diverso per ogni etichetta. Allora i valori di T_i sono 0 (per l'etichetta usata da tutti e 6 i codificatori), 1 (per quella usata da 5 codificatori), 2 (da 4), 3, 4, 5 (quella usata solo da 1 codificatore) e PR_T vale (0+1+2+3+4+5) = 15/6 = 2,5
+
+
+
+Poi, per quanto riguarda le valutazioni analitiche complessiva della inter-rater reliability, ci sono presentazioni elementari qui
+    https://www.statology.org/inter-rater-reliability/
+e qui
+    https://www.statology.org/cohens-kappa-statistic/
+
+però, come detto all'inizio, lascerei queste valutazioni complessive a un secondo momento per due motivi:
+1. è importante capire la robustezza delle varie etichette e la problematicità delle singole risposte
+2. avendo noi molte etichette per ogni categoria c'è il rischio di una dispersione elevata che porterebbe la inter-rater reliability complessiva troppo in basso.
