@@ -25,6 +25,8 @@ autori_file = {
     "ML": "questionario-insegnanti-campione-60-ML.xlsx"
 }
 
+NUMAUTORI = len(autori_file)
+
 domande = ["Domanda1", "Domanda 2", "Domanda 3"]
 
 dataframes = {}
@@ -228,13 +230,13 @@ label_tree = count_etichette_as_tree(data, etichette_count)
 # pprint.pprint(etichette_count)
 
 
-print("========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/6)")
+print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
 for level, macroetichetta_dict in label_tree.items():
     print(level.upper())
     for macroetichetta, etichette in macroetichetta_dict.items():
         print(f"  {macroetichetta}")
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
-            normalized_count = count / 6
+            normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
 
 
@@ -260,7 +262,7 @@ def calcola_problematicita(data):
                     1 for autore in autori_file.keys()
                     if etichetta in level_data[id_][autore][macroetichetta]
                 )
-                R_i = 6 - C_i
+                R_i = NUMAUTORI - C_i
                 problematicita[etichetta]["PR_L"] += R_i
             problematicita[etichetta]["PR_L"] /= values["R"]
 
@@ -270,14 +272,14 @@ def calcola_problematicita(data):
 etichette_problematicita = calcola_problematicita(data)
 
 # Stampa dei risultati
-print()
-print("========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
+
+print("\n\n========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
 for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: x[1]["PR_L"], reverse=True):
     print(f"{etichetta:<70} {values['R']:>5} {values['PR_L']:>10.2f}")
 
 # Problematicità per ogni risposta separatamente per d1, d2, d3
 for level in data.keys():  # Iterate over d1, d2, d3
-    print(f"========== Problematicità per {level.upper()}")
+    print(f"\n\n========== Problematicità per {level.upper()}")
     for T in ids:
         Q = set()
         for autore in autori_file.keys():
@@ -293,7 +295,7 @@ for level in data.keys():  # Iterate over d1, d2, d3
                 if any(etichetta_i in data[level][T][autore][macroetichetta]
                        for macroetichetta in data[level][T][autore])
             )
-            T_i = 6 - C_i
+            T_i = NUMAUTORI - C_i
             problematicita_T += T_i
 
         PR_T = problematicita_T / len(Q) if Q else None
