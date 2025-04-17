@@ -1,6 +1,7 @@
 import pandas as pd
 import openpyxl
 import pprint
+import sys
 from collections import Counter
 
 # def confronta(a1, a2, a3, a4, a5, a6):
@@ -273,9 +274,22 @@ etichette_problematicita = calcola_problematicita(data)
 
 # Stampa dei risultati
 
+output_file = open("problematicita_etichette.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
+
 print("\n\n========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
 for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: x[1]["PR_L"], reverse=True):
     print(f"{etichetta:<70} {values['R']:>5} {values['PR_L']:>10.2f}")
+
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
+
+
+output_file = open("problematicita_domande.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
 
 # Problematicità per ogni risposta separatamente per d1, d2, d3
 for level in data.keys():  # Iterate over d1, d2, d3
@@ -300,3 +314,7 @@ for level in data.keys():  # Iterate over d1, d2, d3
 
         PR_T = problematicita_T / len(Q) if Q else None
         print(f"Risposta {T}: Problematicità {PR_T}")
+
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
