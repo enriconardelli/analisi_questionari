@@ -1,0 +1,263 @@
+Domanda1
+  materiali/strumenti fisici
+    altri materiali
+    carta / cartoncino
+    carte / blocchi di programmazione
+    corpo
+    dalla piattaforma
+    ETICHETTE AGGIUNTE
+    griglia/ scacchiera
+    libri
+    LIM
+    mani
+    occhi
+    PC / tablet
+    penn/arelli cancellini
+    retta dei numeri
+    robot
+    segnalini
+  attività
+    algoritmi
+    altre attività
+    aritmetica
+    attività unplugged
+    cicli
+    coding
+    coding unplugged
+    dalla piattaforma (attività)
+    decomposizione
+    diagramma di flusso
+    ETICHETTE AGGIUNTE2
+    geografia
+    geometria
+    giochi disciplinari interattivi / attività ludiche
+    istruzioni condizionali
+    ludico-motoria2
+    misure
+    origami
+    percorsi
+    pixel art
+    presentazione di una regione
+    programmazione
+    ricerca di informazioni
+    scienza
+    sequenza
+    sperimentazione
+    storytelling
+    sviluppo contenuti2
+    sviluppo iterativo
+    uso della tecnologia
+    variabili
+    verifica e correzione
+  obiettivo riferito a domande successive
+    capacità di narrazione
+    conversazione collaborativa / collaborazione
+    ETICHETTE AGGIUNTE3
+    pensiero computazionale
+    pensiero creativo
+    pensiero critico
+    pianificazione
+    rianalizzare
+    risoluzione di problemi
+    sviluppo contenuti
+    uso della tecnologia2
+    videoscrittura
+    videotutorial
+  piattaforma/ ambiente
+    BeeBot
+    BlueBot
+    Code.org
+    Cody Roby
+    Common Sense Selection
+    ETICHETTE AGGIUNTE4
+    Geogebra
+    Gworkspace
+    Kahoot
+    Lego
+    Lego (dedotta da link inserita in altre risposte)
+    mTiny
+    programma il futuro
+    Scratch
+    web
+    Zaply
+  dettagli piattaforma/ ambiente
+    Classroom
+    corso 2
+    corso B
+    corso C (2021)
+    corso D (2021)
+    ETICHETTE AGGIUNTE5
+    GMail
+    GSlides
+    Labor. Artista
+  metodologia?
+    ETICHETTE AGGIUNTE6
+    forse (vago)
+    Sì
+Domanda 2
+  obiettivi disciplinari
+    algoritmi quotidiani
+    automatizzazione risoluzione di problemi
+    cicli
+    coding
+    concetti base della programmazione
+    conoscere le istruzioni del linguaggio
+    consapevolezza digitale
+    descrizioni algoritmiche
+    esecuzione di istruzioni
+    ETICHETTE AGGIUNTE
+    generalizzazione processo di soluzione
+    informatica
+    linguaggio formale
+    logica/ pensiero logico/ competenze logiche
+    pensiero computazionale
+    problem posing computazionale
+    problem solving
+    programmazione
+    programmazione per la risoluzione di problemi
+    scelta degli strumenti
+    scrittura e uso di diagrammi di flusso
+    sequenza
+    soluzioni algoritmiche
+    verifica/ correzione di programmi
+  risposta generica 2
+    ETICHETTE AGGIUNTE2
+    generico
+    vuoto
+  focus
+    contenuto
+    ETICHETTE AGGIUNTE3
+    insegnante
+    studente
+  abilità strumentali digitali
+    alfabetizzazione digitale
+    animazione digitale
+    ETICHETTE AGGIUNTE4
+    narrazione digitale
+    ricerca di informazioni su Internet
+    uso consapevole/critico della tecnologia/rete
+    uso dei mezzi di comunicazione
+    uso della tecnologia
+    uso di giochi didattici
+    uso di Internet
+    utilizzo di robot
+    videoscrittura
+  obiettivi trasversali
+    analizzare oggetti
+    autonomia
+    calcolare
+    coding per matematica
+    collaborazione/ lavoro squadra
+    competenze narrative
+    comunicazione con linguaggio specifico
+    concetti matematici
+    creatività
+    descrizione di strategie
+    ETICHETTE AGGIUNTE5
+    gioco
+    imparare a ragionare
+    interdisciplinarietà
+    migliorare oggetti
+    orientamento spaziale
+    pensiero astratto
+    pianificare fabbricazione oggetti
+    ragionamento
+    ragionamento logico
+    responsabilità
+    riconoscere difetti
+    smontare oggetti
+    uso trasversale del PeCo
+  ambiguità
+     comprensione dei comandi di progrmmazione
+    coniugare informatica e pratica
+    ETICHETTE AGGIUNTE6
+    modalità giocosa
+    progettare un percorso
+    progettazione robotica
+    svolgere (?) algoritmi
+Domanda 3
+  soft skills e metacognizione
+    analizzare processi
+    capacità di previsione
+    capacità relazionali
+    collaborazione
+    comprensione di istruzioni
+    comunicare con linguaggi specifici per la situazione
+    cooperative learning
+    documentare attività svolte
+    esprimersi correttamente2
+    ETICHETTE AGGIUNTE
+    formulazione di domande
+    formulazione di ipotesi
+    imparare a imparare
+    osservazione, memoria, analisi
+    pensiero creativo
+    pensiero critico
+    pensiero divergente
+    pensiero logico
+    precisione / rigore
+    presentare in modo esplicativo
+    rielaborazione dei saperi
+    riflettere sull'esperienza
+    risoluzione di problemi
+    spirito di iniziativa
+    valutazione attendibilità informazioni
+  interdisciplinarieta
+    alfabetico-funzionale
+    altre discipline
+    ascolto e parlato
+    contorno di figura piana
+    educazione civica
+    esplorare e descrivere oggetti e materiali
+    ETICHETTE AGGIUNTE2
+    geografia
+    geometria
+    italiano
+    lato
+    lingua straniera
+    matematica
+    modelli geometrici
+    movimenti del corpo al ritmo della musica
+    operazioni retta dei numeri
+    orientamento spaziale
+    rappresentazione dei dati
+    riferimenti spaziali/ indicatori topologici
+    scienze
+    scrittura
+    sequenzialità
+    spazio e figure
+    storia
+    tecnologia
+  riferito a domanda precedente
+    alfabetizzazione digitale
+    analisi dati e organizzazione
+    coding
+    competenze digitali
+    concetti base della programmazione
+    decomposizione
+    descrizione algoritmica di processi concreti
+    ETICHETE AGGIUNTE
+    manipolazione
+    modellazione dell'informazione
+    narrazione digitale con programmazione
+    obiettivi piattaforma
+    pixel art
+    potenzialità del linguaggio informatico di descrivere altre attività
+    programmazione
+    programmazione di robot
+    rappresentare processi mediante modelli logici
+    rappresentazione dei dati/ informazione
+    risoluzione computazionale di problemi
+    robotica educativa
+    scelta degli strumenti
+    sequenza
+    soluzioni algoritmiche
+    uso consapevole della tecnologia
+    uso di siti web
+    uso sicuro della tecnologia
+    verifica/ correzione errori
+  risposta generica 3
+    copia-incolla risposta 2
+    ETICHETTE AGGIUNTE3
+    generico
+    vuoto

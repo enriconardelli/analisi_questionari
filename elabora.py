@@ -71,10 +71,19 @@ def print_etichette_complesse_as_tree(etichette_complesse):
         print(domanda)
         for key, values in keys.items():
             print(f"  {key}")
-            for value in values:
+            sorted_values = sorted(values, key=lambda x: x.lower()) # Sort values alphabetically
+            for value in sorted_values:
                 print(f"    {value}")
 
+output_file = open("categorie+etichette.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
+
 print_etichette_complesse_as_tree(etichette_complesse)
+
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
 
 
 d1 = {}
