@@ -73,7 +73,7 @@ def print_etichette_complesse_as_tree(etichette_complesse):
             for value in values:
                 print(f"    {value}")
 
-print_etichette_complesse_as_tree(etichette_complesse)
+#print_etichette_complesse_as_tree(etichette_complesse)
 
 
 d1 = {}
@@ -170,6 +170,24 @@ for id_ in ids:
 
 data = {"d1": d1, "d2": d2, "d3": d3}
 
+etichette_dict = {}
+
+for level, level_data in data.items():  # Iterate over d1, d2, d3
+    etichette_dict[level] = {}
+    for id_, autori in level_data.items():
+        for autore, macroetichetta_dict in autori.items():
+            for macroetichetta, etichette in macroetichetta_dict.items():
+                if isinstance(etichette, set):
+                    if macroetichetta not in etichette_dict[level]:
+                        etichette_dict[level][macroetichetta] = set()
+                    etichette_dict[level][macroetichetta].update(etichette)
+
+#print("!!!!!!!!!!!!!!!!!!!!", etichette_dict)
+
+
+
+#print("!!!!!!!!!!!!!!!!!!!! dizionario data", data)
+
 # Function to count occurrences of all etichette in a nested dictionary
 def count_etichette(data):
     counter = Counter()
@@ -184,7 +202,7 @@ def count_etichette(data):
 # Get the count of all etichette as a dictionary
 etichette_count = dict(count_etichette(data))
 # Print the resulting dictionary for verification
-#pprint.pprint(etichette_count)
+# pprint.pprint(etichette_count)
 
 # def count_etichette_advanced(data, etichette_count):
 #     data_with_count = {}
@@ -240,31 +258,53 @@ for level, macroetichetta_dict in label_tree.items():
             print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
 
 
-# Calcolo della "problematicità" delle etichette
+
+
+
 # Calcolo della "problematicità" delle etichette
 def calcola_problematicita(data):
     problematicita = {}
-    for level, level_data in data.items():  # Iterate over d1, d2, d3
-        for id_, autori in level_data.items():
-            for autore, macroetichetta_dict in autori.items():
-                for macroetichetta, etichette in macroetichetta_dict.items():
-                    if isinstance(etichette, set):
-                        for etichetta in etichette:
-                            if etichetta not in problematicita:
-                                problematicita[etichetta] = {"R": 0}
-                            problematicita[etichetta]["R"] += 1
+    # for level, level_data in data.items():  # Iterate over d1, d2, d3
+    #     for id_, autori in level_data.items():
+    #         for autore, macroetichetta_dict in autori.items():
+    #             for macroetichetta, etichette in macroetichetta_dict.items():
+    #                 if isinstance(etichette, set):
+    #                     for etichetta in etichette:
+    #                         if etichetta not in problematicita:
+    #                             problematicita[etichetta] = {"R": 0}
+    #                         problematicita[etichetta]["R"] += 1
 
-    for etichetta, values in problematicita.items():
-        for i in ids:
-            problematicita[etichetta]["PR_L"] = 0
-            for id_ in ids:
-                C_i = sum(
-                    1 for autore in autori_file.keys()
-                    if etichetta in level_data[id_][autore][macroetichetta]
-                )
-                R_i = NUMAUTORI - C_i
-                problematicita[etichetta]["PR_L"] += R_i
-            problematicita[etichetta]["PR_L"] /= values["R"]
+
+
+
+    for domanda in etichette_dict:
+        for macroetichetta in etichette_dict[domanda]:
+            for etichetta in etichette_dict[domanda][macroetichetta]:        
+                problematicita[etichetta] = {"R": 0}
+                d1 = data[domanda]
+                for id_ in d1:
+                    conta = False
+                    for autore in d1[id_]:
+                        if etichetta in d1[id_][autore][macroetichetta]:
+                            conta = True
+                    if conta:
+                        problematicita[etichetta]["R"] += 1 
+    
+    #print(problematicita)
+
+    for etichetta, indici in problematicita.items():
+        problematicita[etichetta]["PR_L"] = 0
+        for domanda in data:
+            for i in data[domanda]:
+                C_i = 0
+                for autore in data[domanda][i]:
+                    for macroetichetta in data[domanda][i][autore]:
+                        if etichetta in data[domanda][i][autore][macroetichetta]:
+                            C_i += 1
+                if C_i > 0:
+                    R_i = NUMAUTORI - C_i
+                    problematicita[etichetta]["PR_L"] += R_i
+        problematicita[etichetta]["PR_L"] /= indici["R"]
 
     return problematicita
 
@@ -300,3 +340,13 @@ for level in data.keys():  # Iterate over d1, d2, d3
 
         PR_T = problematicita_T / len(Q) if Q else None
         print(f"Risposta {T}: Problematicità {PR_T}")
+
+
+print(f"\n\n========== Per ogni domanda, categoria, etichetta in alfabetico: numero di occorrenze e problematicità")
+for level, macroetichetta_dict in label_tree.items():
+    print(level.upper())
+    for macroetichetta, etichette in macroetichetta_dict.items():
+        print(f"  {macroetichetta}")
+        for etichetta, count in sorted(etichette.items(), key=lambda x: x[0].lower(), reverse=False):
+            normalized_count = count / NUMAUTORI
+            print(f"    {etichetta:<70} {count:>5} {etichette_problematicita[etichetta]['PR_L']:>10.2f}")
