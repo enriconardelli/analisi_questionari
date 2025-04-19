@@ -1,189 +1,623 @@
 
 
-========== Problematicit‡ per D1
-Risposta 631: Problematicit‡ 0.0
-Risposta 636: Problematicit‡ 0.0
-Risposta 638: Problematicit‡ 0.0
-Risposta 643: Problematicit‡ 0.0
-Risposta 646: Problematicit‡ 0.0
-Risposta 652: Problematicit‡ 0.0
-Risposta 654: Problematicit‡ 0.0
-Risposta 658: Problematicit‡ 0.0
-Risposta 659: Problematicit‡ 0.0
-Risposta 662: Problematicit‡ 0.0
-Risposta 668: Problematicit‡ 0.0
-Risposta 680: Problematicit‡ 0.0
-Risposta 681: Problematicit‡ 0.0
-Risposta 682: Problematicit‡ 0.0
-Risposta 688: Problematicit‡ 0.0
-Risposta 690: Problematicit‡ 0.0
-Risposta 698: Problematicit‡ 0.0
-Risposta 706: Problematicit‡ 0.0
-Risposta 717: Problematicit‡ 0.0
-Risposta 722: Problematicit‡ 0.0
-Risposta 723: Problematicit‡ 0.0
-Risposta 728: Problematicit‡ 0.0
-Risposta 730: Problematicit‡ 0.0
-Risposta 736: Problematicit‡ 0.0
-Risposta 738: Problematicit‡ 0.0
-Risposta 740: Problematicit‡ 0.0
-Risposta 744: Problematicit‡ 0.0
-Risposta 745: Problematicit‡ 0.0
-Risposta 747: Problematicit‡ 0.0
-Risposta 749: Problematicit‡ 0.0
-Risposta 756: Problematicit‡ 0.0
-Risposta 759: Problematicit‡ 0.0
-Risposta 766: Problematicit‡ 0.0
-Risposta 767: Problematicit‡ 0.0
-Risposta 773: Problematicit‡ 0.0
-Risposta 774: Problematicit‡ 0.0
-Risposta 779: Problematicit‡ 0.0
-Risposta 784: Problematicit‡ 0.0
-Risposta 788: Problematicit‡ 0.0
-Risposta 791: Problematicit‡ 0.0
-Risposta 548: Problematicit‡ 4.166666666666667
-Risposta 550: Problematicit‡ 3.9411764705882355
-Risposta 553: Problematicit‡ 3.28
-Risposta 556: Problematicit‡ 3.6315789473684212
-Risposta 569: Problematicit‡ 2.1666666666666665
-Risposta 570: Problematicit‡ 4.882352941176471
-Risposta 572: Problematicit‡ 2.6666666666666665
-Risposta 580: Problematicit‡ 3.772727272727273
-Risposta 581: Problematicit‡ 3.5714285714285716
-Risposta 582: Problematicit‡ 3.75
-Risposta 584: Problematicit‡ 2.823529411764706
-Risposta 589: Problematicit‡ 3.2857142857142856
-Risposta 603: Problematicit‡ 3.3333333333333335
-Risposta 605: Problematicit‡ 3.4444444444444446
-Risposta 607: Problematicit‡ 3.8292682926829267
-Risposta 612: Problematicit‡ 3.263157894736842
-Risposta 613: Problematicit‡ 4.066666666666666
-Risposta 617: Problematicit‡ 3.5
-Risposta 626: Problematicit‡ 3.5
-Risposta 629: Problematicit‡ 3.6206896551724137
+========== Problematicit√† per D1
+Risposta 631: Problematicit√† 0.0
+Risposta 636: Problematicit√† 0.0
+Risposta 638: Problematicit√† 0.0
+Risposta 643: Problematicit√† 0.0
+Risposta 646: Problematicit√† 0.0
+Risposta 652: Problematicit√† 0.0
+Risposta 654: Problematicit√† 0.0
+Risposta 658: Problematicit√† 0.0
+Risposta 659: Problematicit√† 0.0
+Risposta 662: Problematicit√† 0.0
+Risposta 668: Problematicit√† 0.0
+Risposta 680: Problematicit√† 0.0
+Risposta 681: Problematicit√† 0.0
+Risposta 682: Problematicit√† 0.0
+Risposta 688: Problematicit√† 0.0
+Risposta 690: Problematicit√† 0.0
+Risposta 698: Problematicit√† 0.0
+Risposta 706: Problematicit√† 0.0
+Risposta 717: Problematicit√† 0.0
+Risposta 722: Problematicit√† 0.0
+Risposta 723: Problematicit√† 0.0
+Risposta 728: Problematicit√† 0.0
+Risposta 730: Problematicit√† 0.0
+Risposta 736: Problematicit√† 0.0
+Risposta 738: Problematicit√† 0.0
+Risposta 740: Problematicit√† 0.0
+Risposta 744: Problematicit√† 0.0
+Risposta 745: Problematicit√† 0.0
+Risposta 747: Problematicit√† 0.0
+Risposta 749: Problematicit√† 0.0
+Risposta 756: Problematicit√† 0.0
+Risposta 759: Problematicit√† 0.0
+Risposta 766: Problematicit√† 0.0
+Risposta 767: Problematicit√† 0.0
+Risposta 773: Problematicit√† 0.0
+Risposta 774: Problematicit√† 0.0
+Risposta 779: Problematicit√† 0.0
+Risposta 784: Problematicit√† 0.0
+Risposta 788: Problematicit√† 0.0
+Risposta 791: Problematicit√† 0.0
+Risposta 548: Problematicit√† 4.166666666666667
+Risposta 550: Problematicit√† 3.9411764705882355
+Risposta 553: Problematicit√† 3.28
+Risposta 556: Problematicit√† 3.6315789473684212
+Risposta 569: Problematicit√† 2.1666666666666665
+Risposta 570: Problematicit√† 4.882352941176471
+Risposta 572: Problematicit√† 2.6666666666666665
+Risposta 580: Problematicit√† 3.772727272727273
+Risposta 581: Problematicit√† 3.5714285714285716
+Risposta 582: Problematicit√† 3.75
+Risposta 584: Problematicit√† 2.823529411764706
+Risposta 589: Problematicit√† 3.2857142857142856
+Risposta 603: Problematicit√† 3.3333333333333335
+Risposta 605: Problematicit√† 3.4444444444444446
+Risposta 607: Problematicit√† 3.8292682926829267
+Risposta 612: Problematicit√† 3.263157894736842
+Risposta 613: Problematicit√† 4.066666666666666
+Risposta 617: Problematicit√† 3.5
+Risposta 626: Problematicit√† 3.5
+Risposta 629: Problematicit√† 3.6206896551724137
 
 
-========== Problematicit‡ per D2
-Risposta 631: Problematicit‡ 0.0
-Risposta 636: Problematicit‡ 0.0
-Risposta 638: Problematicit‡ 0.0
-Risposta 643: Problematicit‡ 0.0
-Risposta 646: Problematicit‡ 0.0
-Risposta 652: Problematicit‡ 0.0
-Risposta 654: Problematicit‡ 0.0
-Risposta 658: Problematicit‡ 0.0
-Risposta 659: Problematicit‡ 0.0
-Risposta 662: Problematicit‡ 0.0
-Risposta 668: Problematicit‡ 0.0
-Risposta 680: Problematicit‡ 0.0
-Risposta 681: Problematicit‡ 0.0
-Risposta 682: Problematicit‡ 0.0
-Risposta 688: Problematicit‡ 0.0
-Risposta 690: Problematicit‡ 0.0
-Risposta 698: Problematicit‡ 0.0
-Risposta 706: Problematicit‡ 0.0
-Risposta 717: Problematicit‡ 0.0
-Risposta 722: Problematicit‡ 0.0
-Risposta 723: Problematicit‡ 0.0
-Risposta 728: Problematicit‡ 0.0
-Risposta 730: Problematicit‡ 0.0
-Risposta 736: Problematicit‡ 0.0
-Risposta 738: Problematicit‡ 0.0
-Risposta 740: Problematicit‡ 0.0
-Risposta 744: Problematicit‡ 0.0
-Risposta 745: Problematicit‡ 0.0
-Risposta 747: Problematicit‡ 0.0
-Risposta 749: Problematicit‡ 0.0
-Risposta 756: Problematicit‡ 0.0
-Risposta 759: Problematicit‡ 0.0
-Risposta 766: Problematicit‡ 0.0
-Risposta 767: Problematicit‡ 0.0
-Risposta 773: Problematicit‡ 0.0
-Risposta 774: Problematicit‡ 0.0
-Risposta 779: Problematicit‡ 0.0
-Risposta 784: Problematicit‡ 0.0
-Risposta 788: Problematicit‡ 0.0
-Risposta 791: Problematicit‡ 0.0
-Risposta 548: Problematicit‡ 4.615384615384615
-Risposta 550: Problematicit‡ 3.125
-Risposta 553: Problematicit‡ 3.5
-Risposta 556: Problematicit‡ 4.111111111111111
-Risposta 569: Problematicit‡ 3.0
-Risposta 570: Problematicit‡ 4.0
-Risposta 572: Problematicit‡ 3.625
-Risposta 580: Problematicit‡ 3.0
-Risposta 581: Problematicit‡ 2.4
-Risposta 582: Problematicit‡ 3.9
-Risposta 584: Problematicit‡ 3.375
-Risposta 589: Problematicit‡ 3.625
-Risposta 603: Problematicit‡ 2.75
-Risposta 605: Problematicit‡ 3.5
-Risposta 607: Problematicit‡ 3.7
-Risposta 612: Problematicit‡ 2.2
-Risposta 613: Problematicit‡ 3.6666666666666665
-Risposta 617: Problematicit‡ 3.6
-Risposta 626: Problematicit‡ 3.4285714285714284
-Risposta 629: Problematicit‡ 3.5
+========== Problematicit√† per D2
+Risposta 631: Problematicit√† 0.0
+Risposta 636: Problematicit√† 0.0
+Risposta 638: Problematicit√† 0.0
+Risposta 643: Problematicit√† 0.0
+Risposta 646: Problematicit√† 0.0
+Risposta 652: Problematicit√† 0.0
+Risposta 654: Problematicit√† 0.0
+Risposta 658: Problematicit√† 0.0
+Risposta 659: Problematicit√† 0.0
+Risposta 662: Problematicit√† 0.0
+Risposta 668: Problematicit√† 0.0
+Risposta 680: Problematicit√† 0.0
+Risposta 681: Problematicit√† 0.0
+Risposta 682: Problematicit√† 0.0
+Risposta 688: Problematicit√† 0.0
+Risposta 690: Problematicit√† 0.0
+Risposta 698: Problematicit√† 0.0
+Risposta 706: Problematicit√† 0.0
+Risposta 717: Problematicit√† 0.0
+Risposta 722: Problematicit√† 0.0
+Risposta 723: Problematicit√† 0.0
+Risposta 728: Problematicit√† 0.0
+Risposta 730: Problematicit√† 0.0
+Risposta 736: Problematicit√† 0.0
+Risposta 738: Problematicit√† 0.0
+Risposta 740: Problematicit√† 0.0
+Risposta 744: Problematicit√† 0.0
+Risposta 745: Problematicit√† 0.0
+Risposta 747: Problematicit√† 0.0
+Risposta 749: Problematicit√† 0.0
+Risposta 756: Problematicit√† 0.0
+Risposta 759: Problematicit√† 0.0
+Risposta 766: Problematicit√† 0.0
+Risposta 767: Problematicit√† 0.0
+Risposta 773: Problematicit√† 0.0
+Risposta 774: Problematicit√† 0.0
+Risposta 779: Problematicit√† 0.0
+Risposta 784: Problematicit√† 0.0
+Risposta 788: Problematicit√† 0.0
+Risposta 791: Problematicit√† 0.0
+Risposta 548: Problematicit√† 4.615384615384615
+Risposta 550: Problematicit√† 3.125
+Risposta 553: Problematicit√† 3.5
+Risposta 556: Problematicit√† 4.111111111111111
+Risposta 569: Problematicit√† 3.0
+Risposta 570: Problematicit√† 4.0
+Risposta 572: Problematicit√† 3.625
+Risposta 580: Problematicit√† 3.0
+Risposta 581: Problematicit√† 2.4
+Risposta 582: Problematicit√† 3.9
+Risposta 584: Problematicit√† 3.375
+Risposta 589: Problematicit√† 3.625
+Risposta 603: Problematicit√† 2.75
+Risposta 605: Problematicit√† 3.5
+Risposta 607: Problematicit√† 3.7
+Risposta 612: Problematicit√† 2.2
+Risposta 613: Problematicit√† 3.6666666666666665
+Risposta 617: Problematicit√† 3.6
+Risposta 626: Problematicit√† 3.4285714285714284
+Risposta 629: Problematicit√† 3.5
 
 
-========== Problematicit‡ per D3
-Risposta 631: Problematicit‡ 0.0
-Risposta 636: Problematicit‡ 0.0
-Risposta 638: Problematicit‡ 0.0
-Risposta 643: Problematicit‡ 0.0
-Risposta 646: Problematicit‡ 0.0
-Risposta 652: Problematicit‡ 0.0
-Risposta 654: Problematicit‡ 0.0
-Risposta 658: Problematicit‡ 0.0
-Risposta 659: Problematicit‡ 0.0
-Risposta 662: Problematicit‡ 0.0
-Risposta 668: Problematicit‡ 0.0
-Risposta 680: Problematicit‡ 0.0
-Risposta 681: Problematicit‡ 0.0
-Risposta 682: Problematicit‡ 0.0
-Risposta 688: Problematicit‡ 0.0
-Risposta 690: Problematicit‡ 0.0
-Risposta 698: Problematicit‡ 0.0
-Risposta 706: Problematicit‡ 0.0
-Risposta 717: Problematicit‡ 0.0
-Risposta 722: Problematicit‡ 0.0
-Risposta 723: Problematicit‡ 0.0
-Risposta 728: Problematicit‡ 0.0
-Risposta 730: Problematicit‡ 0.0
-Risposta 736: Problematicit‡ 0.0
-Risposta 738: Problematicit‡ 0.0
-Risposta 740: Problematicit‡ 0.0
-Risposta 744: Problematicit‡ 0.0
-Risposta 745: Problematicit‡ 0.0
-Risposta 747: Problematicit‡ 0.0
-Risposta 749: Problematicit‡ 0.0
-Risposta 756: Problematicit‡ 0.0
-Risposta 759: Problematicit‡ 0.0
-Risposta 766: Problematicit‡ 0.0
-Risposta 767: Problematicit‡ 0.0
-Risposta 773: Problematicit‡ 0.0
-Risposta 774: Problematicit‡ 0.0
-Risposta 779: Problematicit‡ 0.0
-Risposta 784: Problematicit‡ 0.0
-Risposta 788: Problematicit‡ 0.0
-Risposta 791: Problematicit‡ 0.0
-Risposta 548: Problematicit‡ 4.0
-Risposta 550: Problematicit‡ 1.0
-Risposta 553: Problematicit‡ 3.9375
-Risposta 556: Problematicit‡ 3.7142857142857144
-Risposta 569: Problematicit‡ 1.0
-Risposta 570: Problematicit‡ 4.375
-Risposta 572: Problematicit‡ 2.6666666666666665
-Risposta 580: Problematicit‡ 1.0
-Risposta 581: Problematicit‡ 3.6
-Risposta 582: Problematicit‡ 3.7142857142857144
-Risposta 584: Problematicit‡ 3.75
-Risposta 589: Problematicit‡ 4.285714285714286
-Risposta 603: Problematicit‡ 0.0
-Risposta 605: Problematicit‡ 2.5
-Risposta 607: Problematicit‡ 4.1
-Risposta 612: Problematicit‡ 3.75
-Risposta 613: Problematicit‡ 0.0
-Risposta 617: Problematicit‡ 0.0
-Risposta 626: Problematicit‡ 4.5
-Risposta 629: Problematicit‡ 3.8
+========== Problematicit√† per D3
+Risposta 631: Problematicit√† 0.0
+Risposta 636: Problematicit√† 0.0
+Risposta 638: Problematicit√† 0.0
+Risposta 643: Problematicit√† 0.0
+Risposta 646: Problematicit√† 0.0
+Risposta 652: Problematicit√† 0.0
+Risposta 654: Problematicit√† 0.0
+Risposta 658: Problematicit√† 0.0
+Risposta 659: Problematicit√† 0.0
+Risposta 662: Problematicit√† 0.0
+Risposta 668: Problematicit√† 0.0
+Risposta 680: Problematicit√† 0.0
+Risposta 681: Problematicit√† 0.0
+Risposta 682: Problematicit√† 0.0
+Risposta 688: Problematicit√† 0.0
+Risposta 690: Problematicit√† 0.0
+Risposta 698: Problematicit√† 0.0
+Risposta 706: Problematicit√† 0.0
+Risposta 717: Problematicit√† 0.0
+Risposta 722: Problematicit√† 0.0
+Risposta 723: Problematicit√† 0.0
+Risposta 728: Problematicit√† 0.0
+Risposta 730: Problematicit√† 0.0
+Risposta 736: Problematicit√† 0.0
+Risposta 738: Problematicit√† 0.0
+Risposta 740: Problematicit√† 0.0
+Risposta 744: Problematicit√† 0.0
+Risposta 745: Problematicit√† 0.0
+Risposta 747: Problematicit√† 0.0
+Risposta 749: Problematicit√† 0.0
+Risposta 756: Problematicit√† 0.0
+Risposta 759: Problematicit√† 0.0
+Risposta 766: Problematicit√† 0.0
+Risposta 767: Problematicit√† 0.0
+Risposta 773: Problematicit√† 0.0
+Risposta 774: Problematicit√† 0.0
+Risposta 779: Problematicit√† 0.0
+Risposta 784: Problematicit√† 0.0
+Risposta 788: Problematicit√† 0.0
+Risposta 791: Problematicit√† 0.0
+Risposta 548: Problematicit√† 4.0
+Risposta 550: Problematicit√† 1.0
+Risposta 553: Problematicit√† 3.9375
+Risposta 556: Problematicit√† 3.7142857142857144
+Risposta 569: Problematicit√† 1.0
+Risposta 570: Problematicit√† 4.375
+Risposta 572: Problematicit√† 2.6666666666666665
+Risposta 580: Problematicit√† 1.0
+Risposta 581: Problematicit√† 3.6
+Risposta 582: Problematicit√† 3.7142857142857144
+Risposta 584: Problematicit√† 3.75
+Risposta 589: Problematicit√† 4.285714285714286
+Risposta 603: Problematicit√† 0.0
+Risposta 605: Problematicit√† 2.5
+Risposta 607: Problematicit√† 4.1
+Risposta 612: Problematicit√† 3.75
+Risposta 613: Problematicit√† 0.0
+Risposta 617: Problematicit√† 0.0
+Risposta 626: Problematicit√† 4.5
+Risposta 629: Problematicit√† 3.8
+
+
+========== Per ogni domanda, categoria, etichetta in alfabetico: numero di occorrenze e problematicit√†
+D1
+  materiali/strumenti fisici
+    altri materiali                                                            1       5.00
+    carta / cartoncino                                                        69       1.07
+    carta / cartoncino-dedot                                                  14       2.50
+    carte / blocchi di programmazione                                         45       1.00
+    carte / blocchi di programmazione-dedot                                    1       5.00
+    corpo                                                                     10       2.67
+    corpo-dedot                                                               13       1.67
+    dalla piattaforma                                                         16       3.33
+    dalla piattaforma-???????                                                 12       0.00
+    griglia/ scacchiera                                                       35       1.00
+    griglia/ scacchiera-dedot                                                  2       4.00
+    libri                                                                     12       0.00
+    LIM                                                                       53       0.11
+    mani                                                                       6       0.00
+    occhi                                                                      6       0.00
+    Pavimento                                                                  1       5.00
+    PC / tablet                                                               84       0.75
+    PC / tablet-dedot                                                        124       1.41
+    penn/arelli cancellini                                                    24       2.00
+    quaderno                                                                   3       4.50
+    retta dei numeri                                                           6       0.00
+    robot                                                                     82       0.14
+    schede                                                                     1       5.00
+    segnalini                                                                  7       2.50
+    slide                                                                      3       3.00
+    slide su internet e personali                                              1       5.00
+    tappeto                                                                    5       3.50
+  attivit√†
+    1coding unplugged                                                          1       5.00
+    2coding                                                                    1       5.00
+    AI                                                                         1       5.00
+    algoritmi                                                                 16       0.67
+    aritmetica                                                                 6       0.00
+    attivit√† unplugged                                                        35       1.62
+    attivit√† unplugged-dedot                                                  19       1.25
+    cicli                                                                     19       2.50
+    coding                                                                   139      53.00
+    coding analogico                                                           1       5.00
+    coding unplugged                                                          48       2.31
+    costruzione mappe                                                          1       5.00
+    dalla piattaforma (attivit√†)                                              28       2.89
+    dalla piattaforma (attivit√†)-???????                                      18       0.00
+    dalla piattaforma (attivit√†)-dedot                                         1       5.00
+    decomposizione-dedot                                                       6       0.00
+    diagramma di flusso                                                       11       0.50
+    esecuzion e di istruzioni                                                  1       5.00
+    esecuzione                                                                 1       5.00
+    geografia                                                                 25       2.50
+    geometria                                                                 12       0.00
+    giochi disciplinari interattivi / attivit√† ludiche                        21       1.80
+    intelligenza artificiale                                                   2      10.00
+    istruzioni condizionali                                                    9       1.50
+    istruzioni di base                                                         2       4.00
+    labirinto                                                                  3       4.50
+    lettura codice                                                             1       5.00
+    lettura del codice                                                         1       5.00
+    lettura di codice                                                          1       5.00
+    lettura e scrittura del codice ?                                           1       5.00
+    ludico-motoria2                                                           10       3.50
+    ludico-motoria2-dedot                                                      1       5.00
+    misure                                                                     6       0.00
+    origami                                                                    6       0.00
+    percorsi                                                                  37       0.71
+    percorsi-dedot                                                             7       4.25
+    pixel art                                                                 30       0.00
+    presentazione di una regione                                              10       2.67
+    programmazione                                                           126      12.00
+    programmazione-dedot                                                     123       1.76
+    pseudo-linguaggio                                                          1       5.00
+    pseudolinguaggio                                                           1       5.00
+    ricerca di informazioni                                                   10       1.00
+    riferimenti topologici                                                     3       5.00
+    scienza                                                                   12       0.00
+    scrittura di codice                                                        1       5.00
+    sequenza                                                                  50       3.33
+    sequenza-dedot                                                            12       0.00
+    sperimentazione                                                            7       2.50
+    storytelling                                                              11       0.50
+    strutture dati                                                             4       2.00
+    sviluppo contenuti2                                                        8       2.00
+    sviluppo iterativo                                                         6       0.00
+    sviluppo iterativo-dedot                                                   6       0.00
+    technoclil                                                                 2       4.00
+    technoCLIL                                                                 2       4.00
+    tecno-CLIL                                                                 1       5.00
+    uso della tecnologia                                                      68       3.78
+    uso della tecnologia-dedot                                                 1       5.00
+    variabili                                                                  6       0.00
+    verifica e correzione                                                     44       1.11
+    videoscrittura                                                            30       2.00
+  obiettivo riferito a domande successive
+    2pensiero computazionale                                                  14       1.33
+    2rianalizzare                                                              6       0.00
+    2risoluzione di problemi                                                   6       0.00
+    2videoscrittura                                                            3       5.00
+    3capacit√† di narrazione                                                    7       2.50
+    3conversazione collaborativa / collaborazione                             13       1.67
+    3pensiero creativo                                                         6       0.00
+    3pensiero critico                                                          6       0.00
+    3pianificazione                                                            6       0.00
+    3risoluzione di problemi                                                   6       0.00
+    3videotutorial                                                             6       0.00
+    capacit√† di narrazione                                                     1       5.00
+    conteggio                                                                  1       5.00
+    conversazione collaborativa / collaborazione                               4       4.67
+    costruzione di mappe                                                       1       5.00
+    indicazioni topologiche                                                    1       5.00
+    lavoro in coppia                                                           1       5.00
+    mappe                                                                      1       5.00
+    orientamento                                                               1       5.00
+    orientamento spaziale                                                     62       1.78
+    pensiero computazionale                                                   81       1.00
+    pensiero critico                                                           7       5.00
+    presentazione                                                              1       5.00
+    sviluppo contenuti                                                         2       4.00
+    technoCLIL                                                                 2       4.00
+    uso della tecnologia2                                                      3       5.00
+    uso della tecnologia2-dedot                                                1       5.00
+    uso di app didattiche                                                      1       5.00
+    videoscrittura                                                            30       2.00
+  piattaforma/ ambiente
+    2Code.org                                                                  1       5.00
+    ? cita tutti robot                                                         1       5.00
+    BeeBot                                                                    46       0.25
+    BlueBot                                                                    6       0.00
+    Classroom                                                                  9       3.00
+    Code.org                                                                 111       0.45
+    Code.org-dedot                                                             2       5.00
+    Cody Roby                                                                 12       0.00
+    Common Sense Selection                                                     6       0.00
+    Cubetto                                                                    5       1.00
+    Cyber talk roboter                                                         2       4.00
+    Cyber Talk Roboter                                                         1       5.00
+    CyberTalk Roboter                                                          1       5.00
+    Cybertalk roboter                                                          1       5.00
+    dive                                                                       1       5.00
+    DOC                                                                        3       3.00
+    Doc                                                                        1       5.00
+    Geogebra                                                                   6       0.00
+    google disegni                                                             1       5.00
+    Google moduli                                                              2       4.00
+    Gworkspace                                                                10       2.67
+    Gworkspace-dedot                                                           1       5.00
+    Kahoot                                                                     6       0.00
+    Lego                                                                       6       0.00
+    Lego (dedotta da link inserita in altre risposte)                          6       0.00
+    Mind designer                                                              2       4.00
+    Mind Designer                                                              1       5.00
+    mind designer                                                              1       5.00
+    Minde Designer                                                             1       5.00
+    mTiny                                                                      6       0.00
+    Ozobot-bit                                                                 1       5.00
+    Ozobot-Bit                                                                 3       3.00
+    ozobot-Bit                                                                 1       5.00
+    programma il futuro                                                       36       0.86
+    robot DOC                                                                  1       5.00
+    Scratch                                                                   46       0.25
+    Super doc                                                                  2       4.00
+    Super DOC                                                                  1       5.00
+    Super Doc                                                                  1       5.00
+    SuperDOC                                                                   1       5.00
+    technoClil                                                                 1       5.00
+    web                                                                        6       0.00
+    word                                                                       1       5.00
+    Zaply                                                                      6       0.00
+  dettagli piattaforma/ ambiente
+    Classroom                                                                  9       3.00
+    collezionista                                                              2       5.00
+    conteggio con la collezionista                                             1       5.00
+    corso 2                                                                    6       0.00
+    corso B                                                                   12       0.00
+    corso C (2021)                                                             6       0.00
+    corso C lezione 5 la collezinista                                          1       5.00
+    corso D (2021)                                                             6       0.00
+    Corso F (2021)                                                             1       5.00
+    Gclassroom                                                                 1       5.00
+    GDisegni                                                                   1       5.00
+    GDrive                                                                     2       5.00
+    GMail                                                                      6       0.00
+    GModules                                                                   1       5.00
+    Gmoduli                                                                    2       4.00
+    Google Design                                                              1       5.00
+    Google Drive                                                               1       5.00
+    Google moduli                                                              2       4.00
+    GSlides                                                                    6       0.00
+    Gumball                                                                    3       4.50
+    IA per il mare                                                             1       5.00
+    intelligenza per mare                                                      1       5.00
+    labirinto                                                                  3       4.50
+    labirinto classico                                                         1       5.00
+    Labor. Artista                                                             6       0.00
+    Labor. Gumball                                                             1       5.00
+    laboratorio con Gumball                                                    2       4.00
+    lbirinto                                                                   1       5.00
+  metodologia?
+    forse (vago)                                                              60       2.67
+    S√¨                                                                        76       1.25
+D2
+  obiettivi disciplinari
+    abilit√† informatiche                                                       4       8.00
+    algoritmi quotidiani                                                       6       0.00
+    automatizzazione risoluzione di problemi                                   6       0.00
+    cicli                                                                     19       2.50
+    coding                                                                   139      53.00
+    concetti base della programmazione                                        30       3.00
+    conoscere le istruzioni del linguaggio                                     7       2.50
+    consapevolezza digitale                                                    7       2.50
+    decomposizione                                                            15       5.00
+    decomposizione in sottoproblemi                                            4       4.00
+    descrizioni algoritmiche                                                  12       0.00
+    esecuzione di istruzioni                                                  21       0.75
+    generalizzazione processo di soluzione                                     7       2.50
+    informatica                                                               19       1.25
+    intelligenza artificiale                                                   2      10.00
+    leggere comandi e trasforarli in output                                    1       5.00
+    linguaggio formale                                                         6       0.00
+    logica/ pensiero logico/ competenze logiche                               18       1.50
+    mettersi dal punto di vista dell'altro per input                           1       5.00
+    pensiero computazionale                                                   81       1.00
+    problem posing computazionale                                              6       0.00
+    problem solving                                                           80       1.00
+    progettazione                                                              3       3.00
+    programmazione                                                           126      12.00
+    programmazione per la risoluzione di problemi                             26       1.67
+    scelta degli strumenti                                                    17       0.50
+    scomposizione                                                              2       5.00
+    scomposizione problemi                                                     2       5.00
+    scrittura e uso di diagrammi di flusso                                    12       0.00
+    selezione                                                                  3       9.00
+    sequenza                                                                  50       3.33
+    soluzioni algoritmiche                                                    36       0.00
+    uso IA                                                                     1       5.00
+    utilizzare AI                                                              1       5.00
+    utilizzare codici e linguaggi diversi                                      1       5.00
+    verifica/ correzione di programmi                                         19       1.25
+  risposta generica 2
+    generico                                                                 133       7.00
+    vuoto                                                                     77       2.85
+  focus
+    contenuto                                                                 19       4.10
+    insegnante                                                                49       1.55
+    studente                                                                 200       1.00
+  abilit√† strumentali digitali
+    alfabetizzazione digitale                                                 36       6.00
+    animazione digitale                                                        7       2.50
+    narrazione digitale                                                        7       2.50
+    piattaforma di debate                                                      1       5.00
+    resposnsabilizzare                                                         1       5.00
+    ricerca di informazioni su Internet                                        6       0.00
+    uso consapevole/critico della tecnologia/rete                             12       0.00
+    uso dei mezzi di comunicazione                                             8       2.00
+    uso della tecnologia                                                      68       3.78
+    uso di giochi didattici                                                   10       1.00
+    uso di Internet                                                           12       0.00
+    videoscrittura                                                            30       2.00
+  obiettivi trasversali
+    ?                                                                          1      15.00
+    ?? mettere tutto?                                                          1       5.00
+    analizzare oggetti                                                         6       0.00
+    argomentare                                                                5       3.50
+    autoimprenditorialit√†                                                      2       4.00
+    autoimprenditoriali√†                                                       1       5.00
+    autoimprenditorialt√†                                                       1       5.00
+    autonomia                                                                 12       0.00
+    calcolare                                                                  6       0.00
+    coding per matematica                                                      6       0.00
+    collaborazione/ lavoro squadra                                            27       0.60
+    competenze narrative                                                       7       2.50
+    comunicare con tecnologia                                                  1       5.00
+    comunicazione con linguaggio specifico                                    12       2.00
+    comunicazione con linguaggio specifico-???????                             1       5.00
+    concetti matematici                                                        6       0.00
+    cooperative learning                                                      12       4.00
+    coping power                                                               2       4.00
+    creativit√†                                                                24       0.00
+    creazione di lezioni                                                       1       5.00
+    decomposizione in sottoproblemi                                            4       4.00
+    descrizione di strategie                                                   6       0.00
+    gioco                                                                      7       2.50
+    imparare a imparare                                                       17       2.33
+    imparare a ragionare                                                       7       2.50
+    inclusione                                                                 4       2.00
+    Inclusione                                                                 1       5.00
+    intelligenze multiple                                                      5       1.00
+    interdisciplinariet√†                                                       7       2.50
+    migliorare oggetti                                                         6       0.00
+    orientamento spaziale                                                     62       1.78
+    peer to peer                                                               2       4.00
+    pensiero astratto                                                          6       0.00
+    pianificare fabbricazione oggetti                                          6       0.00
+    progettazione                                                              3       3.00
+    ragionamento                                                               7       2.50
+    ragionamento logico                                                       27       0.60
+    responsabilit√†                                                             9       1.50
+    riconoscere difetti                                                        6       0.00
+    scaffolding                                                                2       4.00
+    smontare oggetti                                                           6       0.00
+    spirito di iniziativa                                                      7       5.00
+    uso trasversale del PeCo                                                   7       2.50
+  ambiguit√†
+    ambiguit√†                                                                  1       5.00
+    autoimprenditorialit√†                                                      2       4.00
+    coniugare informatica e pratica                                            6       0.00
+    coping power                                                               2       4.00
+    intelligenze multiple                                                      5       1.00
+    modalit√† giocosa                                                           6       0.00
+    peer to peer                                                               2       4.00
+    progettare un percorso                                                    12       0.00
+    Progettazione                                                              1       5.00
+    progettazione robotica                                                     6       0.00
+    scaffolding                                                                2       4.00
+    svolgere (?) algoritmi                                                     6       0.00
+    uso del pensiero computazionale per scolgere attivit√†                      1       5.00
+    utilizzando codici e linguaggi diversi                                     1       5.00
+D3
+  soft skills e metacognizione
+    analizzare processi                                                        8       2.00
+    apprendimento attraverso il gioco                                          1       5.00
+    approccio per tentativi ed errori                                          1       5.00
+    astrazione                                                                 1       5.00
+    astrazione/pensiero astratto                                               1       5.00
+    autocorrezione                                                             2       4.00
+    capacit√† di ascolto                                                        2       4.00
+    capacit√† di previsione                                                     6       0.00
+    capacit√† relazionali                                                      22       1.60
+    collaborazione                                                            42       0.00
+    competneze linguistiche                                                    1       5.00
+    comprensione del testo                                                     3       3.00
+    comprensione di istruzioni                                                 6       0.00
+    comprensione/analisi del problema                                          1       5.00
+    comunicare con linguaggi specifici per la situazione                      13       1.67
+    considerare diverse strategie risolutive                                   1       5.00
+    cooperative learning                                                      12       4.00
+    differenti strategire di risoluzione                                       1       5.00
+    documentare attivit√† svolte                                                6       0.00
+    empatia                                                                    4       4.00
+    esprimersi correttamente2                                                  9       3.75
+    formulazione di domande                                                    6       0.00
+    formulazione di ipotesi                                                   13       1.67
+    imparare a imparare                                                       17       2.33
+    imparare per errori                                                        1       5.00
+    osservazione, memoria, analisi                                             6       0.00
+    pensiero creativo                                                          6       0.00
+    pensiero critico                                                           7       5.00
+    pensiero critico-???????                                                   1       5.00
+    pensiero logico                                                           38       1.25
+    precisione / rigore                                                        6       0.00
+    presentare in modo esplicativo                                             8       2.00
+    punto di vista dell'altro                                                  1       5.00
+    rielaborazione dei saperi                                                  7       2.50
+    riflettere sull'esperienza                                                 6       0.00
+    risoluzione di problemi                                                   68       0.33
+    selezione strumenti                                                        1       5.00
+    spirito di iniziativa                                                      7       5.00
+    tentativi per errore                                                       1       5.00
+    valutazione attendibilit√† informazioni                                     6       0.00
+    valutazione della soluzione                                                1       5.00
+    valutazione delle soluzioni                                                1       5.00
+  interdisciplinarieta
+    alfabetico-funzionale                                                      8       3.33
+    altre discipline                                                           6       0.00
+    ambiente                                                                   1       5.00
+    ascolto e parlato                                                          7       2.50
+    competenze linguistiche+                                                   1       5.00
+    comprensione del testo                                                     3       3.00
+    contorno di figura piana                                                   6       0.00
+    costruzione del testo                                                      1       5.00
+    costruzione di un testo                                                    1       5.00
+    Ecologia                                                                   1       5.00
+    ecologia                                                                   1       5.00
+    educazione civica                                                          6       0.00
+    esplorare e descrivere oggetti e materiali                                 6       0.00
+    geografia                                                                 25       2.50
+    geometria                                                                 12       0.00
+    italiano                                                                   9       3.00
+    lato                                                                       6       0.00
+    lingua straniera                                                           7       2.50
+    matematica                                                                36       0.00
+    modelli geometrici                                                         6       0.00
+    movimenti del corpo al ritmo della musica                                  6       0.00
+    operazioni retta dei numeri                                                6       0.00
+    orientamento spaziale                                                     62       1.78
+    puto di vista dell'altro                                                   1       5.00
+    rappresentazione dei dati                                                  6       0.00
+    riferimenti spaziali/ indicatori topologici                               37       1.89
+    scienze                                                                   17       0.33
+    scrittura                                                                  9       3.00
+    sequenzialit√†                                                             12       0.00
+    spazio e figure                                                           14       1.33
+    storia                                                                     6       0.00
+    storie interattive e animazioni                                            1       5.00
+    tecnologia                                                                 7       2.50
+  riferito a domanda precedente
+    abilit√† informatiche                                                       4       8.00
+    alfabetizzazione digitale                                                 36       6.00
+    analisi dati e organizzazione                                              6       0.00
+    coding                                                                   139      53.00
+    competenze digitali                                                       16       2.80
+    concetti base della programmazione                                        30       3.00
+    costruzione di storie interattive e animazioni                             1       5.00
+    decomposizione                                                            15       5.00
+    descrizione algoritmica di processi concreti                              18       0.00
+    manipolazione                                                              6       0.00
+    modellazione dell'informazione                                             6       0.00
+    narrazione digitale con programmazione                                    10       1.00
+    obiettivi piattaforma                                                      6       0.00
+    pixel art                                                                 30       0.00
+    potenzialit√† del linguaggio informatico di descrivere altre attivit√†       6       0.00
+    programmazione                                                           126      12.00
+    programmazione di robot                                                    6       0.00
+    rappresentare processi mediante modelli logici                             6       0.00
+    rappresentazione dei dati/ informazione                                   12       0.00
+    risoluzione computazionale di problemi                                     9       3.00
+    robotica educativa                                                         6       0.00
+    scelta degli strumenti                                                    17       0.50
+    selezione                                                                  3       9.00
+    sequenza                                                                  50       3.33
+    soluzioni algoritmiche                                                    36       0.00
+    tentativi ed errori                                                        1       5.00
+    uso consapevole della tecnologia                                           8       2.00
+    uso di siti web                                                            6       0.00
+    uso espressico della tecnologia                                            1       5.00
+    uso sicuro della tecnologia                                                6       0.00
+    utilizzare espressioni condizionali                                        1       5.00
+    verifica/ correzione errori                                               18       0.00
+  risposta generica 3
+    copia-incolla risposta 2                                                  10       2.67
+    generico                                                                 133       7.00
+    vuoto                                                                     77       2.85

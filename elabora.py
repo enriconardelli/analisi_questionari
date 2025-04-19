@@ -75,16 +75,16 @@ def print_etichette_complesse_as_tree(etichette_complesse):
             for value in sorted_values:
                 print(f"    {value}")
 
-# #print_etichette_complesse_as_tree(etichette_complesse)
-# output_file = open("categorie+etichette.txt", "w")
-# # Redirect standard output to the file
-# sys.stdout = output_file
+#print_etichette_complesse_as_tree(etichette_complesse)
+output_file = open("categorie+etichette.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
 
-# print_etichette_complesse_as_tree(etichette_complesse)
+#print_etichette_complesse_as_tree(etichette_complesse)
 
-# output_file.close()
-# # Reset standard output back to console
-# sys.stdout = sys.__stdout__
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
 
 
 d1 = {}
@@ -375,6 +375,6 @@ for level, macroetichetta_dict in label_tree.items():
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {etichette_problematicita[etichetta]['PR_L']:>10.2f}")
 
-# output_file.close()
-# # Reset standard output back to console
-# sys.stdout = sys.__stdout__
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
