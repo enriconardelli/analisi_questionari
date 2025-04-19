@@ -1,6 +1,7 @@
 import pandas as pd
 import openpyxl
 import pprint
+import sys
 from collections import Counter
 
 # def confronta(a1, a2, a3, a4, a5, a6):
@@ -70,10 +71,20 @@ def print_etichette_complesse_as_tree(etichette_complesse):
         print(domanda)
         for key, values in keys.items():
             print(f"  {key}")
-            for value in values:
+            sorted_values = sorted(values, key=lambda x: x.lower()) # Sort values alphabetically
+            for value in sorted_values:
                 print(f"    {value}")
 
-#print_etichette_complesse_as_tree(etichette_complesse)
+# #print_etichette_complesse_as_tree(etichette_complesse)
+# output_file = open("categorie+etichette.txt", "w")
+# # Redirect standard output to the file
+# sys.stdout = output_file
+
+# print_etichette_complesse_as_tree(etichette_complesse)
+
+# output_file.close()
+# # Reset standard output back to console
+# sys.stdout = sys.__stdout__
 
 
 d1 = {}
@@ -313,9 +324,22 @@ etichette_problematicita = calcola_problematicita(data)
 
 # Stampa dei risultati
 
+output_file = open("problematicita_etichette.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
+
 print("\n\n========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
 for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: x[1]["PR_L"], reverse=True):
     print(f"{etichetta:<70} {values['R']:>5} {values['PR_L']:>10.2f}")
+
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
+
+
+output_file = open("problematicita_domande.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
 
 # Problematicità per ogni risposta separatamente per d1, d2, d3
 for level in data.keys():  # Iterate over d1, d2, d3
@@ -350,3 +374,7 @@ for level, macroetichetta_dict in label_tree.items():
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[0].lower(), reverse=False):
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {etichette_problematicita[etichetta]['PR_L']:>10.2f}")
+
+# output_file.close()
+# # Reset standard output back to console
+# sys.stdout = sys.__stdout__
