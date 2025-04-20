@@ -210,81 +210,58 @@ for domanda, risposte_alla_domanda in dizionari_risposte.items():  # Iterate ove
 # Function to count occurrences of all etichette in a nested dictionary
 def count_etichette(dizionario):
     counter = Counter()
-    for level, level_data in dizionario.items():  # Iterate over d1, d2, d3
-        for id_, autori in level_data.items():
-            for autore, macroetichetta_dict in autori.items():
-                for macroetichetta, etichette in macroetichetta_dict.items():
+    for domanda, risposte_alla_domanda in dizionario.items():  # Iterate over d1, d2, d3
+        for id_, autori in risposte_alla_domanda.items():
+            for autore, categorie in autori.items():
+                for categoria, etichette in categorie.items():
                     if isinstance(etichette, set):
                         counter.update(etichette)
     return counter
 
-# Get the count of all etichette as a dictionary
+# Costruisce dizionario etichette_count[etichetta] che contiene le occorrenze di ogni etichetta
 etichette_count = dict(count_etichette(dizionari_risposte))
 # Print the resulting dictionary for verification
 # output_file = stampa_su_file_ON("etichette_count.txt")
 # pprint.pprint(etichette_count)
 # stampa_su_file_OFF(output_file)
 
-def count_etichette_advanced(data, etichette_count):
-    data_with_count = {}
-    for level, level_data in data.items():  # Iterate over d1, d2, d3
-        data_with_count[level] = {}
-        for id_, autori in level_data.items():
-            data_with_count[level][id_] = {}
-            for autore, macroetichetta_dict in autori.items():
-                data_with_count[level][id_][autore] = {}
-                for macroetichetta, etichette in macroetichetta_dict.items():
-                    if isinstance(etichette, set):
-                        data_with_count[level][id_][autore][macroetichetta] = {
-                            etichetta: etichette_count[etichetta] for etichetta in etichette
-                        }
-    return data_with_count
-
-# Get the count of all etichette as a dictionary
-etichette_count_advanced = count_etichette_advanced(dizionari_risposte, etichette_count)
-# Print the resulting dictionary for verification
-output_file = stampa_su_file_ON("etichette_count_advanced.txt")
-pprint.pprint(etichette_count_advanced)
-stampa_su_file_OFF(output_file)
-
-exit()
-
-def count_etichette_as_tree(data, etichette_count):
+def count_etichette_as_tree(dizionario, etichette_count):
 
     label_tree={}
 
-    for level, level_data in data.items():  # Iterate over d1, d2, d3
-        for id_, autori in level_data.items():
-            for autore, macroetichetta_dict in autori.items():
-                for macroetichetta, etichette in macroetichetta_dict.items():
+    for domanda, risposte_alla_domanda in dizionario.items():  # Iterate over d1, d2, d3
+        for id_, autori in risposte_alla_domanda.items():
+            for autore, categorie in autori.items():
+                for categoria, etichette in categorie.items():
                     if isinstance(etichette, set):
-                        if level not in label_tree:
-                            label_tree[level] = {}
-                        if macroetichetta not in label_tree[level]:
-                            label_tree[level][macroetichetta] = {}
+                        if domanda not in label_tree:
+                            label_tree[domanda] = {}
+                        if categoria not in label_tree[domanda]:
+                            label_tree[domanda][categoria] = {}
                         for etichetta in etichette:
-                            label_tree[level][macroetichetta][etichetta] = etichette_count[etichetta]
-                        
+                            label_tree[domanda][categoria][etichetta] = etichette_count[etichetta]
     return label_tree
-# Get the count of all etichette as a dictionary
-label_tree = count_etichette_as_tree(dizionari_risposte, etichette_count)
-# Print the resulting dictionary for verification
-output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
-# pprint.pprint(etichette_count)
-stampa_su_file_OFF(output_file)
 
-# commentato per abbreviare output
-""" print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
-for level, macroetichetta_dict in label_tree.items():
-    print(level.upper())
-    for macroetichetta, etichette in macroetichetta_dict.items():
-        print(f"  {macroetichetta}")
+# Costruisce dizionario etichette_count_as_tree[domanda][categoria][etichetta] 
+# che contiene le occorrenze di ogni etichetta per ogni domanda e categoria
+etichette_count_as_tree = count_etichette_as_tree(dizionari_risposte, etichette_count)
+# Print the resulting dictionary for verification
+# output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
+# pprint.pprint(label_tree)
+# stampa_su_file_OFF(output_file)
+
+output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
+print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
+for domanda, categorie in etichette_count_as_tree.items():
+    print(domanda.upper())
+    for categoria, etichette in categorie.items():
+        print(f"  {categoria}")
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
- """
+stampa_su_file_OFF(output_file)
 
-
+exit()
 
 
 # Calcolo della "problematicità" delle etichette
