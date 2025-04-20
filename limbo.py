@@ -1,6 +1,17 @@
 import pprint
 import sys
 
+def stampa_su_file_OFF(output_file):
+    output_file.close()
+    # Reset standard output back to console
+    sys.stdout = sys.__stdout__
+
+def stampa_su_file_ON(nome_file):
+    output_file = open(nome_file, "w")
+    # Redirect standard output to the file
+    sys.stdout = output_file
+    return output_file
+
 def count_etichette_advanced(data, etichette_count):
     data_with_count = {}
     for level, level_data in data.items():  # Iterate over d1, d2, d3
