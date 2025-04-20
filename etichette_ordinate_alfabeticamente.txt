@@ -86,6 +86,7 @@ D1
     sviluppo iterativo                                                         6       1.00
     sviluppo iterativo-dedot                                                   6       1.00
     technoclil                                                                 2       0.33
+    technoClil                                                                 1       0.17
     technoCLIL                                                                 2       0.33
     tecno-CLIL                                                                 1       0.17
     uso della tecnologia                                                      68      11.33
@@ -114,7 +115,7 @@ D1
     mappe                                                                      1       0.17
     orientamento                                                               1       0.17
     orientamento spaziale                                                     62      10.33
-    pensiero computazionale                                                   81      13.50
+    pensiero computazionale                                                   84      14.00
     pensiero critico                                                           7       1.17
     presentazione                                                              1       0.17
     sviluppo contenuti                                                         2       0.33
@@ -164,7 +165,6 @@ D1
     Super DOC                                                                  1       0.17
     Super Doc                                                                  1       0.17
     SuperDOC                                                                   1       0.17
-    technoClil                                                                 1       0.17
     web                                                                        6       1.00
     word                                                                       1       0.17
     Zaply                                                                      6       1.00
@@ -213,7 +213,7 @@ D2
     decomposizione                                                            15       2.50
     decomposizione in sottoproblemi                                            4       0.67
     descrizioni algoritmiche                                                  12       2.00
-    esecuzione di istruzioni                                                  21       3.50
+    esecuzione di istruzioni                                                  22       3.67
     generalizzazione processo di soluzione                                     7       1.17
     informatica                                                               19       3.17
     intelligenza artificiale                                                   2       0.33
@@ -221,10 +221,10 @@ D2
     linguaggio formale                                                         6       1.00
     logica/ pensiero logico/ competenze logiche                               18       3.00
     mettersi dal punto di vista dell'altro per input                           1       0.17
-    pensiero computazionale                                                   81      13.50
+    pensiero computazionale                                                   84      14.00
     problem posing computazionale                                              6       1.00
-    problem solving                                                           80      13.33
-    progettazione                                                              3       0.50
+    problem solving                                                           82      13.67
+    progettazione                                                              4       0.67
     programmazione                                                           126      21.00
     programmazione per la risoluzione di problemi                             26       4.33
     scelta degli strumenti                                                    17       2.83
@@ -242,9 +242,9 @@ D2
     generico                                                                 133      22.17
     vuoto                                                                     77      12.83
   focus
-    contenuto                                                                 19       3.17
+    contenuto                                                                 22       3.67
     insegnante                                                                49       8.17
-    studente                                                                 200      33.33
+    studente                                                                 202      33.67
   abilità strumentali digitali
     alfabetizzazione digitale                                                 36       6.00
     animazione digitale                                                        7       1.17
@@ -263,13 +263,14 @@ D2
     ?? mettere tutto?                                                          1       0.17
     analizzare oggetti                                                         6       1.00
     argomentare                                                                5       0.83
+    argomentare le proprie ragioni con adulti e bambini                        1       0.17
     autoimprenditorialità                                                      2       0.33
     autoimprenditorialià                                                       1       0.17
     autoimprenditorialtà                                                       1       0.17
     autonomia                                                                 12       2.00
     calcolare                                                                  6       1.00
     coding per matematica                                                      6       1.00
-    collaborazione/ lavoro squadra                                            27       4.50
+    collaborazione/ lavoro squadra                                            28       4.67
     competenze narrative                                                       7       1.17
     comunicare con tecnologia                                                  1       0.17
     comunicazione con linguaggio specifico                                    12       2.00
@@ -293,7 +294,7 @@ D2
     peer to peer                                                               2       0.33
     pensiero astratto                                                          6       1.00
     pianificare fabbricazione oggetti                                          6       1.00
-    progettazione                                                              3       0.50
+    progettazione                                                              4       0.67
     ragionamento                                                               7       1.17
     ragionamento logico                                                       27       4.50
     responsabilità                                                             9       1.50
@@ -308,6 +309,7 @@ D2
     coniugare informatica e pratica                                            6       1.00
     coping power                                                               2       0.33
     intelligenze multiple                                                      5       0.83
+    mettersi dal punto di vista dell'altro per dare una serie di input         1       0.17
     modalità giocosa                                                           6       1.00
     peer to peer                                                               2       0.33
     progettare un percorso                                                    12       2.00

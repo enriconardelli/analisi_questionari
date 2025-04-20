@@ -39,11 +39,11 @@ Risposta 589: Problematicità 3.62
 Risposta 603: Problematicità 2.75
 Risposta 605: Problematicità 3.50
 Risposta 607: Problematicità 3.70
-Risposta 612: Problematicità 2.20
-Risposta 613: Problematicità 3.67
-Risposta 617: Problematicità 3.60
-Risposta 626: Problematicità 3.43
-Risposta 629: Problematicità 3.50
+Risposta 612: Problematicità 2.17
+Risposta 613: Problematicità 3.75
+Risposta 617: Problematicità 3.50
+Risposta 626: Problematicità 3.25
+Risposta 629: Problematicità 3.60
 
 
 ========== Problematicità per D3

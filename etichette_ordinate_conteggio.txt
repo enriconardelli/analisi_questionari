@@ -61,8 +61,8 @@ D1
     sviluppo contenuti2                                                        8       1.33
     sperimentazione                                                            7       1.17
     percorsi-dedot                                                             7       1.17
-    misure                                                                     6       1.00
     sviluppo iterativo-dedot                                                   6       1.00
+    misure                                                                     6       1.00
     decomposizione-dedot                                                       6       1.00
     origami                                                                    6       1.00
     sviluppo iterativo                                                         6       1.00
@@ -79,6 +79,7 @@ D1
     dalla piattaforma (attività)-dedot                                         1       0.17
     costruzione mappe                                                          1       0.17
     tecno-CLIL                                                                 1       0.17
+    technoClil                                                                 1       0.17
     esecuzion e di istruzioni                                                  1       0.17
     esecuzione                                                                 1       0.17
     uso della tecnologia-dedot                                                 1       0.17
@@ -86,15 +87,15 @@ D1
     pseudolinguaggio                                                           1       0.17
     coding analogico                                                           1       0.17
     ludico-motoria2-dedot                                                      1       0.17
-    lettura di codice                                                          1       0.17
     scrittura di codice                                                        1       0.17
+    lettura di codice                                                          1       0.17
     lettura codice                                                             1       0.17
     lettura e scrittura del codice ?                                           1       0.17
     lettura del codice                                                         1       0.17
     2coding                                                                    1       0.17
     1coding unplugged                                                          1       0.17
   obiettivo riferito a domande successive
-    pensiero computazionale                                                   81      13.50
+    pensiero computazionale                                                   84      14.00
     orientamento spaziale                                                     62      10.33
     videoscrittura                                                            30       5.00
     2pensiero computazionale                                                  14       2.33
@@ -102,23 +103,23 @@ D1
     3capacità di narrazione                                                    7       1.17
     pensiero critico                                                           7       1.17
     2rianalizzare                                                              6       1.00
-    3pensiero creativo                                                         6       1.00
     3pensiero critico                                                          6       1.00
-    3videotutorial                                                             6       1.00
+    3pensiero creativo                                                         6       1.00
     3risoluzione di problemi                                                   6       1.00
-    3pianificazione                                                            6       1.00
+    3videotutorial                                                             6       1.00
     2risoluzione di problemi                                                   6       1.00
+    3pianificazione                                                            6       1.00
     conversazione collaborativa / collaborazione                               4       0.67
     2videoscrittura                                                            3       0.50
     uso della tecnologia2                                                      3       0.50
     technoCLIL                                                                 2       0.33
     sviluppo contenuti                                                         2       0.33
-    conteggio                                                                  1       0.17
     mappe                                                                      1       0.17
+    conteggio                                                                  1       0.17
     costruzione di mappe                                                       1       0.17
     uso della tecnologia2-dedot                                                1       0.17
-    presentazione                                                              1       0.17
     uso di app didattiche                                                      1       0.17
+    presentazione                                                              1       0.17
     indicazioni topologiche                                                    1       0.17
     orientamento                                                               1       0.17
     lavoro in coppia                                                           1       0.17
@@ -132,11 +133,11 @@ D1
     Gworkspace                                                                10       1.67
     Classroom                                                                  9       1.50
     BlueBot                                                                    6       1.00
-    Common Sense Selection                                                     6       1.00
     Lego                                                                       6       1.00
+    Common Sense Selection                                                     6       1.00
     Kahoot                                                                     6       1.00
-    Zaply                                                                      6       1.00
     mTiny                                                                      6       1.00
+    Zaply                                                                      6       1.00
     web                                                                        6       1.00
     Lego (dedotta da link inserita in altre risposte)                          6       1.00
     Geogebra                                                                   6       1.00
@@ -144,25 +145,24 @@ D1
     DOC                                                                        3       0.50
     Ozobot-Bit                                                                 3       0.50
     Code.org-dedot                                                             2       0.33
+    Mind designer                                                              2       0.33
     Cyber talk roboter                                                         2       0.33
     Super doc                                                                  2       0.33
-    Mind designer                                                              2       0.33
     Google moduli                                                              2       0.33
     Gworkspace-dedot                                                           1       0.17
-    dive                                                                       1       0.17
     google disegni                                                             1       0.17
+    dive                                                                       1       0.17
     robot DOC                                                                  1       0.17
     Doc                                                                        1       0.17
-    technoClil                                                                 1       0.17
     Ozobot-bit                                                                 1       0.17
-    SuperDOC                                                                   1       0.17
     Mind Designer                                                              1       0.17
     CyberTalk Roboter                                                          1       0.17
+    SuperDOC                                                                   1       0.17
     Super DOC                                                                  1       0.17
     Cybertalk roboter                                                          1       0.17
-    Super Doc                                                                  1       0.17
     Minde Designer                                                             1       0.17
     Cyber Talk Roboter                                                         1       0.17
+    Super Doc                                                                  1       0.17
     ? cita tutti robot                                                         1       0.17
     mind designer                                                              1       0.17
     ozobot-Bit                                                                 1       0.17
@@ -172,13 +172,13 @@ D1
     corso B                                                                   12       2.00
     Classroom                                                                  9       1.50
     corso 2                                                                    6       1.00
-    GMail                                                                      6       1.00
     GSlides                                                                    6       1.00
-    corso D (2021)                                                             6       1.00
+    GMail                                                                      6       1.00
     corso C (2021)                                                             6       1.00
+    corso D (2021)                                                             6       1.00
     Labor. Artista                                                             6       1.00
-    labirinto                                                                  3       0.50
     Gumball                                                                    3       0.50
+    labirinto                                                                  3       0.50
     collezionista                                                              2       0.33
     GDrive                                                                     2       0.33
     laboratorio con Gumball                                                    2       0.33
@@ -188,10 +188,10 @@ D1
     Corso F (2021)                                                             1       0.17
     intelligenza per mare                                                      1       0.17
     GDisegni                                                                   1       0.17
-    lbirinto                                                                   1       0.17
     corso C lezione 5 la collezinista                                          1       0.17
-    Google Drive                                                               1       0.17
+    lbirinto                                                                   1       0.17
     Google Design                                                              1       0.17
+    Google Drive                                                               1       0.17
     Labor. Gumball                                                             1       0.17
     labirinto classico                                                         1       0.17
     conteggio con la collezionista                                             1       0.17
@@ -204,13 +204,13 @@ D2
   obiettivi disciplinari
     coding                                                                   139      23.17
     programmazione                                                           126      21.00
-    pensiero computazionale                                                   81      13.50
-    problem solving                                                           80      13.33
+    pensiero computazionale                                                   84      14.00
+    problem solving                                                           82      13.67
     sequenza                                                                  50       8.33
     soluzioni algoritmiche                                                    36       6.00
     concetti base della programmazione                                        30       5.00
     programmazione per la risoluzione di problemi                             26       4.33
-    esecuzione di istruzioni                                                  21       3.50
+    esecuzione di istruzioni                                                  22       3.67
     cicli                                                                     19       3.17
     informatica                                                               19       3.17
     verifica/ correzione di programmi                                         19       3.17
@@ -222,14 +222,14 @@ D2
     generalizzazione processo di soluzione                                     7       1.17
     consapevolezza digitale                                                    7       1.17
     conoscere le istruzioni del linguaggio                                     7       1.17
-    problem posing computazionale                                              6       1.00
     automatizzazione risoluzione di problemi                                   6       1.00
+    problem posing computazionale                                              6       1.00
     algoritmi quotidiani                                                       6       1.00
     linguaggio formale                                                         6       1.00
     decomposizione in sottoproblemi                                            4       0.67
     abilità informatiche                                                       4       0.67
+    progettazione                                                              4       0.67
     selezione                                                                  3       0.50
-    progettazione                                                              3       0.50
     intelligenza artificiale                                                   2       0.33
     scomposizione problemi                                                     2       0.33
     scomposizione                                                              2       0.33
@@ -242,9 +242,9 @@ D2
     generico                                                                 133      22.17
     vuoto                                                                     77      12.83
   focus
-    studente                                                                 200      33.33
+    studente                                                                 202      33.67
     insegnante                                                                49       8.17
-    contenuto                                                                 19       3.17
+    contenuto                                                                 22       3.67
   abilità strumentali digitali
     uso della tecnologia                                                      68      11.33
     alfabetizzazione digitale                                                 36       6.00
@@ -260,7 +260,7 @@ D2
     piattaforma di debate                                                      1       0.17
   obiettivi trasversali
     orientamento spaziale                                                     62      10.33
-    collaborazione/ lavoro squadra                                            27       4.50
+    collaborazione/ lavoro squadra                                            28       4.67
     ragionamento logico                                                       27       4.50
     creatività                                                                24       4.00
     imparare a imparare                                                       17       2.83
@@ -269,8 +269,8 @@ D2
     cooperative learning                                                      12       2.00
     responsabilità                                                             9       1.50
     imparare a ragionare                                                       7       1.17
-    ragionamento                                                               7       1.17
     uso trasversale del PeCo                                                   7       1.17
+    ragionamento                                                               7       1.17
     gioco                                                                      7       1.17
     interdisciplinarietà                                                       7       1.17
     competenze narrative                                                       7       1.17
@@ -278,21 +278,21 @@ D2
     descrizione di strategie                                                   6       1.00
     calcolare                                                                  6       1.00
     coding per matematica                                                      6       1.00
-    pianificare fabbricazione oggetti                                          6       1.00
     analizzare oggetti                                                         6       1.00
-    smontare oggetti                                                           6       1.00
-    migliorare oggetti                                                         6       1.00
     riconoscere difetti                                                        6       1.00
-    pensiero astratto                                                          6       1.00
+    migliorare oggetti                                                         6       1.00
+    pianificare fabbricazione oggetti                                          6       1.00
+    smontare oggetti                                                           6       1.00
     concetti matematici                                                        6       1.00
+    pensiero astratto                                                          6       1.00
     argomentare                                                                5       0.83
     intelligenze multiple                                                      5       0.83
     inclusione                                                                 4       0.67
     decomposizione in sottoproblemi                                            4       0.67
-    progettazione                                                              3       0.50
+    progettazione                                                              4       0.67
+    peer to peer                                                               2       0.33
     coping power                                                               2       0.33
     scaffolding                                                                2       0.33
-    peer to peer                                                               2       0.33
     autoimprenditorialità                                                      2       0.33
     ?                                                                          1       0.17
     Inclusione                                                                 1       0.17
@@ -302,6 +302,7 @@ D2
     ?? mettere tutto?                                                          1       0.17
     autoimprenditorialtà                                                       1       0.17
     comunicazione con linguaggio specifico-???????                             1       0.17
+    argomentare le proprie ragioni con adulti e bambini                        1       0.17
   ambiguità
     progettare un percorso                                                    12       2.00
     progettazione robotica                                                     6       1.00
@@ -309,14 +310,15 @@ D2
     modalità giocosa                                                           6       1.00
     coniugare informatica e pratica                                            6       1.00
     intelligenze multiple                                                      5       0.83
-    coping power                                                               2       0.33
-    scaffolding                                                                2       0.33
     peer to peer                                                               2       0.33
+    scaffolding                                                                2       0.33
+    coping power                                                               2       0.33
     autoimprenditorialità                                                      2       0.33
     ambiguità                                                                  1       0.17
     uso del pensiero computazionale per scolgere attività                      1       0.17
     utilizzando codici e linguaggi diversi                                     1       0.17
     Progettazione                                                              1       0.17
+    mettersi dal punto di vista dell'altro per dare una serie di input         1       0.17
 D3
   soft skills e metacognizione
     risoluzione di problemi                                                   68      11.33
@@ -334,14 +336,14 @@ D3
     spirito di iniziativa                                                      7       1.17
     rielaborazione dei saperi                                                  7       1.17
     documentare attività svolte                                                6       1.00
-    comprensione di istruzioni                                                 6       1.00
     pensiero creativo                                                          6       1.00
+    comprensione di istruzioni                                                 6       1.00
     valutazione attendibilità informazioni                                     6       1.00
     formulazione di domande                                                    6       1.00
     riflettere sull'esperienza                                                 6       1.00
-    osservazione, memoria, analisi                                             6       1.00
     precisione / rigore                                                        6       1.00
     capacità di previsione                                                     6       1.00
+    osservazione, memoria, analisi                                             6       1.00
     empatia                                                                    4       0.67
     comprensione del testo                                                     3       0.50
     autocorrezione                                                             2       0.33
@@ -356,8 +358,8 @@ D3
     selezione strumenti                                                        1       0.17
     astrazione                                                                 1       0.17
     astrazione/pensiero astratto                                               1       0.17
-    comprensione/analisi del problema                                          1       0.17
     valutazione delle soluzioni                                                1       0.17
+    comprensione/analisi del problema                                          1       0.17
     valutazione della soluzione                                                1       0.17
     punto di vista dell'altro                                                  1       0.17
     apprendimento attraverso il gioco                                          1       0.17
@@ -370,8 +372,8 @@ D3
     spazio e figure                                                           14       2.33
     geometria                                                                 12       2.00
     sequenzialità                                                             12       2.00
-    italiano                                                                   9       1.50
     scrittura                                                                  9       1.50
+    italiano                                                                   9       1.50
     alfabetico-funzionale                                                      8       1.33
     lingua straniera                                                           7       1.17
     tecnologia                                                                 7       1.17
@@ -414,8 +416,8 @@ D3
     uso consapevole della tecnologia                                           8       1.33
     rappresentare processi mediante modelli logici                             6       1.00
     robotica educativa                                                         6       1.00
-    modellazione dell'informazione                                             6       1.00
     manipolazione                                                              6       1.00
+    modellazione dell'informazione                                             6       1.00
     uso sicuro della tecnologia                                                6       1.00
     programmazione di robot                                                    6       1.00
     uso di siti web                                                            6       1.00
