@@ -32,14 +32,15 @@ domande = ["Domanda1", "Domanda 2", "Domanda 3"]
 
 dataframes = {}
 
-for macroetichetta, file_name in autori_file.items():
+for sigla_autore, file_name in autori_file.items():
+    print ("sigla_autore", sigla_autore)
     file_path = f"{file_name}"
-    dataframes[macroetichetta] = {}
+    dataframes[sigla_autore] = {}
     for i, domanda in enumerate(domande, start=0):
         df = pd.read_excel(file_path, sheet_name=i, skiprows=1, dtype=str)
         df.fillna('', inplace=True)  # Replace NaN with empty strings
         df.set_index(df.columns[0], inplace=True)  # Set the first column (ID) as the primary key
-        dataframes[macroetichetta][domanda] = df
+        dataframes[sigla_autore][domanda] = df
 
 #print(dataframes["ML"])
 
