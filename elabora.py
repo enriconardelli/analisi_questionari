@@ -15,8 +15,6 @@ from collections import Counter
 #             disagreements[key] = len(values) - max(values.count(v) for v in unique_values)
 #     return disagreements
 
-
-
 autori_file = {
     "ADZ": "questionario-insegnanti-campione-60-ADZ.xlsx",
     "CM": "questionario-insegnanti-campione-60-CM.xlsx",
@@ -33,7 +31,6 @@ domande = ["Domanda1", "Domanda 2", "Domanda 3"]
 dataframes = {}
 
 for sigla_autore, file_name in autori_file.items():
-    print ("sigla_autore", sigla_autore)
     file_path = f"{file_name}"
     dataframes[sigla_autore] = {}
     for i, domanda in enumerate(domande, start=0):
@@ -42,13 +39,10 @@ for sigla_autore, file_name in autori_file.items():
         df.set_index(df.columns[0], inplace=True)  # Set the first column (ID) as the primary key
         dataframes[sigla_autore][domanda] = df
 
-#print(dataframes["ML"])
-
-
 etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 
-file_path_estraggo = "estraggo.xlsx"
-wb = openpyxl.load_workbook(file_path_estraggo, data_only=True)
+file_path_etichette_concordate_40_risposte = "estraggo.xlsx"
+wb = openpyxl.load_workbook(file_path_etichette_concordate_40_risposte, data_only=True)
 
 etichette_complesse = {}
 
@@ -56,16 +50,16 @@ for domanda in domande:
     sheet = wb[domanda]
     etichette_complesse[domanda] = {}
     
-    keys = list(sheet.iter_rows(min_row=1, max_row=1, values_only=True))[0]
-    possibili_etichette = list(sheet.iter_rows(min_row=2, max_row=2, values_only=True))[0]
-
-    current_key = None
-    for col, macroetichetta in enumerate(keys):
-        if macroetichetta:  # Non-empty cell in the first row
-            current_key = macroetichetta
-            etichette_complesse[domanda][current_key] = []
-        if current_key and possibili_etichette[col]:  # Add values under the current key
-            etichette_complesse[domanda][current_key].append(possibili_etichette[col])
+    categorie = list(sheet.iter_rows(min_row=1, max_row=1, values_only=True))[0] # tutti i nomi delle categorie
+    etichette = list(sheet.iter_rows(min_row=2, max_row=2, values_only=True))[0] # tutti i nomi delle etichette
+ 
+    categoria_corrente = None
+    for col, categoria in enumerate(categorie):
+        if categoria:  # Se c'è un nome di categoria nella prima riga
+            categoria_corrente = categoria
+            etichette_complesse[domanda][categoria_corrente] = []
+        if categoria_corrente and etichette[col]:  # Add values under the current key
+            etichette_complesse[domanda][categoria_corrente].append(etichette[col])
 
 def print_etichette_complesse_as_tree(etichette_complesse):
     for domanda, keys in etichette_complesse.items():
@@ -76,17 +70,17 @@ def print_etichette_complesse_as_tree(etichette_complesse):
             for value in sorted_values:
                 print(f"    {value}")
 
-#print_etichette_complesse_as_tree(etichette_complesse)
 output_file = open("categorie+etichette.txt", "w")
 # Redirect standard output to the file
 sys.stdout = output_file
 
-#print_etichette_complesse_as_tree(etichette_complesse)
+print_etichette_complesse_as_tree(etichette_complesse)
 
 output_file.close()
 # Reset standard output back to console
 sys.stdout = sys.__stdout__
 
+exit
 
 d1 = {}
 
@@ -259,8 +253,8 @@ label_tree = count_etichette_as_tree(data, etichette_count)
 # Print the resulting dictionary for verification
 # pprint.pprint(etichette_count)
 
-
-print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
+# commentato per abbreviare output
+""" print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
 for level, macroetichetta_dict in label_tree.items():
     print(level.upper())
     for macroetichetta, etichette in macroetichetta_dict.items():
@@ -268,7 +262,7 @@ for level, macroetichetta_dict in label_tree.items():
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
-
+ """
 
 
 
@@ -323,9 +317,9 @@ def calcola_problematicita(data):
 # Calcolo della problematicità
 etichette_problematicita = calcola_problematicita(data)
 
-# Stampa dei risultati
-
-output_file = open("problematicita_etichette.txt", "w")
+# Stampa della problematicità delle etichette in ordine decrescente 
+# (commentato per abbreviare output)
+""" output_file = open("problematicita_etichette.txt", "w")
 # Redirect standard output to the file
 sys.stdout = output_file
 
@@ -336,9 +330,11 @@ for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: 
 output_file.close()
 # Reset standard output back to console
 sys.stdout = sys.__stdout__
+ """
 
-
-output_file = open("problematicita_domande.txt", "w")
+# Stampa delle problematicità per ogni risposta separatamente
+# (commentato per abbreviare output)
+""" output_file = open("problematicita_domande.txt", "w")
 # Redirect standard output to the file
 sys.stdout = output_file
 
@@ -366,8 +362,14 @@ for level in data.keys():  # Iterate over d1, d2, d3
         PR_T = problematicita_T / len(Q) if Q else None
         print(f"Risposta {T}: Problematicità {PR_T}")
 
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
+ """
 
-print(f"\n\n========== Per ogni domanda, categoria, etichetta in alfabetico: numero di occorrenze e problematicità")
+# Stampa delle problematicità per ogni risposta separatamente
+# (commentato per abbreviare output)
+""" print(f"\n\n========== Per ogni domanda, categoria, etichetta in alfabetico: numero di occorrenze e problematicità")
 for level, macroetichetta_dict in label_tree.items():
     print(level.upper())
     for macroetichetta, etichette in macroetichetta_dict.items():
@@ -375,7 +377,4 @@ for level, macroetichetta_dict in label_tree.items():
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[0].lower(), reverse=False):
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<70} {count:>5} {etichette_problematicita[etichetta]['PR_L']:>10.2f}")
-
-output_file.close()
-# Reset standard output back to console
-sys.stdout = sys.__stdout__
+ """
