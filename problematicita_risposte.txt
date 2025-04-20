@@ -1,0 +1,66 @@
+
+
+========== Problematicità per D1
+Risposta 548: Problematicità 4.17
+Risposta 550: Problematicità 3.94
+Risposta 553: Problematicità 3.28
+Risposta 556: Problematicità 3.63
+Risposta 569: Problematicità 2.17
+Risposta 570: Problematicità 4.88
+Risposta 572: Problematicità 2.67
+Risposta 580: Problematicità 3.77
+Risposta 581: Problematicità 3.57
+Risposta 582: Problematicità 3.75
+Risposta 584: Problematicità 2.82
+Risposta 589: Problematicità 3.29
+Risposta 603: Problematicità 3.33
+Risposta 605: Problematicità 3.44
+Risposta 607: Problematicità 3.83
+Risposta 612: Problematicità 3.26
+Risposta 613: Problematicità 4.07
+Risposta 617: Problematicità 3.50
+Risposta 626: Problematicità 3.50
+Risposta 629: Problematicità 3.62
+
+
+========== Problematicità per D2
+Risposta 548: Problematicità 4.62
+Risposta 550: Problematicità 3.12
+Risposta 553: Problematicità 3.50
+Risposta 556: Problematicità 4.11
+Risposta 569: Problematicità 3.00
+Risposta 570: Problematicità 4.00
+Risposta 572: Problematicità 3.62
+Risposta 580: Problematicità 3.00
+Risposta 581: Problematicità 2.40
+Risposta 582: Problematicità 3.90
+Risposta 584: Problematicità 3.38
+Risposta 589: Problematicità 3.62
+Risposta 603: Problematicità 2.75
+Risposta 605: Problematicità 3.50
+Risposta 607: Problematicità 3.70
+Risposta 612: Problematicità 2.20
+Risposta 613: Problematicità 3.67
+Risposta 617: Problematicità 3.60
+Risposta 626: Problematicità 3.43
+Risposta 629: Problematicità 3.50
+
+
+========== Problematicità per D3
+Risposta 548: Problematicità 4.00
+Risposta 550: Problematicità 1.00
+Risposta 553: Problematicità 3.94
+Risposta 556: Problematicità 3.71
+Risposta 569: Problematicità 1.00
+Risposta 570: Problematicità 4.38
+Risposta 572: Problematicità 2.67
+Risposta 580: Problematicità 1.00
+Risposta 581: Problematicità 3.60
+Risposta 582: Problematicità 3.71
+Risposta 584: Problematicità 3.75
+Risposta 589: Problematicità 4.29
+Risposta 605: Problematicità 2.50
+Risposta 607: Problematicità 4.10
+Risposta 612: Problematicità 3.75
+Risposta 626: Problematicità 4.50
+Risposta 629: Problematicità 3.80
