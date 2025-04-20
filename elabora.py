@@ -41,6 +41,10 @@ for sigla_autore, file_name in autori_file.items():
 
 etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 
+########################################################################
+# Generazione di tutte le etichette usate nelle risposte a tutte le
+# domande per le prime 40 risposte classificate in modo concordato 
+########################################################################
 file_path_etichette_concordate_40_risposte = "estraggo.xlsx"
 wb = openpyxl.load_workbook(file_path_etichette_concordate_40_risposte, data_only=True)
 
@@ -73,50 +77,49 @@ def print_etichette_complesse_as_tree(etichette_complesse):
 output_file = open("categorie+etichette.txt", "w")
 # Redirect standard output to the file
 sys.stdout = output_file
-
 print_etichette_complesse_as_tree(etichette_complesse)
-
 output_file.close()
 # Reset standard output back to console
 sys.stdout = sys.__stdout__
 
-exit
-
-d1 = {}
+########################################################################
+# Creazione dei dizionari d1, d2, d3 con tutte le etichette usate 
+# nelle risposte alle domande d1, d2, d3 da ogni autore
+########################################################################
 
 # Get the IDs from the first dataframe (all dataframes have the same IDs)
 ids = dataframes["ADZ"]["Domanda1"].index
 
+d1 = {}
 for id_ in ids:
     d1[id_] = {}
     for autore, df in dataframes.items():
         d1[id_][autore] = {}
         
         # Add etichette_semplici
-        for possibili_etichette in etichette_semplici:
-            d1[id_][autore][possibili_etichette] = df["Domanda1"].at[id_, possibili_etichette]
+        for etichetta in etichette_semplici:
+            d1[id_][autore][etichetta] = df["Domanda1"].at[id_, etichetta]
         
         # Add etichette_complesse
-        for macroetichetta, possibili_etichette in etichette_complesse["Domanda1"].items():
-            d1[id_][autore][macroetichetta] = set()
-            for etichetta in possibili_etichette: 
+        for categoria, etichette in etichette_complesse["Domanda1"].items():
+            d1[id_][autore][categoria] = set()
+            for etichetta in etichette: 
                 crocetta = df["Domanda1"].at[id_, etichetta]
                 if etichetta.startswith("ETICHE"): #etichette aggiuntive
                     if crocetta != "":
                         for item in crocetta.split(","):
-                            d1[id_][autore][macroetichetta].add(item.strip())
+                            d1[id_][autore][categoria].add(item.strip())
                 else:
                     if "X" in crocetta:
-                        d1[id_][autore][macroetichetta].add(etichetta)
+                        d1[id_][autore][categoria].add(etichetta)
                     elif "dedo" in crocetta:
-                        d1[id_][autore][macroetichetta].add(etichetta+"-dedot")
+                        d1[id_][autore][categoria].add(etichetta+"-dedot")
                     elif "?" in crocetta:
-                        d1[id_][autore][macroetichetta].add(etichetta+"-???????")
+                        d1[id_][autore][categoria].add(etichetta+"-???????")
                     elif crocetta.isdigit():
-                        d1[id_][autore][macroetichetta].add(crocetta + etichetta)
+                        d1[id_][autore][categoria].add(crocetta + etichetta)
 
 d2 = {}
-
 for id_ in ids:
     d2[id_] = {}
     for autore, df in dataframes.items():
@@ -141,7 +144,6 @@ for id_ in ids:
 
 
 d3 = {}
-
 for id_ in ids:
     d3[id_] = {}
     for autore, df in dataframes.items():
@@ -164,9 +166,6 @@ for id_ in ids:
                     elif "?" in crocetta:
                         d3[id_][autore][macroetichetta].add(etichetta+"-???????")
 
-#Print the resulting dictionary for verification
-#pprint.pprint(d1["654"]["ADZ"])
-
 # print("Compare d1:")
 # for id_ in ids:
 #     a, b, c, d, e, f = autori_file.keys()
@@ -178,7 +177,12 @@ data = {"d1": d1, "d2": d2, "d3": d3}
 
 etichette_dict = {}
 
+output_file = open("OUTPUT.txt", "w")
+# Redirect standard output to the file
+sys.stdout = output_file
+
 for level, level_data in data.items():  # Iterate over d1, d2, d3
+    print("level", level, "level_data", level_data)
     etichette_dict[level] = {}
     for id_, autori in level_data.items():
         for autore, macroetichetta_dict in autori.items():
@@ -188,7 +192,10 @@ for level, level_data in data.items():  # Iterate over d1, d2, d3
                         etichette_dict[level][macroetichetta] = set()
                     etichette_dict[level][macroetichetta].update(etichette)
 
-#print("!!!!!!!!!!!!!!!!!!!!", etichette_dict)
+print("etichette_dict ", etichette_dict)
+output_file.close()
+# Reset standard output back to console
+sys.stdout = sys.__stdout__
 
 
 
