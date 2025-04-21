@@ -100,11 +100,19 @@ def print_etichette_complesse_as_tree(etichette_complesse):
 # Get the IDs from the first dataframe (all dataframes have the same IDs)
 ids = dataframes["ADZ"]["Domanda1"].index
 
+output_file = stampa_su_file_ON("OUTPUT.txt")
+nuove_etichette = {}
+
+# print("\n\n========================\nDOMANDA 1\n"  )
 d1 = {}
+nuove_etichette["Domanda1"] = {}
 for id_ in ids:
     d1[id_] = {}
+    nuove_etichette["Domanda1"][id_] = {}
+
     for autore, df in dataframes.items():
         d1[id_][autore] = {}
+        nuove_etichette["Domanda1"][id_][autore] = {}
         
         # Add etichette_semplici (ci sono solo in Domanda1)
         for etichetta in etichette_semplici:
@@ -113,12 +121,15 @@ for id_ in ids:
         # Add etichette_complesse
         for categoria, etichette in etichette_complesse["Domanda1"].items():
             d1[id_][autore][categoria] = set()
+            nuove_etichette["Domanda1"][id_][autore][categoria] = {}
             for etichetta in etichette: 
                 crocetta = df["Domanda1"].at[id_, etichetta]
                 if etichetta.startswith("ETICHE"): #etichette aggiuntive
                     if crocetta != "":
                         for item in crocetta.split(","):
                             d1[id_][autore][categoria].add(item.strip())
+                            nuove_etichette["Domanda1"][id_][autore][categoria] = item.strip()
+                            # print(autore, id_, categoria, etichetta, item.strip())
                 else:
                     if "X" in crocetta:
                         d1[id_][autore][categoria].add(etichetta)
@@ -129,21 +140,28 @@ for id_ in ids:
                     elif crocetta.isdigit():
                         d1[id_][autore][categoria].add(crocetta + etichetta)
 
+# print("\n\n========================\nDOMANDA 2\n"  )
 d2 = {}
+nuove_etichette["Domanda 2"] = {}
 for id_ in ids:
     d2[id_] = {}
+    nuove_etichette["Domanda 2"][id_] = {}
     for autore, df in dataframes.items():
         d2[id_][autore] = {}
+        nuove_etichette["Domanda 2"][id_][autore] = {}
         
         # Add etichette_complesse
         for categoria, etichette in etichette_complesse["Domanda 2"].items():
             d2[id_][autore][categoria] = set()
+            nuove_etichette["Domanda 2"][id_][autore][categoria] = set()
             for etichetta in etichette: 
                 crocetta = df["Domanda 2"].at[id_, etichetta]
                 if etichetta.startswith("ETICHE"): #etichette aggiuntive
                     if crocetta != "":
                         for item in crocetta.split(","):
                             d2[id_][autore][categoria].add(item.strip())
+                            nuove_etichette["Domanda 2"][id_][autore][categoria].add(item.strip())
+                            # print(autore, id_, categoria, etichetta, item.strip())
                 else:
                     if "X" in crocetta:
                         d2[id_][autore][categoria].add(etichetta)
@@ -152,21 +170,28 @@ for id_ in ids:
                     elif "?" in crocetta:
                         d2[id_][autore][categoria].add(etichetta+"-???????")
 
+# print("\n\n========================\nDOMANDA 3\n"  )
 d3 = {}
+nuove_etichette["Domanda 3"] = {}
 for id_ in ids:
     d3[id_] = {}
+    nuove_etichette["Domanda 3"][id_] = {}
     for autore, df in dataframes.items():
         d3[id_][autore] = {}
-        
+        nuove_etichette["Domanda 3"][id_][autore] = {}
+
         # Add etichette_complesse
         for categoria, etichette in etichette_complesse["Domanda 3"].items():
             d3[id_][autore][categoria] = set()
+            nuove_etichette["Domanda 3"][id_][autore][categoria] = set()
             for etichetta in etichette: 
                 crocetta = df["Domanda 3"].at[id_, etichetta]
                 if etichetta.startswith("ETICHE"): #etichette aggiuntive
                     if crocetta != "":
                         for item in crocetta.split(","):
                             d3[id_][autore][categoria].add(item.strip())
+                            nuove_etichette["Domanda 3"][id_][autore][categoria].add(item.strip())
+                            # print(autore, id_, categoria, etichetta, item.strip())
                 else:
                     if "X" in crocetta:
                         d3[id_][autore][categoria].add(etichetta)
@@ -174,6 +199,11 @@ for id_ in ids:
                         d3[id_][autore][categoria].add(etichetta+"-dedot")
                     elif "?" in crocetta:
                         d3[id_][autore][categoria].add(etichetta+"-???????")
+
+pprint.pprint(nuove_etichette)
+stampa_su_file_OFF(output_file)
+
+exit()
 
 # print("Compare d1:")
 # for id_ in ids:
@@ -260,7 +290,7 @@ for domanda, categorie in etichette_count_as_tree.items():
         print(f"  {categoria}")
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
             normalized_count = count / NUMAUTORI
-            print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
+            print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
 stampa_su_file_OFF(output_file)
 
 output_file = stampa_su_file_ON("etichette_ordinate_alfabeticamente.txt")
@@ -271,7 +301,7 @@ for domanda, categorie in etichette_count_as_tree.items():
         print(f"  {categoria}")
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[0].lower()):
             normalized_count = count / NUMAUTORI
-            print(f"    {etichetta:<70} {count:>5} {normalized_count:>10.2f}")
+            print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
 stampa_su_file_OFF(output_file)
 
 
@@ -313,7 +343,7 @@ etichette_problematicita = calcola_problematicita(dizionari_risposte)
 stampa_su_file_ON("problematicita_etichette.txt")
 print("\n\n========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
 for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: x[1]["PR_L"], reverse=True):
-    print(f"{etichetta:<70} {values['R']:>5} {values['PR_L']:>10.2f}")
+    print(f"{etichetta:<60} {values['R']:>5} {values['PR_L']:>10.2f}")
 stampa_su_file_OFF(output_file)
 
 # Stampa delle problematicità per ogni risposta separatamente
