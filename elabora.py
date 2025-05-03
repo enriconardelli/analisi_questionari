@@ -73,18 +73,118 @@ def confronta_etichette_usate():
         sigla_autore_prev = sigla_autore
     stampa_su_file_OFF(output_file)
 
+def ricerca_nuove_etichette(dataframes, etichette_semplici, etichette_complesse):
+    # Funzione per cercare le nuove etichette inserite dagli autori nella colonna ETICHETTE AGGIUNTE
+    # e costruire il dizionario nuove_etichette con le nuove etichette trovate
+    # ed eventualmente stamparlo su file. se il valore per una certa categorie è set() 
+    # significa che per quella categoria non ci sono nuove etichette
+    # la funzione restituisce i dizionari d1, d2, d3 con le etichette usate
+    # nelle risposte a tutte le domande da tutti gli autori
 
+    # Get the IDs from the first dataframe (all dataframes have the same IDs)
+    ids = dataframes["ADZ"]["Domanda1"].index
 
-# def confronta(a1, a2, a3, a4, a5, a6):
-#     disagreements = {}
-#     all_keys = set(a1.keys()).union(a2.keys(), a3.keys(), a4.keys(), a5.keys(), a6.keys()) # probabilmente non serve
-#     #print("all_keys", all_keys)
-#     for key in all_keys:
-#         values = [a1.get(key), a2.get(key), a3.get(key), a4.get(key), a5.get(key), a6.get(key)]
-#         unique_values = set(frozenset(v) if isinstance(v, set) else v for v in values)
-#         if len(unique_values) > 1:  # If there is disagreement
-#             disagreements[key] = len(values) - max(values.count(v) for v in unique_values)
-#     return disagreements
+    # output_file = stampa_su_file_ON("nuove_etichette.txt")
+    nuove_etichette = {}
+
+    d1 = {}
+    nuove_etichette["Domanda1"] = {}
+    for id_ in ids:
+        d1[id_] = {}
+        nuove_etichette["Domanda1"][id_] = {}
+
+        for autore, df in dataframes.items():
+            d1[id_][autore] = {}
+            nuove_etichette["Domanda1"][id_][autore] = {}
+            
+            # Add etichette_semplici (ci sono solo in Domanda1)
+            for etichetta in etichette_semplici:
+                d1[id_][autore][etichetta] = df["Domanda1"].at[id_, etichetta]
+            
+            # Add etichette_complesse
+            for categoria, etichette in etichette_complesse["Domanda1"].items():
+                d1[id_][autore][categoria] = set()
+                nuove_etichette["Domanda1"][id_][autore][categoria] = {}
+                for etichetta in etichette: 
+                    crocetta = df["Domanda1"].at[id_, etichetta]
+                    if etichetta.startswith("ETICHE"): #etichette aggiuntive
+                        if crocetta != "":
+                            for item in crocetta.split(","):
+                                d1[id_][autore][categoria].add(item.strip())
+                                nuove_etichette["Domanda1"][id_][autore][categoria] = item.strip()
+                                # print(autore, id_, categoria, etichetta, item.strip())
+                    else:
+                        if "X" in crocetta:
+                            d1[id_][autore][categoria].add(etichetta)
+                        elif "dedo" in crocetta:
+                            d1[id_][autore][categoria].add(etichetta+"-dedot")
+                        elif "?" in crocetta:
+                            d1[id_][autore][categoria].add(etichetta+"-???????")
+                        elif crocetta.isdigit():
+                            d1[id_][autore][categoria].add(crocetta + etichetta)
+
+    d2 = {}
+    nuove_etichette["Domanda 2"] = {}
+    for id_ in ids:
+        d2[id_] = {}
+        nuove_etichette["Domanda 2"][id_] = {}
+        for autore, df in dataframes.items():
+            d2[id_][autore] = {}
+            nuove_etichette["Domanda 2"][id_][autore] = {}
+            
+            # Add etichette_complesse
+            for categoria, etichette in etichette_complesse["Domanda 2"].items():
+                d2[id_][autore][categoria] = set()
+                nuove_etichette["Domanda 2"][id_][autore][categoria] = set()
+                for etichetta in etichette: 
+                    crocetta = df["Domanda 2"].at[id_, etichetta]
+                    if etichetta.startswith("ETICHE"): #etichette aggiuntive
+                        if crocetta != "":
+                            for item in crocetta.split(","):
+                                d2[id_][autore][categoria].add(item.strip())
+                                nuove_etichette["Domanda 2"][id_][autore][categoria].add(item.strip())
+                                # print(autore, id_, categoria, etichetta, item.strip())
+                    else:
+                        if "X" in crocetta:
+                            d2[id_][autore][categoria].add(etichetta)
+                        elif "dedo" in crocetta:
+                            d2[id_][autore][categoria].add(etichetta+"-dedot")
+                        elif "?" in crocetta:
+                            d2[id_][autore][categoria].add(etichetta+"-???????")
+
+    d3 = {}
+    nuove_etichette["Domanda 3"] = {}
+    for id_ in ids:
+        d3[id_] = {}
+        nuove_etichette["Domanda 3"][id_] = {}
+        for autore, df in dataframes.items():
+            d3[id_][autore] = {}
+            nuove_etichette["Domanda 3"][id_][autore] = {}
+
+            # Add etichette_complesse
+            for categoria, etichette in etichette_complesse["Domanda 3"].items():
+                d3[id_][autore][categoria] = set()
+                nuove_etichette["Domanda 3"][id_][autore][categoria] = set()
+                for etichetta in etichette: 
+                    crocetta = df["Domanda 3"].at[id_, etichetta]
+                    if etichetta.startswith("ETICHE"): #etichette aggiuntive
+                        if crocetta != "":
+                            for item in crocetta.split(","):
+                                d3[id_][autore][categoria].add(item.strip())
+                                nuove_etichette["Domanda 3"][id_][autore][categoria].add(item.strip())
+                                # print(autore, id_, categoria, etichetta, item.strip())
+                    else:
+                        if "X" in crocetta:
+                            d3[id_][autore][categoria].add(etichetta)
+                        elif "dedo" in crocetta:
+                            d3[id_][autore][categoria].add(etichetta+"-dedot")
+                        elif "?" in crocetta:
+                            d3[id_][autore][categoria].add(etichetta+"-???????")
+
+    # pprint.pprint(nuove_etichette)
+    # stampa_su_file_OFF(output_file)
+
+    return d1, d2, d3
 
 autori_file = {
     "ADZ": "questionario-insegnanti-campione-60-ADZ.xlsx",
@@ -99,20 +199,20 @@ NUMAUTORI = len(autori_file)
 domande = ["Domanda1", "Domanda 2", "Domanda 3"]
 
 ########################################################################
-# Legge in dataframes[autore][domanda] i file di Excel
+# Legge in risposte[autore][domanda] i file di Excel
 # con la classificazione delle risposte di ogni autore a ogni domanda
 ########################################################################
 
-dataframes = {}
+risposte = {}
 
 for sigla_autore, file_name in autori_file.items():
     file_path = f"{file_name}"
-    dataframes[sigla_autore] = {}
+    risposte[sigla_autore] = {}
     for i, domanda in enumerate(domande, start=0):
         df = pd.read_excel(file_path, sheet_name=i, skiprows=1, dtype=str)
         df.fillna('', inplace=True)  # Replace NaN with empty strings
         df.set_index(df.columns[0], inplace=True)  # Set the first column (ID) as the primary key
-        dataframes[sigla_autore][domanda] = df
+        risposte[sigla_autore][domanda] = df
 
 etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 
@@ -122,9 +222,8 @@ etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 #
 ########################
 
-
 ########################################################################
-# Generazione e stampa di tutte le etichette usate nelle risposte 
+# Generazione in etichette_complesse di tutte le etichette usate nelle risposte 
 # assumendo che tutti gli autori abbiano usato lo stesso insieme di
 # etichette: questa verifica può essere fatta con la funzione
 # confronta_etichette_usate 
@@ -146,136 +245,18 @@ for domanda in domande:
             if lista_etichette[col] not in etichette_complesse[domanda][categoria_corrente]:
                 etichette_complesse[domanda][categoria_corrente].append(lista_etichette[col])
 
-output_file = stampa_su_file_ON("categorie+etichette_60_risposte.txt")
-print_etichette_complesse_as_tree(etichette_complesse)
-stampa_su_file_OFF(output_file)
-
-print("\n\n========================\nESCO\n"  )
-exit()
+# output_file = stampa_su_file_ON("categorie+etichette_60_risposte.txt")
+# print_etichette_complesse_as_tree(etichette_complesse)
+# stampa_su_file_OFF(output_file)
 
 ########################################################################
 # Creazione dei dizionari d1, d2, d3 con tutte le etichette usate 
 # nelle risposte alle domande d1, d2, d3 da tutti gli autori
-# che contengono anche le etichette nuove
+# che contengono anche le eventuali etichette nuove, se sono
+# state aggiunte dagli autori nella colonna ETICHETTE AGGIUNTE
 ########################################################################
 
-# Get the IDs from the first dataframe (all dataframes have the same IDs)
-ids = dataframes["ADZ"]["Domanda1"].index
-
-output_file = stampa_su_file_ON("OUTPUT.txt")
-nuove_etichette = {}
-
-# print("\n\n========================\nDOMANDA 1\n"  )
-d1 = {}
-nuove_etichette["Domanda1"] = {}
-for id_ in ids:
-    d1[id_] = {}
-    nuove_etichette["Domanda1"][id_] = {}
-
-    for autore, df in dataframes.items():
-        d1[id_][autore] = {}
-        nuove_etichette["Domanda1"][id_][autore] = {}
-        
-        # Add etichette_semplici (ci sono solo in Domanda1)
-        for etichetta in etichette_semplici:
-            d1[id_][autore][etichetta] = df["Domanda1"].at[id_, etichetta]
-        
-        # Add etichette_complesse
-        for categoria, etichette in etichette_complesse["Domanda1"].items():
-            d1[id_][autore][categoria] = set()
-            nuove_etichette["Domanda1"][id_][autore][categoria] = {}
-            for etichetta in etichette: 
-                crocetta = df["Domanda1"].at[id_, etichetta]
-                if etichetta.startswith("ETICHE"): #etichette aggiuntive
-                    if crocetta != "":
-                        for item in crocetta.split(","):
-                            d1[id_][autore][categoria].add(item.strip())
-                            nuove_etichette["Domanda1"][id_][autore][categoria] = item.strip()
-                            # print(autore, id_, categoria, etichetta, item.strip())
-                else:
-                    if "X" in crocetta:
-                        d1[id_][autore][categoria].add(etichetta)
-                    elif "dedo" in crocetta:
-                        d1[id_][autore][categoria].add(etichetta+"-dedot")
-                    elif "?" in crocetta:
-                        d1[id_][autore][categoria].add(etichetta+"-???????")
-                    elif crocetta.isdigit():
-                        d1[id_][autore][categoria].add(crocetta + etichetta)
-
-# print("\n\n========================\nDOMANDA 2\n"  )
-d2 = {}
-nuove_etichette["Domanda 2"] = {}
-for id_ in ids:
-    d2[id_] = {}
-    nuove_etichette["Domanda 2"][id_] = {}
-    for autore, df in dataframes.items():
-        d2[id_][autore] = {}
-        nuove_etichette["Domanda 2"][id_][autore] = {}
-        
-        # Add etichette_complesse
-        for categoria, etichette in etichette_complesse["Domanda 2"].items():
-            d2[id_][autore][categoria] = set()
-            nuove_etichette["Domanda 2"][id_][autore][categoria] = set()
-            for etichetta in etichette: 
-                crocetta = df["Domanda 2"].at[id_, etichetta]
-                if etichetta.startswith("ETICHE"): #etichette aggiuntive
-                    if crocetta != "":
-                        for item in crocetta.split(","):
-                            d2[id_][autore][categoria].add(item.strip())
-                            nuove_etichette["Domanda 2"][id_][autore][categoria].add(item.strip())
-                            # print(autore, id_, categoria, etichetta, item.strip())
-                else:
-                    if "X" in crocetta:
-                        d2[id_][autore][categoria].add(etichetta)
-                    elif "dedo" in crocetta:
-                        d2[id_][autore][categoria].add(etichetta+"-dedot")
-                    elif "?" in crocetta:
-                        d2[id_][autore][categoria].add(etichetta+"-???????")
-
-# print("\n\n========================\nDOMANDA 3\n"  )
-d3 = {}
-nuove_etichette["Domanda 3"] = {}
-for id_ in ids:
-    d3[id_] = {}
-    nuove_etichette["Domanda 3"][id_] = {}
-    for autore, df in dataframes.items():
-        d3[id_][autore] = {}
-        nuove_etichette["Domanda 3"][id_][autore] = {}
-
-        # Add etichette_complesse
-        for categoria, etichette in etichette_complesse["Domanda 3"].items():
-            d3[id_][autore][categoria] = set()
-            nuove_etichette["Domanda 3"][id_][autore][categoria] = set()
-            for etichetta in etichette: 
-                crocetta = df["Domanda 3"].at[id_, etichetta]
-                if etichetta.startswith("ETICHE"): #etichette aggiuntive
-                    if crocetta != "":
-                        for item in crocetta.split(","):
-                            d3[id_][autore][categoria].add(item.strip())
-                            nuove_etichette["Domanda 3"][id_][autore][categoria].add(item.strip())
-                            # print(autore, id_, categoria, etichetta, item.strip())
-                else:
-                    if "X" in crocetta:
-                        d3[id_][autore][categoria].add(etichetta)
-                    elif "dedo" in crocetta:
-                        d3[id_][autore][categoria].add(etichetta+"-dedot")
-                    elif "?" in crocetta:
-                        d3[id_][autore][categoria].add(etichetta+"-???????")
-
-pprint.pprint(nuove_etichette)
-stampa_su_file_OFF(output_file)
-
-print("\n\n========================\nSTO PER USCIRE\n")
-exit()
-print("\n\n!!!!!!!!!!!!!!!!!!!!!!!!\nNON SONO USCITO\n")
-
-
-# print("Compare d1:")
-# for id_ in ids:
-#     a, b, c, d, e, f = autori_file.keys()
-#     n = confronta(d1[id_][a], d1[id_][b], d1[id_][c], d1[id_][d], d1[id_][e], d1[id_][f])
-#     if n != {}:
-#         print(f"Difference for ID {id_}: {n}")
+d1, d2, d3 = ricerca_nuove_etichette(risposte, etichette_semplici, etichette_complesse)
 
 
 ########################################################################
