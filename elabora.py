@@ -15,6 +15,17 @@ def stampa_su_file_ON(nome_file):
     sys.stdout = output_file
     return output_file
 
+def print_etichette_complesse_as_tree(etichette_complesse):
+    # Stampa il dizionario etichette_complesse ricevuto in input
+    # in forma di albero, ordinato per domanda, categoria e etichetta
+    for domanda, keys in etichette_complesse.items():
+        print(domanda)
+        for key, values in keys.items():
+            print(f"  {key}")
+            sorted_values = sorted(values, key=lambda x: x.lower()) # Sort values alphabetically
+            for value in sorted_values:
+                print(f"    {value}")
+
 def confronta_etichette_usate():
     # Costruisce per ogni autore un dizionario con le etichette usate
     # per ogni domanda e categoria e poi lo contronta con il dizionario
@@ -106,48 +117,41 @@ for sigla_autore, file_name in autori_file.items():
 etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 
 ########################
+#
 # confronta_etichette_usate()
+#
 ########################
 
 
 ########################################################################
-# Generazione di tutte le etichette usate nelle risposte a tutte le
-# domande per le prime 40 risposte classificate in modo concordato 
+# Generazione e stampa di tutte le etichette usate nelle risposte 
+# assumendo che tutti gli autori abbiano usato lo stesso insieme di
+# etichette: questa verifica può essere fatta con la funzione
+# confronta_etichette_usate 
 ########################################################################
-file_path_etichette_concordate_40_risposte = "estraggo.xlsx"
-wb = openpyxl.load_workbook(file_path_etichette_concordate_40_risposte, data_only=True)
-
+a_file_path = "questionario-insegnanti-campione-60-ADZ.xlsx"
+wb = openpyxl.load_workbook(a_file_path, data_only=True)
 etichette_complesse = {}
-
 for domanda in domande:
     sheet = wb[domanda]
     etichette_complesse[domanda] = {}
-    
-    categorie = list(sheet.iter_rows(min_row=1, max_row=1, values_only=True))[0] # tutti i nomi delle categorie
-    etichette = list(sheet.iter_rows(min_row=2, max_row=2, values_only=True))[0] # tutti i nomi delle etichette
- 
+    lista_categorie = list(sheet.iter_rows(min_row=1, max_row=1, min_col=3, values_only=True))[0] # tutti i nomi delle categorie
+    lista_etichette = list(sheet.iter_rows(min_row=2, max_row=2, min_col=3, values_only=True))[0] # tutti i nomi delle etichette
     categoria_corrente = None
-    for col, categoria in enumerate(categorie):
+    for col, categoria in enumerate(lista_categorie):
         if categoria:  # Se c'è un nome di categoria nella prima riga
             categoria_corrente = categoria
             etichette_complesse[domanda][categoria_corrente] = []
-        if categoria_corrente and etichette[col]:  # Add values under the current key
-            if etichette[col] not in etichette_complesse[domanda][categoria_corrente]:
-                etichette_complesse[domanda][categoria_corrente].append(etichette[col])
+        if categoria_corrente and lista_etichette[col]:  # Add values under the current key
+            if lista_etichette[col] not in etichette_complesse[domanda][categoria_corrente]:
+                etichette_complesse[domanda][categoria_corrente].append(lista_etichette[col])
 
-def print_etichette_complesse_as_tree(etichette_complesse):
-    for domanda, keys in etichette_complesse.items():
-        print(domanda)
-        for key, values in keys.items():
-            print(f"  {key}")
-            sorted_values = sorted(values, key=lambda x: x.lower()) # Sort values alphabetically
-            for value in sorted_values:
-                print(f"    {value}")
+output_file = stampa_su_file_ON("categorie+etichette_60_risposte.txt")
+print_etichette_complesse_as_tree(etichette_complesse)
+stampa_su_file_OFF(output_file)
 
-# output_file = stampa_su_file_ON("categorie+etichette_40_risposte.txt")
-# print_etichette_complesse_as_tree(etichette_complesse)
-# stampa_su_file_OFF(output_file)
-
+print("\n\n========================\nESCO\n"  )
+exit()
 
 ########################################################################
 # Creazione dei dizionari d1, d2, d3 con tutte le etichette usate 
