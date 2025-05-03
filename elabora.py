@@ -15,6 +15,55 @@ def stampa_su_file_ON(nome_file):
     sys.stdout = output_file
     return output_file
 
+def confronta_etichette_usate():
+    # Costruisce per ogni autore un dizionario con le etichette usate
+    # per ogni domanda e categoria e poi lo contronta con il dizionario
+    # dell'autore precedente per vedere se ci sono differenze e stampare
+    # le spcifiche differenze indicando le etichette in più e in meno
+    # rispetto all'autore precedente
+    output_file = stampa_su_file_ON("etichette_complesse_tutti_autori.txt")
+    etichette_complesse_prev = {}
+    sigla_autore_prev = None
+    for sigla_autore, file_name in autori_file.items():
+        etichette_complesse = {}
+        file_path = f"{file_name}"
+        wb = openpyxl.load_workbook(file_path, data_only=True)
+        for domanda in domande:
+            sheet = wb[domanda]
+            etichette_complesse[domanda] = {}
+            lista_categorie = list(sheet.iter_rows(min_row=1, max_row=1, min_col=3, values_only=True))[0] # tutti i nomi delle categorie
+            lista_etichette = list(sheet.iter_rows(min_row=2, max_row=2, min_col=3, values_only=True))[0] # tutti i nomi delle etichette
+            categoria_corrente = None
+            for col, categoria in enumerate(lista_categorie):
+                if categoria:  # Se c'è un nome di categoria nella prima riga
+                    categoria_corrente = categoria
+                    etichette_complesse[domanda][categoria_corrente] = []
+                if categoria_corrente and lista_etichette[col]:  # Add values under the current key
+                    if lista_etichette[col] not in etichette_complesse[domanda][categoria_corrente]:
+                        etichette_complesse[domanda][categoria_corrente].append(lista_etichette[col])
+        print(f"\n\nCERCA EVENTUALI DIFFERENZE COL PRECEDENTE ETICHETTE COMPLESSE PER {sigla_autore} rispetto a {sigla_autore_prev}:\n")
+        if etichette_complesse_prev:
+            for domanda in etichette_complesse:
+                for categoria in etichette_complesse[domanda]:
+                    if categoria not in etichette_complesse_prev[domanda]:
+                        print(f"New category in {domanda}: {categoria} --- {sigla_autore} rispetto a {sigla_autore_prev}")
+                    else:
+                        prev_values = set(etichette_complesse_prev[domanda][categoria])
+                        curr_values = set(etichette_complesse[domanda][categoria])
+                        if prev_values != curr_values:
+                            prev_difference_curr = prev_values.difference(curr_values)
+                            curr_difference_prev = curr_values.difference(prev_values)
+                            print(f"Difference in {domanda}, category {categoria} --- {sigla_autore} rispetto a {sigla_autore_prev}:")
+                            print(f"  add to {sigla_autore}: {prev_difference_curr}")
+                            print(f"  add to {sigla_autore_prev}: {curr_difference_prev}")
+                            # print(f"  Previous: {prev_values}")
+                            # print(f"  Current: {curr_values}")
+        etichette_complesse_prev = etichette_complesse
+        sigla_autore_prev = sigla_autore
+    stampa_su_file_OFF(output_file)
+
+
+
 # def confronta(a1, a2, a3, a4, a5, a6):
 #     disagreements = {}
 #     all_keys = set(a1.keys()).union(a2.keys(), a3.keys(), a4.keys(), a5.keys(), a6.keys()) # probabilmente non serve
@@ -34,10 +83,14 @@ autori_file = {
     "LF": "questionario-insegnanti-campione-60-LF.xlsx",
     "ML": "questionario-insegnanti-campione-60-ML.xlsx"
 }
-
 NUMAUTORI = len(autori_file)
 
 domande = ["Domanda1", "Domanda 2", "Domanda 3"]
+
+########################################################################
+# Legge in dataframes[autore][domanda] i file di Excel
+# con la classificazione delle risposte di ogni autore a ogni domanda
+########################################################################
 
 dataframes = {}
 
@@ -51,6 +104,10 @@ for sigla_autore, file_name in autori_file.items():
         dataframes[sigla_autore][domanda] = df
 
 etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
+
+########################
+# confronta_etichette_usate()
+########################
 
 
 ########################################################################
@@ -75,7 +132,8 @@ for domanda in domande:
             categoria_corrente = categoria
             etichette_complesse[domanda][categoria_corrente] = []
         if categoria_corrente and etichette[col]:  # Add values under the current key
-            etichette_complesse[domanda][categoria_corrente].append(etichette[col])
+            if etichette[col] not in etichette_complesse[domanda][categoria_corrente]:
+                etichette_complesse[domanda][categoria_corrente].append(etichette[col])
 
 def print_etichette_complesse_as_tree(etichette_complesse):
     for domanda, keys in etichette_complesse.items():
@@ -203,7 +261,10 @@ for id_ in ids:
 pprint.pprint(nuove_etichette)
 stampa_su_file_OFF(output_file)
 
+print("\n\n========================\nSTO PER USCIRE\n")
 exit()
+print("\n\n!!!!!!!!!!!!!!!!!!!!!!!!\nNON SONO USCITO\n")
+
 
 # print("Compare d1:")
 # for id_ in ids:

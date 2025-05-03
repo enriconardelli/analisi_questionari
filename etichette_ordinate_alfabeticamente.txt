@@ -3,434 +3,434 @@
 ========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/6)
 D1
   materiali/strumenti fisici
-    altri materiali                                                            1       0.17
-    carta / cartoncino                                                        69      11.50
-    carta / cartoncino-dedot                                                  14       2.33
-    carte / blocchi di programmazione                                         45       7.50
-    carte / blocchi di programmazione-dedot                                    1       0.17
-    corpo                                                                     10       1.67
-    corpo-dedot                                                               13       2.17
-    dalla piattaforma                                                         16       2.67
-    dalla piattaforma-???????                                                 12       2.00
-    griglia/ scacchiera                                                       35       5.83
-    griglia/ scacchiera-dedot                                                  2       0.33
-    libri                                                                     12       2.00
-    LIM                                                                       53       8.83
-    mani                                                                       6       1.00
-    occhi                                                                      6       1.00
-    Pavimento                                                                  1       0.17
-    PC / tablet                                                               84      14.00
-    PC / tablet-dedot                                                        124      20.67
-    penn/arelli cancellini                                                    24       4.00
-    quaderno                                                                   3       0.50
-    retta dei numeri                                                           6       1.00
-    robot                                                                     82      13.67
-    schede                                                                     1       0.17
-    segnalini                                                                  7       1.17
-    slide                                                                      3       0.50
-    slide su internet e personali                                              1       0.17
-    tappeto                                                                    5       0.83
+    altri materiali                                                  1       0.17
+    carta / cartoncino                                              69      11.50
+    carta / cartoncino-dedot                                        14       2.33
+    carte / blocchi di programmazione                               45       7.50
+    carte / blocchi di programmazione-dedot                          1       0.17
+    corpo                                                           10       1.67
+    corpo-dedot                                                     13       2.17
+    dalla piattaforma                                               16       2.67
+    dalla piattaforma-???????                                       12       2.00
+    griglia/ scacchiera                                             35       5.83
+    griglia/ scacchiera-dedot                                        2       0.33
+    libri                                                           12       2.00
+    LIM                                                             53       8.83
+    mani                                                             6       1.00
+    occhi                                                            6       1.00
+    Pavimento                                                        1       0.17
+    PC / tablet                                                     84      14.00
+    PC / tablet-dedot                                              124      20.67
+    penn/arelli cancellini                                          24       4.00
+    quaderno                                                         3       0.50
+    retta dei numeri                                                 6       1.00
+    robot                                                           82      13.67
+    schede                                                           1       0.17
+    segnalini                                                        7       1.17
+    slide                                                            3       0.50
+    slide su internet e personali                                    1       0.17
+    tappeto                                                          5       0.83
   attività
-    1coding unplugged                                                          1       0.17
-    2coding                                                                    1       0.17
-    AI                                                                         1       0.17
-    algoritmi                                                                 16       2.67
-    aritmetica                                                                 6       1.00
-    attività unplugged                                                        35       5.83
-    attività unplugged-dedot                                                  19       3.17
-    cicli                                                                     19       3.17
-    coding                                                                   139      23.17
-    coding analogico                                                           1       0.17
-    coding unplugged                                                          48       8.00
-    costruzione mappe                                                          1       0.17
-    dalla piattaforma (attività)                                              28       4.67
-    dalla piattaforma (attività)-???????                                      18       3.00
-    dalla piattaforma (attività)-dedot                                         1       0.17
-    decomposizione-dedot                                                       6       1.00
-    diagramma di flusso                                                       11       1.83
-    esecuzion e di istruzioni                                                  1       0.17
-    esecuzione                                                                 1       0.17
-    geografia                                                                 25       4.17
-    geometria                                                                 12       2.00
-    giochi disciplinari interattivi / attività ludiche                        21       3.50
-    intelligenza artificiale                                                   2       0.33
-    istruzioni condizionali                                                    9       1.50
-    istruzioni di base                                                         2       0.33
-    labirinto                                                                  3       0.50
-    lettura codice                                                             1       0.17
-    lettura del codice                                                         1       0.17
-    lettura di codice                                                          1       0.17
-    lettura e scrittura del codice ?                                           1       0.17
-    ludico-motoria2                                                           10       1.67
-    ludico-motoria2-dedot                                                      1       0.17
-    misure                                                                     6       1.00
-    origami                                                                    6       1.00
-    percorsi                                                                  37       6.17
-    percorsi-dedot                                                             7       1.17
-    pixel art                                                                 30       5.00
-    presentazione di una regione                                              10       1.67
-    programmazione                                                           126      21.00
-    programmazione-dedot                                                     123      20.50
-    pseudo-linguaggio                                                          1       0.17
-    pseudolinguaggio                                                           1       0.17
-    ricerca di informazioni                                                   10       1.67
-    riferimenti topologici                                                     3       0.50
-    scienza                                                                   12       2.00
-    scrittura di codice                                                        1       0.17
-    sequenza                                                                  50       8.33
-    sequenza-dedot                                                            12       2.00
-    sperimentazione                                                            7       1.17
-    storytelling                                                              11       1.83
-    strutture dati                                                             4       0.67
-    sviluppo contenuti2                                                        8       1.33
-    sviluppo iterativo                                                         6       1.00
-    sviluppo iterativo-dedot                                                   6       1.00
-    technoclil                                                                 2       0.33
-    technoClil                                                                 1       0.17
-    technoCLIL                                                                 2       0.33
-    tecno-CLIL                                                                 1       0.17
-    uso della tecnologia                                                      68      11.33
-    uso della tecnologia-dedot                                                 1       0.17
-    variabili                                                                  6       1.00
-    verifica e correzione                                                     44       7.33
-    videoscrittura                                                            30       5.00
+    1coding unplugged                                                1       0.17
+    2coding                                                          1       0.17
+    AI                                                               1       0.17
+    algoritmi                                                       16       2.67
+    aritmetica                                                       6       1.00
+    attività unplugged                                              35       5.83
+    attività unplugged-dedot                                        19       3.17
+    cicli                                                           19       3.17
+    coding                                                         139      23.17
+    coding analogico                                                 1       0.17
+    coding unplugged                                                48       8.00
+    costruzione mappe                                                1       0.17
+    dalla piattaforma (attività)                                    28       4.67
+    dalla piattaforma (attività)-???????                            18       3.00
+    dalla piattaforma (attività)-dedot                               1       0.17
+    decomposizione-dedot                                             6       1.00
+    diagramma di flusso                                             11       1.83
+    esecuzion e di istruzioni                                        1       0.17
+    esecuzione                                                       1       0.17
+    geografia                                                       25       4.17
+    geometria                                                       12       2.00
+    giochi disciplinari interattivi / attività ludiche              21       3.50
+    intelligenza artificiale                                         2       0.33
+    istruzioni condizionali                                          9       1.50
+    istruzioni di base                                               2       0.33
+    labirinto                                                        3       0.50
+    lettura codice                                                   1       0.17
+    lettura del codice                                               1       0.17
+    lettura di codice                                                1       0.17
+    lettura e scrittura del codice ?                                 1       0.17
+    ludico-motoria2                                                 10       1.67
+    ludico-motoria2-dedot                                            1       0.17
+    misure                                                           6       1.00
+    origami                                                          6       1.00
+    percorsi                                                        37       6.17
+    percorsi-dedot                                                   7       1.17
+    pixel art                                                       30       5.00
+    presentazione di una regione                                    10       1.67
+    programmazione                                                 126      21.00
+    programmazione-dedot                                           123      20.50
+    pseudo-linguaggio                                                1       0.17
+    pseudolinguaggio                                                 1       0.17
+    ricerca di informazioni                                         10       1.67
+    riferimenti topologici                                           3       0.50
+    scienza                                                         12       2.00
+    scrittura di codice                                              1       0.17
+    sequenza                                                        50       8.33
+    sequenza-dedot                                                  12       2.00
+    sperimentazione                                                  7       1.17
+    storytelling                                                    11       1.83
+    strutture dati                                                   4       0.67
+    sviluppo contenuti2                                              8       1.33
+    sviluppo iterativo                                               6       1.00
+    sviluppo iterativo-dedot                                         6       1.00
+    technoclil                                                       2       0.33
+    technoClil                                                       1       0.17
+    technoCLIL                                                       2       0.33
+    tecno-CLIL                                                       1       0.17
+    uso della tecnologia                                            68      11.33
+    uso della tecnologia-dedot                                       1       0.17
+    variabili                                                        6       1.00
+    verifica e correzione                                           44       7.33
+    videoscrittura                                                  30       5.00
   obiettivo riferito a domande successive
-    2pensiero computazionale                                                  14       2.33
-    2rianalizzare                                                              6       1.00
-    2risoluzione di problemi                                                   6       1.00
-    2videoscrittura                                                            3       0.50
-    3capacità di narrazione                                                    7       1.17
-    3conversazione collaborativa / collaborazione                             13       2.17
-    3pensiero creativo                                                         6       1.00
-    3pensiero critico                                                          6       1.00
-    3pianificazione                                                            6       1.00
-    3risoluzione di problemi                                                   6       1.00
-    3videotutorial                                                             6       1.00
-    capacità di narrazione                                                     1       0.17
-    conteggio                                                                  1       0.17
-    conversazione collaborativa / collaborazione                               4       0.67
-    costruzione di mappe                                                       1       0.17
-    indicazioni topologiche                                                    1       0.17
-    lavoro in coppia                                                           1       0.17
-    mappe                                                                      1       0.17
-    orientamento                                                               1       0.17
-    orientamento spaziale                                                     62      10.33
-    pensiero computazionale                                                   84      14.00
-    pensiero critico                                                           7       1.17
-    presentazione                                                              1       0.17
-    sviluppo contenuti                                                         2       0.33
-    technoCLIL                                                                 2       0.33
-    uso della tecnologia2                                                      3       0.50
-    uso della tecnologia2-dedot                                                1       0.17
-    uso di app didattiche                                                      1       0.17
-    videoscrittura                                                            30       5.00
+    2pensiero computazionale                                        14       2.33
+    2rianalizzare                                                    6       1.00
+    2risoluzione di problemi                                         6       1.00
+    2videoscrittura                                                  3       0.50
+    3capacità di narrazione                                          7       1.17
+    3conversazione collaborativa / collaborazione                   13       2.17
+    3pensiero creativo                                               6       1.00
+    3pensiero critico                                                6       1.00
+    3pianificazione                                                  6       1.00
+    3risoluzione di problemi                                         6       1.00
+    3videotutorial                                                   6       1.00
+    capacità di narrazione                                           1       0.17
+    conteggio                                                        1       0.17
+    conversazione collaborativa / collaborazione                     4       0.67
+    costruzione di mappe                                             1       0.17
+    indicazioni topologiche                                          1       0.17
+    lavoro in coppia                                                 1       0.17
+    mappe                                                            1       0.17
+    orientamento                                                     1       0.17
+    orientamento spaziale                                           62      10.33
+    pensiero computazionale                                         84      14.00
+    pensiero critico                                                 7       1.17
+    presentazione                                                    1       0.17
+    sviluppo contenuti                                               2       0.33
+    technoCLIL                                                       2       0.33
+    uso della tecnologia2                                            3       0.50
+    uso della tecnologia2-dedot                                      1       0.17
+    uso di app didattiche                                            1       0.17
+    videoscrittura                                                  30       5.00
   piattaforma/ ambiente
-    2Code.org                                                                  1       0.17
-    ? cita tutti robot                                                         1       0.17
-    BeeBot                                                                    46       7.67
-    BlueBot                                                                    6       1.00
-    Classroom                                                                  9       1.50
-    Code.org                                                                 111      18.50
-    Code.org-dedot                                                             2       0.33
-    Cody Roby                                                                 12       2.00
-    Common Sense Selection                                                     6       1.00
-    Cubetto                                                                    5       0.83
-    Cyber talk roboter                                                         2       0.33
-    Cyber Talk Roboter                                                         1       0.17
-    CyberTalk Roboter                                                          1       0.17
-    Cybertalk roboter                                                          1       0.17
-    dive                                                                       1       0.17
-    DOC                                                                        3       0.50
-    Doc                                                                        1       0.17
-    Geogebra                                                                   6       1.00
-    google disegni                                                             1       0.17
-    Google moduli                                                              2       0.33
-    Gworkspace                                                                10       1.67
-    Gworkspace-dedot                                                           1       0.17
-    Kahoot                                                                     6       1.00
-    Lego                                                                       6       1.00
-    Lego (dedotta da link inserita in altre risposte)                          6       1.00
-    Mind designer                                                              2       0.33
-    Mind Designer                                                              1       0.17
-    mind designer                                                              1       0.17
-    Minde Designer                                                             1       0.17
-    mTiny                                                                      6       1.00
-    Ozobot-bit                                                                 1       0.17
-    Ozobot-Bit                                                                 3       0.50
-    ozobot-Bit                                                                 1       0.17
-    programma il futuro                                                       36       6.00
-    robot DOC                                                                  1       0.17
-    Scratch                                                                   46       7.67
-    Super doc                                                                  2       0.33
-    Super DOC                                                                  1       0.17
-    Super Doc                                                                  1       0.17
-    SuperDOC                                                                   1       0.17
-    web                                                                        6       1.00
-    word                                                                       1       0.17
-    Zaply                                                                      6       1.00
+    2Code.org                                                        1       0.17
+    ? cita tutti robot                                               1       0.17
+    BeeBot                                                          46       7.67
+    BlueBot                                                          6       1.00
+    Classroom                                                        9       1.50
+    Code.org                                                       111      18.50
+    Code.org-dedot                                                   2       0.33
+    Cody Roby                                                       12       2.00
+    Common Sense Selection                                           6       1.00
+    Cubetto                                                          5       0.83
+    Cyber talk roboter                                               2       0.33
+    Cyber Talk Roboter                                               1       0.17
+    CyberTalk Roboter                                                1       0.17
+    Cybertalk roboter                                                1       0.17
+    dive                                                             1       0.17
+    DOC                                                              3       0.50
+    Doc                                                              1       0.17
+    Geogebra                                                         6       1.00
+    google disegni                                                   1       0.17
+    Google moduli                                                    2       0.33
+    Gworkspace                                                      10       1.67
+    Gworkspace-dedot                                                 1       0.17
+    Kahoot                                                           6       1.00
+    Lego                                                             6       1.00
+    Lego (dedotta da link inserita in altre risposte)                6       1.00
+    Mind designer                                                    2       0.33
+    Mind Designer                                                    1       0.17
+    mind designer                                                    1       0.17
+    Minde Designer                                                   1       0.17
+    mTiny                                                            6       1.00
+    Ozobot-bit                                                       1       0.17
+    Ozobot-Bit                                                       3       0.50
+    ozobot-Bit                                                       1       0.17
+    programma il futuro                                             36       6.00
+    robot DOC                                                        1       0.17
+    Scratch                                                         46       7.67
+    Super doc                                                        2       0.33
+    Super DOC                                                        1       0.17
+    Super Doc                                                        1       0.17
+    SuperDOC                                                         1       0.17
+    web                                                              6       1.00
+    word                                                             1       0.17
+    Zaply                                                            6       1.00
   dettagli piattaforma/ ambiente
-    Classroom                                                                  9       1.50
-    collezionista                                                              2       0.33
-    conteggio con la collezionista                                             1       0.17
-    corso 2                                                                    6       1.00
-    corso B                                                                   12       2.00
-    corso C (2021)                                                             6       1.00
-    corso C lezione 5 la collezinista                                          1       0.17
-    corso D (2021)                                                             6       1.00
-    Corso F (2021)                                                             1       0.17
-    Gclassroom                                                                 1       0.17
-    GDisegni                                                                   1       0.17
-    GDrive                                                                     2       0.33
-    GMail                                                                      6       1.00
-    GModules                                                                   1       0.17
-    Gmoduli                                                                    2       0.33
-    Google Design                                                              1       0.17
-    Google Drive                                                               1       0.17
-    Google moduli                                                              2       0.33
-    GSlides                                                                    6       1.00
-    Gumball                                                                    3       0.50
-    IA per il mare                                                             1       0.17
-    intelligenza per mare                                                      1       0.17
-    labirinto                                                                  3       0.50
-    labirinto classico                                                         1       0.17
-    Labor. Artista                                                             6       1.00
-    Labor. Gumball                                                             1       0.17
-    laboratorio con Gumball                                                    2       0.33
-    lbirinto                                                                   1       0.17
+    Classroom                                                        9       1.50
+    collezionista                                                    2       0.33
+    conteggio con la collezionista                                   1       0.17
+    corso 2                                                          6       1.00
+    corso B                                                         12       2.00
+    corso C (2021)                                                   6       1.00
+    corso C lezione 5 la collezinista                                1       0.17
+    corso D (2021)                                                   6       1.00
+    Corso F (2021)                                                   1       0.17
+    Gclassroom                                                       1       0.17
+    GDisegni                                                         1       0.17
+    GDrive                                                           2       0.33
+    GMail                                                            6       1.00
+    GModules                                                         1       0.17
+    Gmoduli                                                          2       0.33
+    Google Design                                                    1       0.17
+    Google Drive                                                     1       0.17
+    Google moduli                                                    2       0.33
+    GSlides                                                          6       1.00
+    Gumball                                                          3       0.50
+    IA per il mare                                                   1       0.17
+    intelligenza per mare                                            1       0.17
+    labirinto                                                        3       0.50
+    labirinto classico                                               1       0.17
+    Labor. Artista                                                   6       1.00
+    Labor. Gumball                                                   1       0.17
+    laboratorio con Gumball                                          2       0.33
+    lbirinto                                                         1       0.17
   metodologia?
-    forse (vago)                                                              60      10.00
-    Sì                                                                        76      12.67
+    forse (vago)                                                    60      10.00
+    Sì                                                              76      12.67
 D2
   obiettivi disciplinari
-    abilità informatiche                                                       4       0.67
-    algoritmi quotidiani                                                       6       1.00
-    automatizzazione risoluzione di problemi                                   6       1.00
-    cicli                                                                     19       3.17
-    coding                                                                   139      23.17
-    concetti base della programmazione                                        30       5.00
-    conoscere le istruzioni del linguaggio                                     7       1.17
-    consapevolezza digitale                                                    7       1.17
-    decomposizione                                                            15       2.50
-    decomposizione in sottoproblemi                                            4       0.67
-    descrizioni algoritmiche                                                  12       2.00
-    esecuzione di istruzioni                                                  22       3.67
-    generalizzazione processo di soluzione                                     7       1.17
-    informatica                                                               19       3.17
-    intelligenza artificiale                                                   2       0.33
-    leggere comandi e trasforarli in output                                    1       0.17
-    linguaggio formale                                                         6       1.00
-    logica/ pensiero logico/ competenze logiche                               18       3.00
-    mettersi dal punto di vista dell'altro per input                           1       0.17
-    pensiero computazionale                                                   84      14.00
-    problem posing computazionale                                              6       1.00
-    problem solving                                                           82      13.67
-    progettazione                                                              4       0.67
-    programmazione                                                           126      21.00
-    programmazione per la risoluzione di problemi                             26       4.33
-    scelta degli strumenti                                                    17       2.83
-    scomposizione                                                              2       0.33
-    scomposizione problemi                                                     2       0.33
-    scrittura e uso di diagrammi di flusso                                    12       2.00
-    selezione                                                                  3       0.50
-    sequenza                                                                  50       8.33
-    soluzioni algoritmiche                                                    36       6.00
-    uso IA                                                                     1       0.17
-    utilizzare AI                                                              1       0.17
-    utilizzare codici e linguaggi diversi                                      1       0.17
-    verifica/ correzione di programmi                                         19       3.17
+    abilità informatiche                                             4       0.67
+    algoritmi quotidiani                                             6       1.00
+    automatizzazione risoluzione di problemi                         6       1.00
+    cicli                                                           19       3.17
+    coding                                                         139      23.17
+    concetti base della programmazione                              30       5.00
+    conoscere le istruzioni del linguaggio                           7       1.17
+    consapevolezza digitale                                          7       1.17
+    decomposizione                                                  15       2.50
+    decomposizione in sottoproblemi                                  4       0.67
+    descrizioni algoritmiche                                        12       2.00
+    esecuzione di istruzioni                                        22       3.67
+    generalizzazione processo di soluzione                           7       1.17
+    informatica                                                     19       3.17
+    intelligenza artificiale                                         2       0.33
+    leggere comandi e trasforarli in output                          1       0.17
+    linguaggio formale                                               6       1.00
+    logica/ pensiero logico/ competenze logiche                     18       3.00
+    mettersi dal punto di vista dell'altro per input                 1       0.17
+    pensiero computazionale                                         84      14.00
+    problem posing computazionale                                    6       1.00
+    problem solving                                                 82      13.67
+    progettazione                                                    4       0.67
+    programmazione                                                 126      21.00
+    programmazione per la risoluzione di problemi                   26       4.33
+    scelta degli strumenti                                          17       2.83
+    scomposizione                                                    2       0.33
+    scomposizione problemi                                           2       0.33
+    scrittura e uso di diagrammi di flusso                          12       2.00
+    selezione                                                        3       0.50
+    sequenza                                                        50       8.33
+    soluzioni algoritmiche                                          36       6.00
+    uso IA                                                           1       0.17
+    utilizzare AI                                                    1       0.17
+    utilizzare codici e linguaggi diversi                            1       0.17
+    verifica/ correzione di programmi                               19       3.17
   risposta generica 2
-    generico                                                                 133      22.17
-    vuoto                                                                     77      12.83
+    generico                                                       133      22.17
+    vuoto                                                           77      12.83
   focus
-    contenuto                                                                 22       3.67
-    insegnante                                                                49       8.17
-    studente                                                                 202      33.67
+    contenuto                                                       22       3.67
+    insegnante                                                      49       8.17
+    studente                                                       202      33.67
   abilità strumentali digitali
-    alfabetizzazione digitale                                                 36       6.00
-    animazione digitale                                                        7       1.17
-    narrazione digitale                                                        7       1.17
-    piattaforma di debate                                                      1       0.17
-    resposnsabilizzare                                                         1       0.17
-    ricerca di informazioni su Internet                                        6       1.00
-    uso consapevole/critico della tecnologia/rete                             12       2.00
-    uso dei mezzi di comunicazione                                             8       1.33
-    uso della tecnologia                                                      68      11.33
-    uso di giochi didattici                                                   10       1.67
-    uso di Internet                                                           12       2.00
-    videoscrittura                                                            30       5.00
+    alfabetizzazione digitale                                       36       6.00
+    animazione digitale                                              7       1.17
+    narrazione digitale                                              7       1.17
+    piattaforma di debate                                            1       0.17
+    resposnsabilizzare                                               1       0.17
+    ricerca di informazioni su Internet                              6       1.00
+    uso consapevole/critico della tecnologia/rete                   12       2.00
+    uso dei mezzi di comunicazione                                   8       1.33
+    uso della tecnologia                                            68      11.33
+    uso di giochi didattici                                         10       1.67
+    uso di Internet                                                 12       2.00
+    videoscrittura                                                  30       5.00
   obiettivi trasversali
-    ?                                                                          1       0.17
-    ?? mettere tutto?                                                          1       0.17
-    analizzare oggetti                                                         6       1.00
-    argomentare                                                                5       0.83
-    argomentare le proprie ragioni con adulti e bambini                        1       0.17
-    autoimprenditorialità                                                      2       0.33
-    autoimprenditorialià                                                       1       0.17
-    autoimprenditorialtà                                                       1       0.17
-    autonomia                                                                 12       2.00
-    calcolare                                                                  6       1.00
-    coding per matematica                                                      6       1.00
-    collaborazione/ lavoro squadra                                            28       4.67
-    competenze narrative                                                       7       1.17
-    comunicare con tecnologia                                                  1       0.17
-    comunicazione con linguaggio specifico                                    12       2.00
-    comunicazione con linguaggio specifico-???????                             1       0.17
-    concetti matematici                                                        6       1.00
-    cooperative learning                                                      12       2.00
-    coping power                                                               2       0.33
-    creatività                                                                24       4.00
-    creazione di lezioni                                                       1       0.17
-    decomposizione in sottoproblemi                                            4       0.67
-    descrizione di strategie                                                   6       1.00
-    gioco                                                                      7       1.17
-    imparare a imparare                                                       17       2.83
-    imparare a ragionare                                                       7       1.17
-    inclusione                                                                 4       0.67
-    Inclusione                                                                 1       0.17
-    intelligenze multiple                                                      5       0.83
-    interdisciplinarietà                                                       7       1.17
-    migliorare oggetti                                                         6       1.00
-    orientamento spaziale                                                     62      10.33
-    peer to peer                                                               2       0.33
-    pensiero astratto                                                          6       1.00
-    pianificare fabbricazione oggetti                                          6       1.00
-    progettazione                                                              4       0.67
-    ragionamento                                                               7       1.17
-    ragionamento logico                                                       27       4.50
-    responsabilità                                                             9       1.50
-    riconoscere difetti                                                        6       1.00
-    scaffolding                                                                2       0.33
-    smontare oggetti                                                           6       1.00
-    spirito di iniziativa                                                      7       1.17
-    uso trasversale del PeCo                                                   7       1.17
+    ?                                                                1       0.17
+    ?? mettere tutto?                                                1       0.17
+    analizzare oggetti                                               6       1.00
+    argomentare                                                      5       0.83
+    argomentare le proprie ragioni con adulti e bambini              1       0.17
+    autoimprenditorialità                                            2       0.33
+    autoimprenditorialià                                             1       0.17
+    autoimprenditorialtà                                             1       0.17
+    autonomia                                                       12       2.00
+    calcolare                                                        6       1.00
+    coding per matematica                                            6       1.00
+    collaborazione/ lavoro squadra                                  28       4.67
+    competenze narrative                                             7       1.17
+    comunicare con tecnologia                                        1       0.17
+    comunicazione con linguaggio specifico                          12       2.00
+    comunicazione con linguaggio specifico-???????                   1       0.17
+    concetti matematici                                              6       1.00
+    cooperative learning                                            12       2.00
+    coping power                                                     2       0.33
+    creatività                                                      24       4.00
+    creazione di lezioni                                             1       0.17
+    decomposizione in sottoproblemi                                  4       0.67
+    descrizione di strategie                                         6       1.00
+    gioco                                                            7       1.17
+    imparare a imparare                                             17       2.83
+    imparare a ragionare                                             7       1.17
+    inclusione                                                       4       0.67
+    Inclusione                                                       1       0.17
+    intelligenze multiple                                            5       0.83
+    interdisciplinarietà                                             7       1.17
+    migliorare oggetti                                               6       1.00
+    orientamento spaziale                                           62      10.33
+    peer to peer                                                     2       0.33
+    pensiero astratto                                                6       1.00
+    pianificare fabbricazione oggetti                                6       1.00
+    progettazione                                                    4       0.67
+    ragionamento                                                     7       1.17
+    ragionamento logico                                             27       4.50
+    responsabilità                                                   9       1.50
+    riconoscere difetti                                              6       1.00
+    scaffolding                                                      2       0.33
+    smontare oggetti                                                 6       1.00
+    spirito di iniziativa                                            7       1.17
+    uso trasversale del PeCo                                         7       1.17
   ambiguità
-    ambiguità                                                                  1       0.17
-    autoimprenditorialità                                                      2       0.33
-    coniugare informatica e pratica                                            6       1.00
-    coping power                                                               2       0.33
-    intelligenze multiple                                                      5       0.83
-    mettersi dal punto di vista dell'altro per dare una serie di input         1       0.17
-    modalità giocosa                                                           6       1.00
-    peer to peer                                                               2       0.33
-    progettare un percorso                                                    12       2.00
-    Progettazione                                                              1       0.17
-    progettazione robotica                                                     6       1.00
-    scaffolding                                                                2       0.33
-    svolgere (?) algoritmi                                                     6       1.00
-    uso del pensiero computazionale per scolgere attività                      1       0.17
-    utilizzando codici e linguaggi diversi                                     1       0.17
+    ambiguità                                                        1       0.17
+    autoimprenditorialità                                            2       0.33
+    coniugare informatica e pratica                                  6       1.00
+    coping power                                                     2       0.33
+    intelligenze multiple                                            5       0.83
+    mettersi dal punto di vista dell'altro per dare una serie di input     1       0.17
+    modalità giocosa                                                 6       1.00
+    peer to peer                                                     2       0.33
+    progettare un percorso                                          12       2.00
+    Progettazione                                                    1       0.17
+    progettazione robotica                                           6       1.00
+    scaffolding                                                      2       0.33
+    svolgere (?) algoritmi                                           6       1.00
+    uso del pensiero computazionale per scolgere attività            1       0.17
+    utilizzando codici e linguaggi diversi                           1       0.17
 D3
   soft skills e metacognizione
-    analizzare processi                                                        8       1.33
-    apprendimento attraverso il gioco                                          1       0.17
-    approccio per tentativi ed errori                                          1       0.17
-    astrazione                                                                 1       0.17
-    astrazione/pensiero astratto                                               1       0.17
-    autocorrezione                                                             2       0.33
-    capacità di ascolto                                                        2       0.33
-    capacità di previsione                                                     6       1.00
-    capacità relazionali                                                      22       3.67
-    collaborazione                                                            42       7.00
-    competneze linguistiche                                                    1       0.17
-    comprensione del testo                                                     3       0.50
-    comprensione di istruzioni                                                 6       1.00
-    comprensione/analisi del problema                                          1       0.17
-    comunicare con linguaggi specifici per la situazione                      13       2.17
-    considerare diverse strategie risolutive                                   1       0.17
-    cooperative learning                                                      12       2.00
-    differenti strategire di risoluzione                                       1       0.17
-    documentare attività svolte                                                6       1.00
-    empatia                                                                    4       0.67
-    esprimersi correttamente2                                                  9       1.50
-    formulazione di domande                                                    6       1.00
-    formulazione di ipotesi                                                   13       2.17
-    imparare a imparare                                                       17       2.83
-    imparare per errori                                                        1       0.17
-    osservazione, memoria, analisi                                             6       1.00
-    pensiero creativo                                                          6       1.00
-    pensiero critico                                                           7       1.17
-    pensiero critico-???????                                                   1       0.17
-    pensiero logico                                                           38       6.33
-    precisione / rigore                                                        6       1.00
-    presentare in modo esplicativo                                             8       1.33
-    punto di vista dell'altro                                                  1       0.17
-    rielaborazione dei saperi                                                  7       1.17
-    riflettere sull'esperienza                                                 6       1.00
-    risoluzione di problemi                                                   68      11.33
-    selezione strumenti                                                        1       0.17
-    spirito di iniziativa                                                      7       1.17
-    tentativi per errore                                                       1       0.17
-    valutazione attendibilità informazioni                                     6       1.00
-    valutazione della soluzione                                                1       0.17
-    valutazione delle soluzioni                                                1       0.17
+    analizzare processi                                              8       1.33
+    apprendimento attraverso il gioco                                1       0.17
+    approccio per tentativi ed errori                                1       0.17
+    astrazione                                                       1       0.17
+    astrazione/pensiero astratto                                     1       0.17
+    autocorrezione                                                   2       0.33
+    capacità di ascolto                                              2       0.33
+    capacità di previsione                                           6       1.00
+    capacità relazionali                                            22       3.67
+    collaborazione                                                  42       7.00
+    competneze linguistiche                                          1       0.17
+    comprensione del testo                                           3       0.50
+    comprensione di istruzioni                                       6       1.00
+    comprensione/analisi del problema                                1       0.17
+    comunicare con linguaggi specifici per la situazione            13       2.17
+    considerare diverse strategie risolutive                         1       0.17
+    cooperative learning                                            12       2.00
+    differenti strategire di risoluzione                             1       0.17
+    documentare attività svolte                                      6       1.00
+    empatia                                                          4       0.67
+    esprimersi correttamente2                                        9       1.50
+    formulazione di domande                                          6       1.00
+    formulazione di ipotesi                                         13       2.17
+    imparare a imparare                                             17       2.83
+    imparare per errori                                              1       0.17
+    osservazione, memoria, analisi                                   6       1.00
+    pensiero creativo                                                6       1.00
+    pensiero critico                                                 7       1.17
+    pensiero critico-???????                                         1       0.17
+    pensiero logico                                                 38       6.33
+    precisione / rigore                                              6       1.00
+    presentare in modo esplicativo                                   8       1.33
+    punto di vista dell'altro                                        1       0.17
+    rielaborazione dei saperi                                        7       1.17
+    riflettere sull'esperienza                                       6       1.00
+    risoluzione di problemi                                         68      11.33
+    selezione strumenti                                              1       0.17
+    spirito di iniziativa                                            7       1.17
+    tentativi per errore                                             1       0.17
+    valutazione attendibilità informazioni                           6       1.00
+    valutazione della soluzione                                      1       0.17
+    valutazione delle soluzioni                                      1       0.17
   interdisciplinarieta
-    alfabetico-funzionale                                                      8       1.33
-    altre discipline                                                           6       1.00
-    ambiente                                                                   1       0.17
-    ascolto e parlato                                                          7       1.17
-    competenze linguistiche+                                                   1       0.17
-    comprensione del testo                                                     3       0.50
-    contorno di figura piana                                                   6       1.00
-    costruzione del testo                                                      1       0.17
-    costruzione di un testo                                                    1       0.17
-    Ecologia                                                                   1       0.17
-    ecologia                                                                   1       0.17
-    educazione civica                                                          6       1.00
-    esplorare e descrivere oggetti e materiali                                 6       1.00
-    geografia                                                                 25       4.17
-    geometria                                                                 12       2.00
-    italiano                                                                   9       1.50
-    lato                                                                       6       1.00
-    lingua straniera                                                           7       1.17
-    matematica                                                                36       6.00
-    modelli geometrici                                                         6       1.00
-    movimenti del corpo al ritmo della musica                                  6       1.00
-    operazioni retta dei numeri                                                6       1.00
-    orientamento spaziale                                                     62      10.33
-    puto di vista dell'altro                                                   1       0.17
-    rappresentazione dei dati                                                  6       1.00
-    riferimenti spaziali/ indicatori topologici                               37       6.17
-    scienze                                                                   17       2.83
-    scrittura                                                                  9       1.50
-    sequenzialità                                                             12       2.00
-    spazio e figure                                                           14       2.33
-    storia                                                                     6       1.00
-    storie interattive e animazioni                                            1       0.17
-    tecnologia                                                                 7       1.17
+    alfabetico-funzionale                                            8       1.33
+    altre discipline                                                 6       1.00
+    ambiente                                                         1       0.17
+    ascolto e parlato                                                7       1.17
+    competenze linguistiche+                                         1       0.17
+    comprensione del testo                                           3       0.50
+    contorno di figura piana                                         6       1.00
+    costruzione del testo                                            1       0.17
+    costruzione di un testo                                          1       0.17
+    Ecologia                                                         1       0.17
+    ecologia                                                         1       0.17
+    educazione civica                                                6       1.00
+    esplorare e descrivere oggetti e materiali                       6       1.00
+    geografia                                                       25       4.17
+    geometria                                                       12       2.00
+    italiano                                                         9       1.50
+    lato                                                             6       1.00
+    lingua straniera                                                 7       1.17
+    matematica                                                      36       6.00
+    modelli geometrici                                               6       1.00
+    movimenti del corpo al ritmo della musica                        6       1.00
+    operazioni retta dei numeri                                      6       1.00
+    orientamento spaziale                                           62      10.33
+    puto di vista dell'altro                                         1       0.17
+    rappresentazione dei dati                                        6       1.00
+    riferimenti spaziali/ indicatori topologici                     37       6.17
+    scienze                                                         17       2.83
+    scrittura                                                        9       1.50
+    sequenzialità                                                   12       2.00
+    spazio e figure                                                 14       2.33
+    storia                                                           6       1.00
+    storie interattive e animazioni                                  1       0.17
+    tecnologia                                                       7       1.17
   riferito a domanda precedente
-    abilità informatiche                                                       4       0.67
-    alfabetizzazione digitale                                                 36       6.00
-    analisi dati e organizzazione                                              6       1.00
-    coding                                                                   139      23.17
-    competenze digitali                                                       16       2.67
-    concetti base della programmazione                                        30       5.00
-    costruzione di storie interattive e animazioni                             1       0.17
-    decomposizione                                                            15       2.50
-    descrizione algoritmica di processi concreti                              18       3.00
-    manipolazione                                                              6       1.00
-    modellazione dell'informazione                                             6       1.00
-    narrazione digitale con programmazione                                    10       1.67
-    obiettivi piattaforma                                                      6       1.00
-    pixel art                                                                 30       5.00
-    potenzialità del linguaggio informatico di descrivere altre attività       6       1.00
-    programmazione                                                           126      21.00
-    programmazione di robot                                                    6       1.00
-    rappresentare processi mediante modelli logici                             6       1.00
-    rappresentazione dei dati/ informazione                                   12       2.00
-    risoluzione computazionale di problemi                                     9       1.50
-    robotica educativa                                                         6       1.00
-    scelta degli strumenti                                                    17       2.83
-    selezione                                                                  3       0.50
-    sequenza                                                                  50       8.33
-    soluzioni algoritmiche                                                    36       6.00
-    tentativi ed errori                                                        1       0.17
-    uso consapevole della tecnologia                                           8       1.33
-    uso di siti web                                                            6       1.00
-    uso espressico della tecnologia                                            1       0.17
-    uso sicuro della tecnologia                                                6       1.00
-    utilizzare espressioni condizionali                                        1       0.17
-    verifica/ correzione errori                                               18       3.00
+    abilità informatiche                                             4       0.67
+    alfabetizzazione digitale                                       36       6.00
+    analisi dati e organizzazione                                    6       1.00
+    coding                                                         139      23.17
+    competenze digitali                                             16       2.67
+    concetti base della programmazione                              30       5.00
+    costruzione di storie interattive e animazioni                   1       0.17
+    decomposizione                                                  15       2.50
+    descrizione algoritmica di processi concreti                    18       3.00
+    manipolazione                                                    6       1.00
+    modellazione dell'informazione                                   6       1.00
+    narrazione digitale con programmazione                          10       1.67
+    obiettivi piattaforma                                            6       1.00
+    pixel art                                                       30       5.00
+    potenzialità del linguaggio informatico di descrivere altre attività     6       1.00
+    programmazione                                                 126      21.00
+    programmazione di robot                                          6       1.00
+    rappresentare processi mediante modelli logici                   6       1.00
+    rappresentazione dei dati/ informazione                         12       2.00
+    risoluzione computazionale di problemi                           9       1.50
+    robotica educativa                                               6       1.00
+    scelta degli strumenti                                          17       2.83
+    selezione                                                        3       0.50
+    sequenza                                                        50       8.33
+    soluzioni algoritmiche                                          36       6.00
+    tentativi ed errori                                              1       0.17
+    uso consapevole della tecnologia                                 8       1.33
+    uso di siti web                                                  6       1.00
+    uso espressico della tecnologia                                  1       0.17
+    uso sicuro della tecnologia                                      6       1.00
+    utilizzare espressioni condizionali                              1       0.17
+    verifica/ correzione errori                                     18       3.00
   risposta generica 3
-    copia-incolla risposta 2                                                  10       1.67
-    generico                                                                 133      22.17
-    vuoto                                                                     77      12.83
+    copia-incolla risposta 2                                        10       1.67
+    generico                                                       133      22.17
+    vuoto                                                           77      12.83

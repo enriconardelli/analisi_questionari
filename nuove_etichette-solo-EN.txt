@@ -1,0 +1,58 @@
+
+
+========================
+DOMANDA 1
+
+EN 548 attività ETICHETTE AGGIUNTE2 intelligenza artificiale
+EN 548 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 IA per il mare
+EN 550 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 collezionista
+EN 550 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 Google Design
+EN 550 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 Google Drive
+EN 550 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 Gumball
+EN 550 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 labirinto
+EN 550 obiettivo riferito a domande successive ETICHETTE AGGIUNTE3 costruzione di mappe
+EN 553 piattaforma/ ambiente ETICHETTE AGGIUNTE4 DOC
+EN 570 attività ETICHETTE AGGIUNTE2 tecno-CLIL
+EN 580 piattaforma/ ambiente ETICHETTE AGGIUNTE4 Cubetto
+EN 580 piattaforma/ ambiente ETICHETTE AGGIUNTE4 Cybertalk roboter
+EN 580 piattaforma/ ambiente ETICHETTE AGGIUNTE4 Mind designer
+EN 580 piattaforma/ ambiente ETICHETTE AGGIUNTE4 Ozobot-Bit
+EN 580 piattaforma/ ambiente ETICHETTE AGGIUNTE4 Super DOC
+EN 581 materiali/strumenti fisici ETICHETTE AGGIUNTE tappeto
+EN 589 attività ETICHETTE AGGIUNTE2 riferimenti topologici
+EN 603 attività ETICHETTE AGGIUNTE2 strutture dati
+EN 607 obiettivo riferito a domande successive ETICHETTE AGGIUNTE3 lavoro in coppia
+EN 613 attività ETICHETTE AGGIUNTE2 riferimenti topologici
+EN 617 dettagli piattaforma/ ambiente ETICHETTE AGGIUNTE5 Google moduli
+EN 626 attività ETICHETTE AGGIUNTE2 riferimenti topologici
+
+
+========================
+DOMANDA 2
+
+EN 548 obiettivi disciplinari ETICHETTE AGGIUNTE intelligenza artificiale
+EN 553 ambiguità ETICHETTE AGGIUNTE6 coping power
+EN 553 ambiguità ETICHETTE AGGIUNTE6 peer to peer
+EN 553 ambiguità ETICHETTE AGGIUNTE6 scaffolding
+EN 553 obiettivi trasversali ETICHETTE AGGIUNTE5 cooperative learning
+EN 553 obiettivi trasversali ETICHETTE AGGIUNTE5 inclusione
+EN 556 obiettivi disciplinari ETICHETTE AGGIUNTE decomposizione
+EN 582 obiettivi trasversali ETICHETTE AGGIUNTE5 autoimprenditorialià
+EN 582 obiettivi trasversali ETICHETTE AGGIUNTE5 imparare a imparare
+EN 582 obiettivi trasversali ETICHETTE AGGIUNTE5 intelligenze multiple
+EN 589 obiettivi disciplinari ETICHETTE AGGIUNTE decomposizione
+EN 607 obiettivi disciplinari ETICHETTE AGGIUNTE selezione
+EN 612 obiettivi trasversali ETICHETTE AGGIUNTE5 argomentare
+
+
+========================
+DOMANDA 3
+
+EN 548 interdisciplinarieta ETICHETTE AGGIUNTE2 ambiente
+EN 553 soft skills e metacognizione ETICHETTE AGGIUNTE competneze linguistiche
+EN 581 interdisciplinarieta ETICHETTE AGGIUNTE2 comprensione del testo
+EN 581 interdisciplinarieta ETICHETTE AGGIUNTE2 costruzione del testo
+EN 581 soft skills e metacognizione ETICHETTE AGGIUNTE collaborazione
+EN 607 riferito a domanda precedente ETICHETE AGGIUNTE selezione
+EN 612 soft skills e metacognizione ETICHETTE AGGIUNTE capacità di ascolto
+EN 612 soft skills e metacognizione ETICHETTE AGGIUNTE empatia
