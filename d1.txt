@@ -1,0 +1,6878 @@
+631
+  ADZ
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+636
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+638
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+643
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+646
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+652
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+654
+  ADZ
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      .
+      4
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      coding
+      coding unplugged
+      ludico-motoria2
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      BlueBot
+      Code.org
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+658
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso B
+    metodologia?
+      forse (vago)
+659
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      corso 2
+    metodologia?
+      forse (vago)
+662
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      6
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      Common Sense Selection
+      Lego
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+668
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      1
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+680
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+681
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      scienza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Kahoot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+682
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+      1
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      corpo-dedot
+      griglia/ scacchiera
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      pixel art
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      mTiny
+      Zaply
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+688
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera
+      robot
+    attività
+      misure
+      programmazione-dedot
+      sperimentazione
+      sviluppo iterativo-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+690
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      libri
+      PC / tablet-dedot
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      web
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Mail
+      G-Slides
+    metodologia?
+      Sì
+698
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      segnalini
+    attività
+      attività unplugged-dedot
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+706
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      algoritmi
+      diagramma di flusso
+      sequenza-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+717
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+722
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      1
+      5
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+    attività
+      attività unplugged-dedot
+      percorsi
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+723
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      cicli
+      decomposizione-dedot
+      sequenza-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      2rianalizzare
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+      Lego (dedotta da link inserita in altre risposte)
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+728
+  ADZ
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+      4
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+730
+  ADZ
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      mani
+      occhi
+    attività
+      geometria
+      origami
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3pensiero creativo
+      3pensiero critico
+    piattaforma/ ambiente
+      Geogebra
+    dettagli piattaforma/ ambiente
+    metodologia?
+736
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+738
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+740
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C (2021)
+      corso D (2021)
+    metodologia?
+744
+  ADZ
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet
+      robot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione
+      sviluppo iterativo
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+745
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      5
+      g
+      i
+      i
+      n
+      o
+      r
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet
+    attività
+      algoritmi
+      coding
+      istruzioni condizionali
+      programmazione
+      variabili
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3risoluzione di problemi
+      3videotutorial
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+747
+  ADZ
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      4
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+749
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+756
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma-???????
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)-???????
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+759
+  ADZ
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      LIM
+      PC / tablet
+      penn/arelli cancellini
+    attività
+      programmazione
+      storytelling
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2risoluzione di problemi
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pianificazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+766
+  ADZ
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+      2
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      percorsi
+      programmazione-dedot
+      scienza
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+767
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+773
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+      retta dei numeri
+      robot
+    attività
+      aritmetica
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+774
+  ADZ
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      .
+      0
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      sviluppo contenuti2
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+779
+  ADZ
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      7
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      robot
+    attività
+      attività unplugged
+      percorsi
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+784
+  ADZ
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  GA
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      libri
+      robot
+    attività
+      attività unplugged
+      programmazione-dedot
+      sequenza
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cody Roby
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+788
+  ADZ
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      4
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+791
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      Labor. Artista
+    metodologia?
+      forse (vago)
+548
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      intelligenza artificiale
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org-dedot
+    dettagli piattaforma/ ambiente
+      intelligenza artificiale per il mare
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+      LIM
+      PC / tablet
+    attività
+      intelligenza artificiale
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      intelligenza artificiale per il mare
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+      collezionista
+      G-Drive
+      labirinto2
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      dalla piattaforma (attività)-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+      intelligenza artificiale per il mare
+    metodologia?
+550
+  ADZ
+    ore sett.
+      X
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+      PC / tablet-dedot
+    attività
+      coding
+      dalla piattaforma (attività)
+      programmazione-dedot
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+      Code.org
+      Gworkspace-dedot
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      corso C lezione 5 la collezionista
+      G-Disegni
+      G-Drive
+      labirinto2
+      laboratorio con Gumball
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      a
+      a
+      a
+      a
+      c
+      d
+      e
+      e
+      e
+      i
+      l
+      m
+      n
+      n
+      s
+      t
+      t
+      z
+    classe
+    materiali/strumenti fisici
+    attività
+      coding
+      dalla piattaforma (attività)
+      labirinto
+      programmazione-dedot
+    obiettivo riferito a domande successive
+      2videoscrittura
+      3conteggio
+      3mappe
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      laboratorio con Gumball
+    metodologia?
+      Sì
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+    obiettivo riferito a domande successive
+      2videoscrittura
+      3costruzione di mappe
+    piattaforma/ ambiente
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      collezionista
+      G-Design
+      G-Drive
+      labirinto2
+      laboratorio con Gumball
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      a
+      a
+      e
+      g
+      i
+      i
+      m
+      n
+      n
+      o
+      s
+      t
+      t
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      laboratorio con Gumball
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      a
+      a
+      a
+      a
+      c
+      d
+      e
+      e
+      e
+      i
+      l
+      m
+      n
+      n
+      s
+      t
+      t
+      z
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+      Code.org
+      Gworkspace
+      programma il futuro
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+      a
+      a
+      e
+      e
+      e
+      i
+      l
+      m
+      m
+      n
+      n
+      s
+      t
+      t
+      t
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      costruzione mappe
+      dalla piattaforma (attività)
+      programmazione-dedot
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+      Code.org-dedot
+      programma il futuro
+    dettagli piattaforma/ ambiente
+      conteggio con la collezionista
+      G-Disegni
+      G-Drive
+      labirinto2
+      laboratorio con Gumball
+    metodologia?
+553
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      corpo-dedot
+      dalla piattaforma
+      griglia/ scacchiera-dedot
+      PC / tablet-dedot
+      quaderno
+      robot
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+      percorsi-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      robot DOC
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+      attività unplugged
+      coding unplugged
+      dalla piattaforma (attività)
+      ludico-motoria2
+      percorsi-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      robot DOC
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      griglia/ scacchiera-dedot
+      PC / tablet-dedot
+      penn/arelli cancellini
+      robot
+    attività
+      attività unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      robot DOC
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      1
+      ?
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet
+      robot
+      tappeto
+    attività
+      attività unplugged
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      robot DOC
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      quaderno
+      robot
+    attività
+      attività unplugged
+      coding
+      dalla piattaforma (attività)
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      PC / tablet-dedot
+      robot
+    attività
+      attività unplugged
+      percorsi-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+      robot DOC
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+556
+  ADZ
+    ore sett.
+       
+       
+       
+      1
+      3
+      a
+      a
+      d
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+    attività
+      coding
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      coding
+      coding unplugged
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      .
+      1
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      robot
+    attività
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+       
+       
+       
+      1
+      3
+      a
+      a
+      d
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+      coding
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      PC / tablet-dedot
+      robot
+    attività
+      attività unplugged
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+569
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+570
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      techno-CLIL
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+       
+       
+      .
+      1
+      e
+      e
+      g
+      g
+      s
+    materiali/strumenti fisici
+    attività
+      techno-CLIL
+    obiettivo riferito a domande successive
+      uso della tecnologia2-dedot
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      techno-CLIL
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      dalla piattaforma
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)
+      techno-CLIL
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      techno-CLIL
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      uso della tecnologia2-dedot
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      techno-CLIL
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+572
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+580
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cubetto
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cubetto
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cubetto
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Cubetto
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Cody Roby
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      robot DOC
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      robot
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      BeeBot
+      Cubetto
+      Cyber Talk Robot
+      Mind Designer
+      Ozobot Bit
+      Super Doc
+    dettagli piattaforma/ ambiente
+    metodologia?
+581
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      tappeto
+    attività
+      attività unplugged
+      coding unplugged
+      esecuzione di istruzioni
+      ludico-motoria2
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      tappeto
+    attività
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      altri materiali
+      carte / blocchi di programmazione
+      tappeto
+    attività
+      attività unplugged
+      coding
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+    attività
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+    attività
+      attività unplugged
+      esecuzione di istruzioni
+      percorsi-dedot
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+582
+  ADZ
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      uso della tecnologia-dedot
+    obiettivo riferito a domande successive
+      2uso di app didattiche
+      3conversazione collaborativa / collaborazione
+      3presentazione
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      2uso della tecnologia2
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      1
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      giochi disciplinari interattivi / attività ludiche
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+584
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      d
+      e
+      f
+      i
+      i
+      n
+      n
+      n
+      o
+      o
+      t
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      .
+      .
+      d
+      n
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      d
+      e
+      f
+      i
+      i
+      n
+      n
+      n
+      o
+      o
+      t
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      dalla piattaforma (attività)
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+      d
+      e
+      f
+      i
+      i
+      n
+      n
+      n
+      o
+      o
+      t
+    classe
+    materiali/strumenti fisici
+      LIM
+    attività
+      pixel art
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+      D
+      N
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet-dedot
+    attività
+      pixel art
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+589
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+    attività
+      coding
+      geografia
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      robot
+      tappeto
+    attività
+      coding
+      geografia
+      percorsi-dedot
+      programmazione
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3orientamento spaziale
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+    attività
+      coding
+      geografia
+      percorsi
+      programmazione-dedot
+      riferimenti topologici
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+      2
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      robot
+    attività
+      geografia
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      robot
+      tappeto
+    attività
+      coding
+      geografia
+      percorsi
+      programmazione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+      3indicazioni topologiche
+      3orientamento spaziale
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      griglia/ scacchiera
+    attività
+      coding
+      geografia
+      percorsi-dedot
+      programmazione
+      verifica e correzione
+    obiettivo riferito a domande successive
+      2pensiero computazionale
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+603
+  ADZ
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      slide
+    attività
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      slide
+    attività
+      algoritmi
+      coding unplugged
+      programmazione
+      strutture dati
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      algoritmi
+      programmazione
+      strutture dati
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      slide
+    attività
+      algoritmi
+      programmazione
+      strutture dati
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      slide
+    attività
+      algoritmi
+      coding
+      programmazione
+      pseudo-linguaggio
+      strutture dati
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      1
+      3
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      slide
+    attività
+      algoritmi
+      programmazione
+      pseudo-linguaggio
+      strutture dati
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+605
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino-dedot
+      PC / tablet-dedot
+    attività
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding
+      coding unplugged
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      coding analogico
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      attività unplugged-dedot
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+607
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+       
+       
+       
+       
+      1
+      a
+      a
+      a
+      d
+      e
+      e
+      e
+      e
+      i
+      i
+      m
+      m
+      n
+      p
+      r
+      s
+      s
+      t
+      t
+      u
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      presentazione di una regione
+      storytelling
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+      1
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      presentazione di una regione
+      programmazione-dedot
+      storytelling
+    obiettivo riferito a domande successive
+      2videoscrittura
+      3capacità di narrazione
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet
+    attività
+      presentazione di una regione
+      ricerca di informazioni
+      sviluppo contenuti2
+      verifica e correzione
+    obiettivo riferito a domande successive
+      3lavoro in coppia
+      3sviluppo contenuti
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  GA
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      geografia
+      ricerca di informazioni
+      storytelling
+      sviluppo contenuti2
+    obiettivo riferito a domande successive
+      3conversazione collaborativa / collaborazione
+      3sviluppo contenuti
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+       
+       
+       
+       
+       
+      1
+      2
+      a
+      a
+      a
+      a
+      e
+      e
+      e
+      i
+      i
+      m
+      m
+      n
+      o
+      p
+      r
+      r
+      s
+      s
+      t
+      t
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      coding
+      ricerca di informazioni
+      storytelling
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      2uso della tecnologia2
+      2videoscrittura
+      3capacità di narrazione
+      3conversazione collaborativa / collaborazione
+      3pensiero critico
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+      1
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      LIM
+      PC / tablet
+    attività
+      programmazione
+      ricerca di informazioni
+      storytelling
+      uso della tecnologia
+    obiettivo riferito a domande successive
+      2videoscrittura
+    piattaforma/ ambiente
+      Scratch
+      Word
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+612
+  ADZ
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+    attività
+      istruzioni di base
+      presentazione di una regione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  CM
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+    attività
+      cicli
+      diagramma di flusso
+      istruzioni condizionali
+      ludico-motoria2-dedot
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      penn/arelli cancellini
+    attività
+      coding unplugged
+      diagramma di flusso
+      giochi disciplinari interattivi / attività ludiche
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+    attività
+      cicli
+      coding unplugged
+      diagramma di flusso
+      istruzioni condizionali
+    obiettivo riferito a domande successive
+      3conversazione collaborativa / collaborazione
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      cicli
+      diagramma di flusso
+      giochi disciplinari interattivi / attività ludiche
+      programmazione
+      sequenza
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  ML
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      corpo
+      penn/arelli cancellini
+    attività
+      cicli
+      diagramma di flusso
+      istruzioni condizionali
+      istruzioni di base
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+613
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet-dedot
+    attività
+      attività unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+    attività
+      attività unplugged
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      attività unplugged
+      riferimenti topologici
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+      segnalini
+    attività
+      coding unplugged
+      dalla piattaforma (attività)
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+      forse (vago)
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      PC / tablet-dedot
+    attività
+      attività unplugged
+      coding
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+      G-Classroom
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione-dedot
+      PC / tablet-dedot
+    attività
+      attività unplugged
+      percorsi-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+617
+  ADZ
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Modules
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding unplugged
+      programmazione-dedot
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Modules
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Scratch
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Modules
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      Scratch
+    dettagli piattaforma/ ambiente
+      G-Classroom
+      G-Modules
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding
+      coding unplugged
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+      Scratch
+    dettagli piattaforma/ ambiente
+      G-Modules
+    metodologia?
+  ML
+    ore sett.
+    pacchetto ore
+      2
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+      programmazione
+      uso della tecnologia
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Gworkspace
+    dettagli piattaforma/ ambiente
+      G-Classroom
+    metodologia?
+626
+  ADZ
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+    attività
+      coding unplugged-dedot
+      lettura codice
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  CM
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+    attività
+      coding
+      lettura codice
+      ludico-motoria2
+      percorsi
+      programmazione
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  EN
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+      penn/arelli cancellini
+    attività
+      coding
+      percorsi
+      programmazione-dedot
+      riferimenti topologici
+      verifica e correzione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      carte / blocchi di programmazione
+      corpo
+      griglia/ scacchiera
+    attività
+      attività unplugged
+      coding
+      ludico-motoria2
+      percorsi
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  LF
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+      quaderno
+      schede
+    attività
+      coding unplugged
+      lettura codice
+      percorsi
+      programmazione
+      sperimentazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+  ML
+    ore sett.
+    pacchetto ore
+      8
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      carta / cartoncino
+      carte / blocchi di programmazione
+      griglia/ scacchiera
+    attività
+      attività unplugged
+      coding
+      lettura codice
+      percorsi
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+    dettagli piattaforma/ ambiente
+    metodologia?
+      Sì
+629
+  ADZ
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+       
+       
+      1
+      a
+      e
+      e
+      l
+      m
+      s
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  CM
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+       
+      /
+      1
+      a
+      e
+      e
+      m
+      o
+      r
+      s
+    classe
+       
+       
+      ,
+      4
+      5
+      a
+      c
+      e
+      h
+      n
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  EN
+    ore sett.
+    pacchetto ore
+      0
+      1
+    altro tempo
+    classe
+    materiali/strumenti fisici
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  GA
+    ore sett.
+    pacchetto ore
+    altro tempo
+      /
+      1
+      e
+      e
+      h
+      m
+      s
+    classe
+       
+       
+      ,
+      ,
+      4
+      5
+      ?
+      °
+      °
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      1coding unplugged
+      2coding
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  LF
+    ore sett.
+    pacchetto ore
+    altro tempo
+       
+       
+       
+      1
+      a
+      a
+      e
+      e
+      l
+      m
+      o
+      r
+      s
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding
+      coding unplugged
+      programmazione
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?
+  ML
+    ore sett.
+      .
+      0
+      2
+      5
+    pacchetto ore
+    altro tempo
+    classe
+    materiali/strumenti fisici
+      PC / tablet-dedot
+    attività
+      coding unplugged
+    obiettivo riferito a domande successive
+    piattaforma/ ambiente
+      Code.org
+    dettagli piattaforma/ ambiente
+    metodologia?

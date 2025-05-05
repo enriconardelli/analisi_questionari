@@ -1,0 +1,3942 @@
+631
+  ADZ
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+  CM
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+  EN
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+  GA
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+  LF
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+  ML
+    obiettivi disciplinari
+      automatizzazione risoluzione di problemi
+      concetti base della programmazione
+      generalizzazione processo di soluzione
+      pensiero computazionale
+      problem posing computazionale
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettazione robotica
+636
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+638
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+643
+  ADZ
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+646
+  ADZ
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      cicli
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+652
+  ADZ
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+  CM
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+  EN
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+  ML
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a ragionare
+    ambiguità
+      svolgere (?) algoritmi
+654
+  ADZ
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      consapevolezza digitale
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      problem solving
+      programmazione
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+    obiettivi trasversali
+    ambiguità
+658
+  ADZ
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+659
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+  GA
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso di Internet
+    obiettivi trasversali
+      ragionamento
+      uso trasversale del PeCo
+    ambiguità
+662
+  ADZ
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      animazione digitale
+      narrazione digitale
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      gioco
+    ambiguità
+668
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+680
+  ADZ
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+  CM
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+  EN
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+  GA
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+  LF
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+  ML
+    obiettivi disciplinari
+      coding
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      modalità giocosa
+681
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+682
+  ADZ
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+  GA
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+  ML
+    obiettivi disciplinari
+      scelta degli strumenti
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      creatività
+      descrizione di strategie
+      pensiero logico
+    ambiguità
+688
+  ADZ
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+690
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      ricerca di informazioni su Internet
+    obiettivi trasversali
+      interdisciplinarità
+    ambiguità
+698
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      calcolare
+      orientamento spaziale
+    ambiguità
+      progettare un percorso
+706
+  ADZ
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+      programmazione per la risoluzione di problemi
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+717
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      coding per matematica
+    ambiguità
+722
+  ADZ
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+723
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso di giochi didattici
+    obiettivi trasversali
+      analizzare oggetti
+      migliorare oggetti
+      pianificare fabbricazione oggetti
+      riconoscere difetti
+      smontare oggetti
+    ambiguità
+728
+  ADZ
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+      informatica
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+730
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+      concetti matematici
+      pensiero astratto
+      responsabilità
+    ambiguità
+      coniugare informatica e pratica
+736
+  ADZ
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+  CM
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+  EN
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+  GA
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+  LF
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+  ML
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      progettare un percorso
+738
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+740
+  ADZ
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+  CM
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+  EN
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+  LF
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+  ML
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      autonomia
+    ambiguità
+744
+  ADZ
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+745
+  ADZ
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+      concetti base della programmazione
+      pensiero computazionale
+      problem solving
+      programmazione
+      programmazione per la risoluzione di problemi
+      soluzioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+747
+  ADZ
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+749
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso consapevole/critico della tecnologia/rete
+      uso della tecnologia
+      uso di Internet
+    obiettivi trasversali
+    ambiguità
+756
+  ADZ
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+759
+  ADZ
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+  GA
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+  ML
+    obiettivi disciplinari
+      concetti base della programmazione
+      problem solving
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      competenze narrative
+      creatività
+      pensiero logico
+    ambiguità
+766
+  ADZ
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+  GA
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+  ML
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      sequenza
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      orientamento spaziale
+      pensiero logico
+    ambiguità
+767
+  ADZ
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  GA
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  ML
+    obiettivi disciplinari
+      scrittura e uso di diagrammi di flusso
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+773
+  ADZ
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+774
+  ADZ
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+  CM
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+  EN
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+  GA
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+  LF
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+  ML
+    obiettivi disciplinari
+      algoritmi quotidiani
+      descrizioni algoritmiche
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+      orientamento spaziale
+    ambiguità
+779
+  ADZ
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      conoscere le istruzioni del linguaggio
+      problem solving
+      programmazione per la risoluzione di problemi
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+784
+  ADZ
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      esecuzione di istruzioni
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+788
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+791
+  ADZ
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      descrizioni algoritmiche
+      linguaggio formale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+548
+  ADZ
+    obiettivi disciplinari
+      uso IA
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      responsabilizzare
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+      interdisciplinarità
+      responsabilità
+    ambiguità
+  EN
+    obiettivi disciplinari
+      intelligenza artificiale
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      responsabilità
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione
+      programmazione per la risoluzione di problemi
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+      responsabilità
+    ambiguità
+  ML
+    obiettivi disciplinari
+      uso IA
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+      ambiguità
+550
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+      uso trasversale del PeCo
+    ambiguità
+  GA
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+    obiettivi trasversali
+      uso trasversale del PeCo
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+553
+  ADZ
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      inclusione
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      cooperative learning
+      coping power
+      inclusione
+      peer to peer
+      scaffolding
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      inclusione
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+      cooperative learning
+      inclusione
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+      cooperative learning
+      coping power
+      inclusione
+      peer to peer
+      scaffolding
+    ambiguità
+556
+  ADZ
+    obiettivi disciplinari
+      scomposizione problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+      scomposizione problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      scomposizione problemi
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      generalizzazione processo di soluzione
+      problem solving
+      scomposizione problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      ragionamento
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+      scomposizione problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+      scomposizione problemi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+569
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      vuoto
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+      videoscrittura
+    obiettivi trasversali
+    ambiguità
+570
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      piattaforma di debate
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso della tecnologia
+      uso di giochi didattici
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      narrazione digitale
+      uso della tecnologia
+    obiettivi trasversali
+      competenze narrative
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      animazione digitale
+      uso della tecnologia
+      uso di giochi didattici
+    obiettivi trasversali
+      gioco
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso dei mezzi di comunicazione
+      uso della tecnologia
+      uso di giochi didattici
+    obiettivi trasversali
+      comunicare con tecnologia
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+      uso di giochi didattici
+    obiettivi trasversali
+      argomentare
+      creazione di lezioni
+    ambiguità
+572
+  ADZ
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      coding
+      consapevolezza digitale
+    risposta generica 2
+      vuoto
+    focus
+      studente
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      coding
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+      alfabetizzazione digitale
+      uso della tecnologia
+    obiettivi trasversali
+    ambiguità
+580
+  ADZ
+    obiettivi disciplinari
+      informatica
+      pensiero computazionale
+      programmazione
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      informatica
+      pensiero computazionale
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+      programmazione
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      informatica
+      pensiero computazionale
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      informatica
+      pensiero computazionale
+      programmazione
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+      programmazione
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+581
+  ADZ
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      programmazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      programmazione
+      verifica/ correzione di programmi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione
+    risposta generica 2
+      vuoto
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+582
+  ADZ
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      auto-imprenditorialità
+      imparare a imparare
+      intelligenze multiple
+    ambiguità
+  CM
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      imparare a imparare
+      intelligenze multiple
+      spirito di iniziativa
+    ambiguità
+  EN
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      auto-imprenditorialità
+      imparare a imparare
+      intelligenze multiple
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      auto-imprenditorialità
+      imparare a ragionare
+    ambiguità
+  LF
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      auto-imprenditorialità
+      imparare a imparare
+      intelligenze multiple
+    ambiguità
+  ML
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      auto-imprenditorialità
+      imparare a imparare
+      intelligenze multiple
+    ambiguità
+584
+  ADZ
+    obiettivi disciplinari
+      abilità informatiche
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      creatività
+    ambiguità
+  CM
+    obiettivi disciplinari
+      informatica
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      creatività
+    ambiguità
+  EN
+    obiettivi disciplinari
+      informatica
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      creatività
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      creatività
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+      uso della tecnologia
+    obiettivi trasversali
+      creatività
+    ambiguità
+  ML
+    obiettivi disciplinari
+      informatica
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      creatività
+    ambiguità
+589
+  ADZ
+    obiettivi disciplinari
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      programmazione per la risoluzione di problemi
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      scomposizione problemi
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+603
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+605
+  ADZ
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+      vuoto
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      logica/ pensiero logico/ competenze logiche
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      pensiero logico
+    ambiguità
+607
+  ADZ
+    obiettivi disciplinari
+      concetti base della programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  CM
+    obiettivi disciplinari
+      concetti base della programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      cicli
+      selezione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  GA
+    obiettivi disciplinari
+      cicli
+      conoscere le istruzioni del linguaggio
+      programmazione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      cicli
+      selezione
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  ML
+    obiettivi disciplinari
+      concetti base della programmazione
+      utilizzare codici e linguaggi diversi
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+612
+  ADZ
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      argomentare
+      collaborazione/ lavoro squadra
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      insegnante
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      argomentare
+      collaborazione/ lavoro squadra
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+      argomentare
+      collaborazione/ lavoro squadra
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      collaborazione/ lavoro squadra
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      argomentare
+      collaborazione/ lavoro squadra
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      argomentare
+      collaborazione/ lavoro squadra
+    ambiguità
+613
+  ADZ
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      problem solving
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+617
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+      progettazione
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+      progettazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+      problem solving
+      progettazione
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      progettazione
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+      progettazione
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+      progettazione
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+626
+  ADZ
+    obiettivi disciplinari
+      leggere comandi e trasformarli in output
+      mettersi dal punto di vista dell'altro per input
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  EN
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      pensiero computazionale
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      pensiero computazionale
+      sequenza
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+      comunicazione con linguaggio specifico
+    ambiguità
+  LF
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      mettersi dal punto di vista dell'altro per input
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      esecuzione di istruzioni
+      pensiero computazionale
+    risposta generica 2
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+629
+  ADZ
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+      studente
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  CM
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  EN
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  GA
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+      generico
+    focus
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  LF
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      contenuto
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità
+  ML
+    obiettivi disciplinari
+      pensiero computazionale
+    risposta generica 2
+    focus
+      insegnante
+    abilità strumentali digitali
+    obiettivi trasversali
+    ambiguità

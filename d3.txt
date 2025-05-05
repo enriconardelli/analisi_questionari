@@ -1,0 +1,2877 @@
+631
+  ADZ
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      analizzare processi
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+    riferito a domanda precedente
+      rappresentare processi mediante modelli logici
+      uso consapevole della tecnologia
+    risposta generica 3
+636
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+638
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      geometria
+      matematica
+    riferito a domanda precedente
+    risposta generica 3
+643
+  ADZ
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+646
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+652
+  ADZ
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      pensiero critico
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+654
+  ADZ
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+      coding
+      decomposizione
+      pixel art
+      robotica educativa
+      scelta degli strumenti
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+658
+  ADZ
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      documentare attività svolte
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+659
+  ADZ
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      manipolazione
+      modellazione dell'informazione
+      rappresentazione dei dati/ informazione
+      risoluzione computazionale di problemi
+      sequenza
+    risposta generica 3
+662
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      educazione civica
+    riferito a domanda precedente
+      uso sicuro della tecnologia
+    risposta generica 3
+668
+  ADZ
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      concetti base della programmazione
+      programmazione di robot
+    risposta generica 3
+680
+  ADZ
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      comprensione di istruzioni
+      imparare a imparare
+      pensiero creativo
+      spirito di iniziativa
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+681
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+      rielaborazione dei saperi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+682
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+688
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      contorno di figura piana
+      lato
+      spazio e figure
+    riferito a domanda precedente
+      programmazione
+    risposta generica 3
+690
+  ADZ
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      valutazione attendibilità informazioni
+    interdisciplinarità
+    riferito a domanda precedente
+      uso di siti web
+    risposta generica 3
+698
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+706
+  ADZ
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      formulazione di domande
+      formulazione di ipotesi
+      risoluzione di problemi
+    interdisciplinarità
+      rappresentazione dei dati
+    riferito a domanda precedente
+    risposta generica 3
+717
+  ADZ
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      capacità relazionali
+      imparare a imparare
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      scienze
+      tecnologia
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+722
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+723
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      ascolto e parlato
+      esplorare e descrivere oggetti e materiali
+      italiano
+      matematica
+      scienze
+      scrittura
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+728
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      movimenti del corpo al ritmo della musica
+    riferito a domanda precedente
+    risposta generica 3
+730
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      modelli geometrici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+736
+  ADZ
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      risoluzione di problemi
+    interdisciplinarità
+      altre discipline
+    riferito a domanda precedente
+    risposta generica 3
+738
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      obiettivi piattaforma
+    risposta generica 3
+      generico
+740
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+744
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+745
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+747
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+749
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      analisi dati e organizzazione
+      rappresentazione dei dati/ informazione
+      sequenza
+      soluzioni algoritmiche
+    risposta generica 3
+756
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+759
+  ADZ
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      presentare in modo esplicativo
+      riflettere sull'esperienza
+    interdisciplinarità
+    riferito a domanda precedente
+      narrazione digitale con programmazione
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+766
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      geografia
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      sequenzialità
+      storia
+    riferito a domanda precedente
+    risposta generica 3
+767
+  ADZ
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+773
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      matematica
+      operazioni retta dei numeri
+      sequenzialità
+    riferito a domanda precedente
+    risposta generica 3
+774
+  ADZ
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+  CM
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+  EN
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+  GA
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+  LF
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+  ML
+    soft skills e metacognizione
+      comunicare con linguaggi specifici per la situazione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+    risposta generica 3
+      copia-incolla risposta 2
+779
+  ADZ
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      capacità di previsione
+      capacità relazionali
+      collaborazione
+      osservazione, memoria, analisi
+      precisione / rigore
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+784
+  ADZ
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      cooperative learning
+      risoluzione di problemi
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+788
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+791
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      descrizione algoritmica di processi concreti
+      potenzialità del linguaggio informatico di descrivere altre attività
+      programmazione
+    risposta generica 3
+548
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      scienze
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      scienze
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      ambiente
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      ecologia
+      scienze
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      ecologia
+      scienze
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      scienze
+    riferito a domanda precedente
+    risposta generica 3
+550
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+553
+  ADZ
+    soft skills e metacognizione
+      approccio per tentativi ed errori
+      risoluzione di problemi
+    interdisciplinarità
+      italiano
+      matematica
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      approccio per tentativi ed errori
+      esprimersi correttamente
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+      matematica
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      competenze linguistiche
+      pensiero logico
+    interdisciplinarità
+      matematica
+      riferimenti spaziali/ indicatori topologici
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      pensiero logico
+    interdisciplinarità
+      alfabetico-funzionale
+      matematica
+      spazio e figure
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      imparare a imparare
+      imparare per errori
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+      italiano
+      matematica
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      approccio per tentativi ed errori
+      competenze linguistiche
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+      matematica
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+556
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+      differenti strategie di risoluzione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+      considerare diverse strategie risolutive
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      risoluzione computazionale di problemi
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      collaborazione
+      cooperative learning
+      pensiero critico-???????
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+569
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+570
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      copia-incolla risposta 2
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      copia-incolla risposta 2
+      generico
+  EN
+    soft skills e metacognizione
+      esprimersi correttamente
+      presentare in modo esplicativo
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      lingua straniera
+    riferito a domanda precedente
+      competenze digitali
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+      presentare in modo esplicativo
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      copia-incolla risposta 2
+      generico
+572
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+580
+  ADZ
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+581
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+      pensiero logico
+    interdisciplinarità
+      comprensione del testo
+      scrittura
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+      pensiero logico
+    interdisciplinarità
+      comprensione del testo
+      costruzione di un testo
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+      pensiero logico
+    interdisciplinarità
+      comprensione del testo
+      costruzione di un testo
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+      cooperative learning
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      collaborazione
+      comunicare con linguaggi specifici per la situazione
+      cooperative learning
+      pensiero logico
+    interdisciplinarità
+      italiano
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+      pensiero logico
+    interdisciplinarità
+      alfabetico-funzionale
+      scrittura
+    riferito a domanda precedente
+    risposta generica 3
+582
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      scelta degli strumenti
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+      scelta degli strumenti
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      scelta degli strumenti
+      uso consapevole della tecnologia
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      selezione strumenti
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      scelta degli strumenti
+      uso consapevole della tecnologia
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      tecnologia
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      competenze digitali
+      scelta degli strumenti
+    risposta generica 3
+584
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      abilità informatiche
+    risposta generica 3
+      generico
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      abilità informatiche
+    risposta generica 3
+      generico
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      abilità informatiche
+    risposta generica 3
+      generico
+589
+  ADZ
+    soft skills e metacognizione
+      astrazione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      astrazione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+      scrittura
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      rielaborazione dei saperi
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+603
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+605
+  ADZ
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      collaborazione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+607
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+      storie interattive e animazioni
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      utilizzare espressioni condizionali
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      concetti base della programmazione
+      narrazione digitale con programmazione
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      narrazione digitale con programmazione
+      selezione
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+      competenze digitali
+      concetti base della programmazione
+      narrazione digitale con programmazione
+      programmazione
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      esprimersi correttamente
+    interdisciplinarità
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      narrazione digitale con programmazione
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      storie interattive e animazioni
+    riferito a domanda precedente
+      alfabetizzazione digitale
+      concetti base della programmazione
+    risposta generica 3
+612
+  ADZ
+    soft skills e metacognizione
+      autocorrezione
+      capacità relazionali
+      empatia
+      pensiero logico
+    interdisciplinarità
+    riferito a domanda precedente
+      decomposizione
+      risoluzione computazionale di problemi
+      verifica/ correzione errori
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      capacità di ascolto
+      comprensione/analisi del problema
+      formulazione di ipotesi
+      risoluzione di problemi
+      valutazione della soluzione
+    interdisciplinarità
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      capacità di ascolto
+      empatia
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      analizzare processi
+      capacità relazionali
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      programmazione
+      verifica/ correzione errori
+    risposta generica 3
+  LF
+    soft skills e metacognizione
+      analizzare processi
+      autocorrezione
+      empatia
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+      ascolto e parlato
+    riferito a domanda precedente
+      risoluzione computazionale di problemi
+      verifica/ correzione errori
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      capacità relazionali
+      pensiero logico
+      risoluzione di problemi
+    interdisciplinarità
+    riferito a domanda precedente
+      verifica/ correzione errori
+    risposta generica 3
+613
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+617
+  ADZ
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  LF
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      vuoto
+626
+  ADZ
+    soft skills e metacognizione
+      punto di vista dell'altro
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+      capacità relazionali
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+      copia-incolla risposta 2
+  LF
+    soft skills e metacognizione
+      empatia
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+      pensiero logico
+      punto di vista dell'altro
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3
+629
+  ADZ
+    soft skills e metacognizione
+      pensiero logico
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  CM
+    soft skills e metacognizione
+      pensiero logico
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  EN
+    soft skills e metacognizione
+      pensiero logico
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  GA
+    soft skills e metacognizione
+    interdisciplinarità
+    riferito a domanda precedente
+    risposta generica 3
+      generico
+  LF
+    soft skills e metacognizione
+      apprendimento attraverso il gioco
+      pensiero logico
+    interdisciplinarità
+      orientamento spaziale
+    riferito a domanda precedente
+    risposta generica 3
+  ML
+    soft skills e metacognizione
+    interdisciplinarità
+      riferimenti spaziali/ indicatori topologici
+    riferito a domanda precedente
+    risposta generica 3

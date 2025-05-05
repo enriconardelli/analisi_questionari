@@ -26,6 +26,30 @@ def print_etichette_complesse_as_tree(etichette_complesse):
             for value in sorted_values:
                 print(f"    {value}")
 
+def print_dictionary_as_tree(a_dict):
+    # Stampa il dizionario a_dict ricevuto in input
+    # in forma di albero, ordinato gerarchicamente
+    for item_1, keys in a_dict.items():
+        print(item_1)
+        for key, values in keys.items():
+            print(f"  {key}")
+            sorted_values = sorted(values, key=lambda x: x.lower()) # Sort values alphabetically
+            for value in sorted_values:
+                print(f"    {value}")
+
+def print_dictionary_as_tree_2(a_dict):
+    # Stampa il dizionario a_dict ricevuto in input
+    # in forma di albero, ordinato gerarchicamente
+    for item_1, keys in a_dict.items():
+        print(item_1)
+        for item_2, values in keys.items():
+            print(f"  {item_2}")
+            for key, other_values in values.items():
+                print(f"    {key}")
+                sorted_values = sorted(other_values, key=lambda x: x.lower())
+                for value in sorted_values:
+                    print(f"      {value}")
+
 def confronta_etichette_usate():
     # Costruisce per ogni autore un dizionario con le etichette usate
     # per ogni domanda e categoria e poi lo contronta con il dizionario
@@ -223,7 +247,8 @@ etichette_semplici = ["ore sett.", "pacchetto ore", "altro tempo", "classe"]
 ########################
 
 ########################################################################
-# Generazione in etichette_complesse di tutte le etichette usate nelle risposte 
+# Generazione in etichette_complesse di tutte le etichette usate nelle 
+# risposte da tutti gli autori,
 # assumendo che tutti gli autori abbiano usato lo stesso insieme di
 # etichette: questa verifica può essere fatta con la funzione
 # confronta_etichette_usate 
@@ -247,6 +272,7 @@ for domanda in domande:
 
 # output_file = stampa_su_file_ON("categorie+etichette_60_risposte.txt")
 # print_etichette_complesse_as_tree(etichette_complesse)
+# # print_dictionary_as_tree(etichette_complesse)
 # stampa_su_file_OFF(output_file)
 
 ########################################################################
@@ -254,10 +280,10 @@ for domanda in domande:
 # nelle risposte alle domande d1, d2, d3 da tutti gli autori
 # che contengono anche le eventuali etichette nuove, se sono
 # state aggiunte dagli autori nella colonna ETICHETTE AGGIUNTE
-########################################################################
+# d1, d2, d3 hanno la struttura [ID][autore][categoria][etichetta]
+# ########################################################################
 
 d1, d2, d3 = ricerca_nuove_etichette(risposte, etichette_semplici, etichette_complesse)
-
 
 ########################################################################
 # Creazione di un unico dizionario etichette_dict[domanda][categoria]
@@ -277,6 +303,7 @@ for domanda, risposte_alla_domanda in dizionari_risposte.items():  # Iterate ove
                     if categoria not in etichette_dict[domanda]:
                         etichette_dict[domanda][categoria] = set()
                     etichette_dict[domanda][categoria].update(etichette)
+# Print the resulting dictionary for verification
 # output_file = stampa_su_file_ON("etichette_dict.txt")
 # print("etichette_dict ", etichette_dict)
 # stampa_su_file_OFF(output_file)
@@ -298,14 +325,49 @@ def count_etichette(dizionari_risposte):
                         counter.update(etichette)
     return counter
 
+# Function to count occurrences of each etichetta for each categoria
+def count_categorie_etichette(dizionari_risposte):
+    counter = Counter()
+    for domanda, risposte_alla_domanda in dizionari_risposte.items():  # Iterate over d1, d2, d3
+        for id_, autori in risposte_alla_domanda.items():
+            for autore, categorie in autori.items():
+                for categoria, etichette in categorie.items():
+                    if categoria not in counter:
+                        counter[categoria] = {}
+                    if isinstance(etichette, set):
+                        for etichetta in etichette:
+                            if etichetta not in counter[categoria]:
+                                counter[categoria][etichetta] = 0
+                            counter[categoria][etichetta] += 1
+    return counter
+
 # Costruisce dizionario etichette_count[etichetta] che contiene le occorrenze di ogni etichetta
+#
+# SCORRETTO PERCHÉ SE IN DOMANDE DIVERSE CI SONO STESSE ETICHETTE I LORO CONTEGGI SI SOMMANO
+#
 etichette_count = dict(count_etichette(dizionari_risposte))
 # Print the resulting dictionary for verification
 # output_file = stampa_su_file_ON("etichette_count.txt")
 # pprint.pprint(etichette_count)
 # stampa_su_file_OFF(output_file)
 
-def count_etichette_as_tree(dizionari_risposte, etichette_count):
+# Costruisce dizionario categorie_etichette_count[categoria][etichetta] che contiene le occorrenze 
+# di ogni etichetta per ogni categoria 
+#
+# GIUSTO PERCHÉ DOMANDE DIVERSE HANNO CATEGORIE DIVERSE
+#
+# categorie_etichette_count = dict(count_categorie_etichette(dizionari_risposte))
+#
+categorie_etichette_count = dict(count_categorie_etichette(dizionari_risposte))
+# output_file = stampa_su_file_ON("categorie_etichette_count.txt")
+# # pprint.pprint(categorie_etichette_count)
+# print(categorie_etichette_count)
+# stampa_su_file_OFF(output_file)
+# Print one item at a time from categorie_etichette_count
+
+# Function to count occurrences of each etichetta for each categoria
+# in a tree structure organized by domanda and autore
+def count_etichette_as_tree(dizionari_risposte, categorie_etichette_count):
     label_tree={}
     for domanda, risposte_alla_domanda in dizionari_risposte.items():  # Iterate over d1, d2, d3
         for id_, autori in risposte_alla_domanda.items():
@@ -317,16 +379,30 @@ def count_etichette_as_tree(dizionari_risposte, etichette_count):
                         if categoria not in label_tree[domanda]:
                             label_tree[domanda][categoria] = {}
                         for etichetta in etichette:
-                            label_tree[domanda][categoria][etichetta] = etichette_count[etichetta]
+                            label_tree[domanda][categoria][etichetta] = categorie_etichette_count[categoria][etichetta]
     return label_tree
 
 # Costruisce dizionario etichette_count_as_tree[domanda][categoria][etichetta] 
 # che contiene le occorrenze di ogni etichetta per ogni domanda e categoria
-etichette_count_as_tree = count_etichette_as_tree(dizionari_risposte, etichette_count)
+etichette_count_as_tree = dict(count_etichette_as_tree(dizionari_risposte, categorie_etichette_count))
 # Print the resulting dictionary for verification
-# output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
-# pprint.pprint(label_tree)
-# stampa_su_file_OFF(output_file)
+output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
+pprint.pprint(etichette_count_as_tree)
+stampa_su_file_OFF(output_file)
+
+output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
+print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
+for domanda, categorie in etichette_count_as_tree.items():
+    print(domanda.upper())
+    for categoria, etichette in categorie.items():
+        print(f"  {categoria}")
+        for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
+            normalized_count = count / NUMAUTORI
+            print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
+stampa_su_file_OFF(output_file)
+
+exit()
+
 
 output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
 print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
@@ -349,6 +425,8 @@ for domanda, categorie in etichette_count_as_tree.items():
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
 stampa_su_file_OFF(output_file)
+
+exit()
 
 
 ########################################################################
@@ -392,9 +470,13 @@ for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: 
     print(f"{etichetta:<60} {values['R']:>5} {values['PR_L']:>10.2f}")
 stampa_su_file_OFF(output_file)
 
+exit()
+
 # Stampa delle problematicità per ogni risposta separatamente
 stampa_su_file_ON("problematicita_risposte.txt")
 # Problematicità per ogni risposta separatamente per d1, d2, d3
+# Get the IDs from the first dataframe (all dataframes have the same IDs)
+ids = risposte["ADZ"]["Domanda1"].index
 for domanda in dizionari_risposte.keys():  # Iterate over d1, d2, d3
     print(f"\n\n========== Problematicità per {domanda.upper()}")
     for T in ids:
