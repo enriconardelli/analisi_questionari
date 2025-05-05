@@ -305,9 +305,9 @@ for domanda, risposte_alla_domanda in dizionari_risposte.items():  # Iterate ove
                     etichette_dict[domanda][categoria].update(etichette)
 # Print the resulting dictionary for verification
 # output_file = stampa_su_file_ON("etichette_dict.txt")
-# print("etichette_dict ", etichette_dict)
+# # print("etichette_dict ", etichette_dict)
+# pprint.pprint(etichette_dict)
 # stampa_su_file_OFF(output_file)
-
 
 ########################################################################
 # Conteggio assoluto e normalizzato sugli autori
@@ -386,25 +386,21 @@ def count_etichette_as_tree(dizionari_risposte, categorie_etichette_count):
 # che contiene le occorrenze di ogni etichetta per ogni domanda e categoria
 etichette_count_as_tree = dict(count_etichette_as_tree(dizionari_risposte, categorie_etichette_count))
 # Print the resulting dictionary for verification
-output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
-pprint.pprint(etichette_count_as_tree)
-stampa_su_file_OFF(output_file)
+# output_file = stampa_su_file_ON("etichette_count_as_tree.txt")
+# pprint.pprint(etichette_count_as_tree)
+# stampa_su_file_OFF(output_file)
 
-output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
-print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
+output_file = stampa_su_file_ON("etichette_tutte.txt")
+etichette_tutte = {}
 for domanda, categorie in etichette_count_as_tree.items():
-    print(domanda.upper())
     for categoria, etichette in categorie.items():
-        print(f"  {categoria}")
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
-            normalized_count = count / NUMAUTORI
-            print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
+            etichette_tutte[f"{etichetta} ++ {domanda} ++ {categoria}"] = count
+for etichetta, count in sorted(etichette_tutte.items(), key=lambda x: x[0].lower()):
+    print(f"{etichetta} == {count}")
 stampa_su_file_OFF(output_file)
 
-exit()
-
-
-output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
+""" output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
 print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
 for domanda, categorie in etichette_count_as_tree.items():
     print(domanda.upper())
@@ -425,9 +421,7 @@ for domanda, categorie in etichette_count_as_tree.items():
             normalized_count = count / NUMAUTORI
             print(f"    {etichetta:<60} {count:>5} {normalized_count:>10.2f}")
 stampa_su_file_OFF(output_file)
-
-exit()
-
+ """
 
 ########################################################################
 # Calcolo della problematicità delle etichette
@@ -435,9 +429,11 @@ exit()
 def calcola_problematicita(dizionari_risposte):
     problematicita = {}
     for domanda in etichette_dict:
+        problematicita[domanda] = {}
         for categoria in etichette_dict[domanda]:
+            problematicita[domanda][categoria] = {}
             for etichetta in etichette_dict[domanda][categoria]:        
-                problematicita[etichetta] = {"R": 0}
+                problematicita[domanda][categoria][etichetta] = {"R": 0}
                 risposte = dizionari_risposte[domanda]
                 for id_ in risposte:
                     conta = False
@@ -445,40 +441,46 @@ def calcola_problematicita(dizionari_risposte):
                         if etichetta in risposte[id_][autore][categoria]:
                             conta = True
                     if conta:
-                        problematicita[etichetta]["R"] += 1 
-    for etichetta, indici in problematicita.items():
-        problematicita[etichetta]["PR_L"] = 0
-        for domanda in dizionari_risposte:
-            for i in dizionari_risposte[domanda]:
-                C_i = 0
-                for autore in dizionari_risposte[domanda][i]:
-                    for categoria in dizionari_risposte[domanda][i][autore]:
+                        problematicita[domanda][categoria][etichetta]["R"] += 1
+    for domanda, categorie in problematicita.items():
+        for categoria, etichette in categorie.items():
+            for etichetta, indici in etichette.items():
+                problematicita[domanda][categoria][etichetta]["PR_L"] = 0
+                # for domanda in dizionari_risposte:
+                for i in dizionari_risposte[domanda]:
+                    C_i = 0
+                    for autore in dizionari_risposte[domanda][i]:
+                        # for categoria in dizionari_risposte[domanda][i][autore]:
                         if etichetta in dizionari_risposte[domanda][i][autore][categoria]:
                             C_i += 1
-                if C_i > 0:
-                    R_i = NUMAUTORI - C_i
-                    problematicita[etichetta]["PR_L"] += R_i
-        problematicita[etichetta]["PR_L"] /= indici["R"]
+                    if C_i > 0:
+                        R_i = NUMAUTORI - C_i
+                        problematicita[domanda][categoria][etichetta]["PR_L"] += R_i
+                problematicita[domanda][categoria][etichetta]["PR_L"] /= indici["R"]
     return problematicita
 
 etichette_problematicita = calcola_problematicita(dizionari_risposte)
 
-# Stampa della problematicità delle etichette in ordine decrescente 
-stampa_su_file_ON("problematicita_etichette.txt")
-print("\n\n========== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
-for etichetta, values in sorted(etichette_problematicita.items(), key=lambda x: x[1]["PR_L"], reverse=True):
-    print(f"{etichetta:<60} {values['R']:>5} {values['PR_L']:>10.2f}")
+""" # Stampa della problematicità delle etichette in ordine decrescente 
+output_file = stampa_su_file_ON("problematicita_etichette.txt")
+print("\n==== Problematicità: Etichetta, R, PR_L in ordine decrescente di probematicità")
+for domanda, categorie in etichette_problematicita.items():
+    print(f"\n====\n{domanda.upper()}\n====")   
+    for categoria, etichette in categorie.items():
+        print(f"\n  {categoria}")
+        for etichetta, values in sorted(etichette.items(), key=lambda x: x[1]["PR_L"], reverse=True):
+            print(f"    {etichetta:<60} {values['R']:>5} {values['PR_L']:>10.2f}")
 stampa_su_file_OFF(output_file)
-
+ """
 exit()
 
 # Stampa delle problematicità per ogni risposta separatamente
-stampa_su_file_ON("problematicita_risposte.txt")
+output_file = stampa_su_file_ON("problematicita_risposte.txt")
 # Problematicità per ogni risposta separatamente per d1, d2, d3
 # Get the IDs from the first dataframe (all dataframes have the same IDs)
 ids = risposte["ADZ"]["Domanda1"].index
 for domanda in dizionari_risposte.keys():  # Iterate over d1, d2, d3
-    print(f"\n\n========== Problematicità per {domanda.upper()}")
+    print(f"\n\n==== Problematicità per {domanda.upper()}")
     for T in ids:
         Q = set()
         for autore in autori_file.keys():

@@ -1,0 +1,333 @@
+1coding unplugged ++ d1 ++ attività == 1
+2coding ++ d1 ++ attività == 1
+2pensiero computazionale ++ d1 ++ obiettivo riferito a domande successive == 16
+2rianalizzare ++ d1 ++ obiettivo riferito a domande successive == 6
+2risoluzione di problemi ++ d1 ++ obiettivo riferito a domande successive == 6
+2uso della tecnologia2 ++ d1 ++ obiettivo riferito a domande successive == 2
+2uso di app didattiche ++ d1 ++ obiettivo riferito a domande successive == 1
+2videoscrittura ++ d1 ++ obiettivo riferito a domande successive == 15
+3capacità di narrazione ++ d1 ++ obiettivo riferito a domande successive == 8
+3conteggio ++ d1 ++ obiettivo riferito a domande successive == 1
+3conversazione collaborativa / collaborazione ++ d1 ++ obiettivo riferito a domande successive == 17
+3costruzione di mappe ++ d1 ++ obiettivo riferito a domande successive == 1
+3indicazioni topologiche ++ d1 ++ obiettivo riferito a domande successive == 1
+3lavoro in coppia ++ d1 ++ obiettivo riferito a domande successive == 1
+3mappe ++ d1 ++ obiettivo riferito a domande successive == 1
+3orientamento spaziale ++ d1 ++ obiettivo riferito a domande successive == 2
+3pensiero creativo ++ d1 ++ obiettivo riferito a domande successive == 6
+3pensiero critico ++ d1 ++ obiettivo riferito a domande successive == 7
+3pianificazione ++ d1 ++ obiettivo riferito a domande successive == 6
+3presentazione ++ d1 ++ obiettivo riferito a domande successive == 1
+3risoluzione di problemi ++ d1 ++ obiettivo riferito a domande successive == 6
+3sviluppo contenuti ++ d1 ++ obiettivo riferito a domande successive == 2
+3videotutorial ++ d1 ++ obiettivo riferito a domande successive == 6
+abilità informatiche ++ d2 ++ obiettivi disciplinari == 1
+abilità informatiche ++ d3 ++ riferito a domanda precedente == 3
+alfabetico-funzionale ++ d3 ++ interdisciplinarità == 8
+alfabetizzazione digitale ++ d2 ++ abilità strumentali digitali == 19
+alfabetizzazione digitale ++ d3 ++ riferito a domanda precedente == 17
+algoritmi ++ d1 ++ attività == 17
+algoritmi quotidiani ++ d2 ++ obiettivi disciplinari == 6
+altre discipline ++ d3 ++ interdisciplinarità == 6
+altri materiali ++ d1 ++ materiali/strumenti fisici == 1
+ambiente ++ d3 ++ interdisciplinarità == 1
+ambiguità ++ d2 ++ ambiguità == 1
+analisi dati e organizzazione ++ d3 ++ riferito a domanda precedente == 6
+analizzare oggetti ++ d2 ++ obiettivi trasversali == 6
+analizzare processi ++ d3 ++ soft skills e metacognizione == 8
+animazione digitale ++ d2 ++ abilità strumentali digitali == 7
+apprendimento attraverso il gioco ++ d3 ++ soft skills e metacognizione == 1
+approccio per tentativi ed errori ++ d3 ++ soft skills e metacognizione == 3
+argomentare ++ d2 ++ obiettivi trasversali == 6
+aritmetica ++ d1 ++ attività == 6
+ascolto e parlato ++ d3 ++ interdisciplinarità == 7
+astrazione ++ d3 ++ soft skills e metacognizione == 2
+attività unplugged ++ d1 ++ attività == 35
+attività unplugged-dedot ++ d1 ++ attività == 19
+auto-imprenditorialità ++ d2 ++ obiettivi trasversali == 5
+autocorrezione ++ d3 ++ soft skills e metacognizione == 2
+automatizzazione risoluzione di problemi ++ d2 ++ obiettivi disciplinari == 6
+autonomia ++ d2 ++ obiettivi trasversali == 12
+BeeBot ++ d1 ++ piattaforma/ ambiente == 46
+BlueBot ++ d1 ++ piattaforma/ ambiente == 6
+calcolare ++ d2 ++ obiettivi trasversali == 6
+capacità di ascolto ++ d3 ++ soft skills e metacognizione == 2
+capacità di previsione ++ d3 ++ soft skills e metacognizione == 6
+capacità relazionali ++ d3 ++ soft skills e metacognizione == 22
+carta / cartoncino ++ d1 ++ materiali/strumenti fisici == 69
+carta / cartoncino-dedot ++ d1 ++ materiali/strumenti fisici == 14
+carte / blocchi di programmazione ++ d1 ++ materiali/strumenti fisici == 45
+carte / blocchi di programmazione-dedot ++ d1 ++ materiali/strumenti fisici == 1
+cicli ++ d1 ++ attività == 10
+cicli ++ d2 ++ obiettivi disciplinari == 9
+Code.org ++ d1 ++ piattaforma/ ambiente == 112
+Code.org-dedot ++ d1 ++ piattaforma/ ambiente == 2
+coding ++ d1 ++ attività == 81
+coding ++ d2 ++ obiettivi disciplinari == 53
+coding ++ d3 ++ riferito a domanda precedente == 6
+coding analogico ++ d1 ++ attività == 1
+coding per matematica ++ d2 ++ obiettivi trasversali == 6
+coding unplugged ++ d1 ++ attività == 48
+coding unplugged-dedot ++ d1 ++ attività == 1
+Cody Roby ++ d1 ++ piattaforma/ ambiente == 13
+collaborazione ++ d3 ++ soft skills e metacognizione == 42
+collaborazione/ lavoro squadra ++ d2 ++ obiettivi trasversali == 28
+collezionista ++ d1 ++ dettagli piattaforma/ ambiente == 2
+Common Sense Selection ++ d1 ++ piattaforma/ ambiente == 6
+competenze digitali ++ d3 ++ riferito a domanda precedente == 16
+competenze linguistiche ++ d3 ++ soft skills e metacognizione == 2
+competenze narrative ++ d2 ++ obiettivi trasversali == 7
+comprensione del testo ++ d3 ++ interdisciplinarità == 3
+comprensione di istruzioni ++ d3 ++ soft skills e metacognizione == 6
+comprensione/analisi del problema ++ d3 ++ soft skills e metacognizione == 1
+comunicare con linguaggi specifici per la situazione ++ d3 ++ soft skills e metacognizione == 13
+comunicare con tecnologia ++ d2 ++ obiettivi trasversali == 1
+comunicazione con linguaggio specifico ++ d2 ++ obiettivi trasversali == 13
+concetti base della programmazione ++ d2 ++ obiettivi disciplinari == 21
+concetti base della programmazione ++ d3 ++ riferito a domanda precedente == 9
+concetti matematici ++ d2 ++ obiettivi trasversali == 6
+coniugare informatica e pratica ++ d2 ++ ambiguità == 6
+conoscere le istruzioni del linguaggio ++ d2 ++ obiettivi disciplinari == 7
+consapevolezza digitale ++ d2 ++ obiettivi disciplinari == 7
+considerare diverse strategie risolutive ++ d3 ++ soft skills e metacognizione == 1
+conteggio con la collezionista ++ d1 ++ dettagli piattaforma/ ambiente == 1
+contenuto ++ d2 ++ focus == 22
+contorno di figura piana ++ d3 ++ interdisciplinarità == 6
+cooperative learning ++ d2 ++ obiettivi trasversali == 3
+cooperative learning ++ d3 ++ soft skills e metacognizione == 9
+copia-incolla risposta 2 ++ d3 ++ risposta generica 3 == 10
+coping power ++ d2 ++ obiettivi trasversali == 2
+corpo ++ d1 ++ materiali/strumenti fisici == 10
+corpo-dedot ++ d1 ++ materiali/strumenti fisici == 13
+corso 2 ++ d1 ++ dettagli piattaforma/ ambiente == 6
+corso B ++ d1 ++ dettagli piattaforma/ ambiente == 12
+corso C (2021) ++ d1 ++ dettagli piattaforma/ ambiente == 6
+corso C lezione 5 la collezionista ++ d1 ++ dettagli piattaforma/ ambiente == 1
+corso D (2021) ++ d1 ++ dettagli piattaforma/ ambiente == 6
+costruzione di un testo ++ d3 ++ interdisciplinarità == 2
+costruzione mappe ++ d1 ++ attività == 1
+creatività ++ d2 ++ obiettivi trasversali == 24
+creazione di lezioni ++ d2 ++ obiettivi trasversali == 1
+Cubetto ++ d1 ++ piattaforma/ ambiente == 5
+Cyber Talk Robot ++ d1 ++ piattaforma/ ambiente == 6
+dalla piattaforma (attività) ++ d1 ++ attività == 28
+dalla piattaforma (attività)-??????? ++ d1 ++ attività == 18
+dalla piattaforma (attività)-dedot ++ d1 ++ attività == 1
+dalla piattaforma ++ d1 ++ materiali/strumenti fisici == 16
+dalla piattaforma-??????? ++ d1 ++ materiali/strumenti fisici == 12
+decomposizione ++ d3 ++ riferito a domanda precedente == 13
+decomposizione-dedot ++ d1 ++ attività == 6
+descrizione algoritmica di processi concreti ++ d3 ++ riferito a domanda precedente == 18
+descrizione di strategie ++ d2 ++ obiettivi trasversali == 6
+descrizioni algoritmiche ++ d2 ++ obiettivi disciplinari == 12
+diagramma di flusso ++ d1 ++ attività == 11
+differenti strategie di risoluzione ++ d3 ++ soft skills e metacognizione == 1
+documentare attività svolte ++ d3 ++ soft skills e metacognizione == 6
+ecologia ++ d3 ++ interdisciplinarità == 2
+educazione civica ++ d3 ++ interdisciplinarità == 6
+empatia ++ d3 ++ soft skills e metacognizione == 4
+esecuzione di istruzioni ++ d1 ++ attività == 2
+esecuzione di istruzioni ++ d2 ++ obiettivi disciplinari == 22
+esplorare e descrivere oggetti e materiali ++ d3 ++ interdisciplinarità == 6
+esprimersi correttamente ++ d3 ++ soft skills e metacognizione == 9
+formulazione di domande ++ d3 ++ soft skills e metacognizione == 6
+formulazione di ipotesi ++ d3 ++ soft skills e metacognizione == 13
+forse (vago) ++ d1 ++ metodologia? == 60
+G-Classroom ++ d1 ++ dettagli piattaforma/ ambiente == 12
+G-Design ++ d1 ++ dettagli piattaforma/ ambiente == 1
+G-Disegni ++ d1 ++ dettagli piattaforma/ ambiente == 2
+G-Drive ++ d1 ++ dettagli piattaforma/ ambiente == 4
+G-Mail ++ d1 ++ dettagli piattaforma/ ambiente == 6
+G-Modules ++ d1 ++ dettagli piattaforma/ ambiente == 5
+G-Slides ++ d1 ++ dettagli piattaforma/ ambiente == 6
+generalizzazione processo di soluzione ++ d2 ++ obiettivi disciplinari == 7
+generico ++ d2 ++ risposta generica 2 == 95
+generico ++ d3 ++ risposta generica 3 == 38
+Geogebra ++ d1 ++ piattaforma/ ambiente == 6
+geografia ++ d1 ++ attività == 13
+geografia ++ d3 ++ interdisciplinarità == 12
+geometria ++ d1 ++ attività == 6
+geometria ++ d3 ++ interdisciplinarità == 6
+giochi disciplinari interattivi / attività ludiche ++ d1 ++ attività == 21
+gioco ++ d2 ++ obiettivi trasversali == 7
+griglia/ scacchiera ++ d1 ++ materiali/strumenti fisici == 35
+griglia/ scacchiera-dedot ++ d1 ++ materiali/strumenti fisici == 2
+Gworkspace ++ d1 ++ piattaforma/ ambiente == 10
+Gworkspace-dedot ++ d1 ++ piattaforma/ ambiente == 1
+imparare a imparare ++ d2 ++ obiettivi trasversali == 5
+imparare a imparare ++ d3 ++ soft skills e metacognizione == 13
+imparare a ragionare ++ d2 ++ obiettivi trasversali == 7
+imparare per errori ++ d3 ++ soft skills e metacognizione == 1
+inclusione ++ d2 ++ obiettivi trasversali == 5
+informatica ++ d2 ++ obiettivi disciplinari == 19
+insegnante ++ d2 ++ focus == 49
+intelligenza artificiale ++ d1 ++ attività == 2
+intelligenza artificiale ++ d2 ++ obiettivi disciplinari == 1
+intelligenza artificiale per il mare ++ d1 ++ dettagli piattaforma/ ambiente == 3
+intelligenze multiple ++ d2 ++ obiettivi trasversali == 5
+interdisciplinarità ++ d2 ++ obiettivi trasversali == 7
+istruzioni condizionali ++ d1 ++ attività == 9
+istruzioni di base ++ d1 ++ attività == 2
+italiano ++ d3 ++ interdisciplinarità == 9
+Kahoot ++ d1 ++ piattaforma/ ambiente == 6
+labirinto ++ d1 ++ attività == 1
+labirinto2 ++ d1 ++ dettagli piattaforma/ ambiente == 4
+Labor. Artista ++ d1 ++ dettagli piattaforma/ ambiente == 6
+laboratorio con Gumball ++ d1 ++ dettagli piattaforma/ ambiente == 5
+lato ++ d3 ++ interdisciplinarità == 6
+leggere comandi e trasformarli in output ++ d2 ++ obiettivi disciplinari == 1
+Lego (dedotta da link inserita in altre risposte) ++ d1 ++ piattaforma/ ambiente == 6
+Lego ++ d1 ++ piattaforma/ ambiente == 6
+lettura codice ++ d1 ++ attività == 4
+libri ++ d1 ++ materiali/strumenti fisici == 12
+LIM ++ d1 ++ materiali/strumenti fisici == 53
+lingua straniera ++ d3 ++ interdisciplinarità == 7
+linguaggio formale ++ d2 ++ obiettivi disciplinari == 6
+logica/ pensiero logico/ competenze logiche ++ d2 ++ obiettivi disciplinari == 18
+ludico-motoria2 ++ d1 ++ attività == 10
+ludico-motoria2-dedot ++ d1 ++ attività == 1
+mani ++ d1 ++ materiali/strumenti fisici == 6
+manipolazione ++ d3 ++ riferito a domanda precedente == 6
+matematica ++ d3 ++ interdisciplinarità == 36
+mettersi dal punto di vista dell'altro per input ++ d2 ++ obiettivi disciplinari == 2
+migliorare oggetti ++ d2 ++ obiettivi trasversali == 6
+Mind Designer ++ d1 ++ piattaforma/ ambiente == 6
+misure ++ d1 ++ attività == 6
+modalità giocosa ++ d2 ++ ambiguità == 6
+modellazione dell'informazione ++ d3 ++ riferito a domanda precedente == 6
+modelli geometrici ++ d3 ++ interdisciplinarità == 6
+movimenti del corpo al ritmo della musica ++ d3 ++ interdisciplinarità == 6
+mTiny ++ d1 ++ piattaforma/ ambiente == 6
+narrazione digitale ++ d2 ++ abilità strumentali digitali == 7
+narrazione digitale con programmazione ++ d3 ++ riferito a domanda precedente == 10
+obiettivi piattaforma ++ d3 ++ riferito a domanda precedente == 6
+occhi ++ d1 ++ materiali/strumenti fisici == 6
+operazioni retta dei numeri ++ d3 ++ interdisciplinarità == 6
+orientamento spaziale ++ d2 ++ obiettivi trasversali == 18
+orientamento spaziale ++ d3 ++ interdisciplinarità == 43
+origami ++ d1 ++ attività == 6
+osservazione, memoria, analisi ++ d3 ++ soft skills e metacognizione == 6
+Ozobot Bit ++ d1 ++ piattaforma/ ambiente == 6
+PC / tablet ++ d1 ++ materiali/strumenti fisici == 84
+PC / tablet-dedot ++ d1 ++ materiali/strumenti fisici == 124
+peer to peer ++ d2 ++ obiettivi trasversali == 2
+penn/arelli cancellini ++ d1 ++ materiali/strumenti fisici == 24
+pensiero astratto ++ d2 ++ obiettivi trasversali == 6
+pensiero computazionale ++ d2 ++ obiettivi disciplinari == 82
+pensiero creativo ++ d3 ++ soft skills e metacognizione == 6
+pensiero critico ++ d3 ++ soft skills e metacognizione == 6
+pensiero critico-??????? ++ d3 ++ soft skills e metacognizione == 1
+pensiero logico ++ d2 ++ obiettivi trasversali == 28
+pensiero logico ++ d3 ++ soft skills e metacognizione == 38
+percorsi ++ d1 ++ attività == 37
+percorsi-dedot ++ d1 ++ attività == 7
+pianificare fabbricazione oggetti ++ d2 ++ obiettivi trasversali == 6
+piattaforma di debate ++ d2 ++ abilità strumentali digitali == 1
+pixel art ++ d1 ++ attività == 24
+pixel art ++ d3 ++ riferito a domanda precedente == 6
+potenzialità del linguaggio informatico di descrivere altre attività ++ d3 ++ riferito a domanda precedente == 6
+precisione / rigore ++ d3 ++ soft skills e metacognizione == 6
+presentare in modo esplicativo ++ d3 ++ soft skills e metacognizione == 8
+presentazione di una regione ++ d1 ++ attività == 10
+problem posing computazionale ++ d2 ++ obiettivi disciplinari == 6
+problem solving ++ d2 ++ obiettivi disciplinari == 82
+progettare un percorso ++ d2 ++ ambiguità == 12
+progettazione ++ d2 ++ obiettivi disciplinari == 6
+progettazione robotica ++ d2 ++ ambiguità == 6
+programma il futuro ++ d1 ++ piattaforma/ ambiente == 36
+programmazione ++ d1 ++ attività == 64
+programmazione ++ d2 ++ obiettivi disciplinari == 43
+programmazione ++ d3 ++ riferito a domanda precedente == 20
+programmazione di robot ++ d3 ++ riferito a domanda precedente == 6
+programmazione per la risoluzione di problemi ++ d2 ++ obiettivi disciplinari == 26
+programmazione-dedot ++ d1 ++ attività == 123
+pseudo-linguaggio ++ d1 ++ attività == 2
+punto di vista dell'altro ++ d3 ++ soft skills e metacognizione == 2
+quaderno ++ d1 ++ materiali/strumenti fisici == 3
+ragionamento ++ d2 ++ obiettivi trasversali == 7
+rappresentare processi mediante modelli logici ++ d3 ++ riferito a domanda precedente == 6
+rappresentazione dei dati ++ d3 ++ interdisciplinarità == 6
+rappresentazione dei dati/ informazione ++ d3 ++ riferito a domanda precedente == 12
+responsabilità ++ d2 ++ obiettivi trasversali == 9
+responsabilizzare ++ d2 ++ abilità strumentali digitali == 1
+retta dei numeri ++ d1 ++ materiali/strumenti fisici == 6
+ricerca di informazioni ++ d1 ++ attività == 10
+ricerca di informazioni su Internet ++ d2 ++ abilità strumentali digitali == 6
+riconoscere difetti ++ d2 ++ obiettivi trasversali == 6
+rielaborazione dei saperi ++ d3 ++ soft skills e metacognizione == 7
+riferimenti spaziali/ indicatori topologici ++ d3 ++ interdisciplinarità == 37
+riferimenti topologici ++ d1 ++ attività == 3
+riflettere sull'esperienza ++ d3 ++ soft skills e metacognizione == 6
+risoluzione computazionale di problemi ++ d3 ++ riferito a domanda precedente == 9
+risoluzione di problemi ++ d3 ++ soft skills e metacognizione == 68
+robot ++ d1 ++ materiali/strumenti fisici == 82
+robot DOC ++ d1 ++ piattaforma/ ambiente == 6
+robotica educativa ++ d3 ++ riferito a domanda precedente == 6
+scaffolding ++ d2 ++ obiettivi trasversali == 2
+scelta degli strumenti ++ d2 ++ obiettivi disciplinari == 6
+scelta degli strumenti ++ d3 ++ riferito a domanda precedente == 11
+schede ++ d1 ++ materiali/strumenti fisici == 1
+scienza ++ d1 ++ attività == 12
+scienze ++ d3 ++ interdisciplinarità == 17
+scomposizione problemi ++ d2 ++ obiettivi disciplinari == 12
+Scratch ++ d1 ++ piattaforma/ ambiente == 46
+scrittura ++ d3 ++ interdisciplinarità == 9
+scrittura e uso di diagrammi di flusso ++ d2 ++ obiettivi disciplinari == 12
+segnalini ++ d1 ++ materiali/strumenti fisici == 7
+selezione ++ d2 ++ obiettivi disciplinari == 2
+selezione ++ d3 ++ riferito a domanda precedente == 1
+selezione strumenti ++ d3 ++ soft skills e metacognizione == 1
+sequenza ++ d1 ++ attività == 19
+sequenza ++ d2 ++ obiettivi disciplinari == 13
+sequenza ++ d3 ++ riferito a domanda precedente == 18
+sequenza-dedot ++ d1 ++ attività == 12
+sequenzialità ++ d3 ++ interdisciplinarità == 12
+slide ++ d1 ++ materiali/strumenti fisici == 5
+smontare oggetti ++ d2 ++ obiettivi trasversali == 6
+soluzioni algoritmiche ++ d2 ++ obiettivi disciplinari == 24
+soluzioni algoritmiche ++ d3 ++ riferito a domanda precedente == 12
+spazio e figure ++ d3 ++ interdisciplinarità == 14
+sperimentazione ++ d1 ++ attività == 7
+spirito di iniziativa ++ d2 ++ obiettivi trasversali == 1
+spirito di iniziativa ++ d3 ++ soft skills e metacognizione == 6
+storia ++ d3 ++ interdisciplinarità == 6
+storie interattive e animazioni ++ d3 ++ interdisciplinarità == 2
+storytelling ++ d1 ++ attività == 11
+strutture dati ++ d1 ++ attività == 5
+studente ++ d2 ++ focus == 202
+Super Doc ++ d1 ++ piattaforma/ ambiente == 6
+sviluppo contenuti2 ++ d1 ++ attività == 8
+sviluppo iterativo ++ d1 ++ attività == 6
+sviluppo iterativo-dedot ++ d1 ++ attività == 6
+svolgere (?) algoritmi ++ d2 ++ ambiguità == 6
+Sì ++ d1 ++ metodologia? == 76
+tappeto ++ d1 ++ materiali/strumenti fisici == 6
+techno-CLIL ++ d1 ++ attività == 6
+tecnologia ++ d3 ++ interdisciplinarità == 7
+uso consapevole della tecnologia ++ d3 ++ riferito a domanda precedente == 8
+uso consapevole/critico della tecnologia/rete ++ d2 ++ abilità strumentali digitali == 12
+uso dei mezzi di comunicazione ++ d2 ++ abilità strumentali digitali == 8
+uso della tecnologia ++ d1 ++ attività == 30
+uso della tecnologia ++ d2 ++ abilità strumentali digitali == 38
+uso della tecnologia-dedot ++ d1 ++ attività == 1
+uso della tecnologia2-dedot ++ d1 ++ obiettivo riferito a domande successive == 2
+uso di giochi didattici ++ d2 ++ abilità strumentali digitali == 10
+uso di Internet ++ d2 ++ abilità strumentali digitali == 12
+uso di siti web ++ d3 ++ riferito a domanda precedente == 6
+uso IA ++ d2 ++ obiettivi disciplinari == 2
+uso sicuro della tecnologia ++ d3 ++ riferito a domanda precedente == 6
+uso trasversale del PeCo ++ d2 ++ obiettivi trasversali == 8
+utilizzare codici e linguaggi diversi ++ d2 ++ obiettivi disciplinari == 1
+utilizzare espressioni condizionali ++ d3 ++ riferito a domanda precedente == 1
+valutazione attendibilità informazioni ++ d3 ++ soft skills e metacognizione == 6
+valutazione della soluzione ++ d3 ++ soft skills e metacognizione == 1
+variabili ++ d1 ++ attività == 6
+verifica e correzione ++ d1 ++ attività == 44
+verifica/ correzione di programmi ++ d2 ++ obiettivi disciplinari == 19
+verifica/ correzione errori ++ d3 ++ riferito a domanda precedente == 18
+videoscrittura ++ d2 ++ abilità strumentali digitali == 18
+vuoto ++ d2 ++ risposta generica 2 == 11
+vuoto ++ d3 ++ risposta generica 3 == 66
+web ++ d1 ++ piattaforma/ ambiente == 6
+Word ++ d1 ++ piattaforma/ ambiente == 1
+Zaply ++ d1 ++ piattaforma/ ambiente == 6
