@@ -1,26 +1,26 @@
-coding unplugged
-coding
-pensiero computazionale
-rianalizzare
-risoluzione di problemi
-uso della tecnologia2
-uso di app didattiche
-videoscrittura
-capacità di narrazione
-conteggio
-conversazione collaborativa / collaborazione
-costruzione di mappe
-indicazioni topologiche
-lavoro in coppia
-mappe
-orientamento spaziale
-pensiero creativo
-pensiero critico
-pianificazione
-presentazione
-risoluzione di problemi
-sviluppo contenuti
-videotutorial
+1coding unplugged
+2coding
+2pensiero computazionale
+2rianalizzare
+2risoluzione di problemi
+2uso della tecnologia2
+2uso di app didattiche
+2videoscrittura
+3capacità di narrazione
+3conteggio
+3conversazione collaborativa / collaborazione
+3costruzione di mappe
+3indicazioni topologiche
+3lavoro in coppia
+3mappe
+3orientamento spaziale
+3pensiero creativo
+3pensiero critico
+3pianificazione
+3presentazione
+3risoluzione di problemi
+3sviluppo contenuti
+3videotutorial
 abilità informatiche
 abilità informatiche
 alfabetico-funzionale
