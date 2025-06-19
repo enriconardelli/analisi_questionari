@@ -390,15 +390,18 @@ etichette_count_as_tree = dict(count_etichette_as_tree(dizionari_risposte, categ
 # pprint.pprint(etichette_count_as_tree)
 # stampa_su_file_OFF(output_file)
 
-output_file = stampa_su_file_ON("etichette_tutte.txt")
+output_file = stampa_su_file_ON("etichette_tutte_solo_nomi.txt")
 etichette_tutte = {}
 for domanda, categorie in etichette_count_as_tree.items():
     for categoria, etichette in categorie.items():
         for etichetta, count in sorted(etichette.items(), key=lambda x: x[1], reverse=True):
             etichette_tutte[f"{etichetta} ++ {domanda} ++ {categoria}"] = count
 for etichetta, count in sorted(etichette_tutte.items(), key=lambda x: x[0].lower()):
-    print(f"{etichetta} == {count}")
+    # print(f"{etichetta} == {count}")
+    print(f"{etichetta.split(' ++ ')[0]}")
 stampa_su_file_OFF(output_file)
+
+exit()
 
 """ output_file = stampa_su_file_ON("etichette_ordinate_conteggio.txt")
 print(f"\n\n========== Per ogni domanda, categoria, etichetta: numero di occorrenze e numero normalizzato (/{NUMAUTORI})")
@@ -472,7 +475,6 @@ for domanda, categorie in etichette_problematicita.items():
             print(f"    {etichetta:<60} {values['R']:>5} {values['PR_L']:>10.2f}")
 stampa_su_file_OFF(output_file)
  """
-exit()
 
 # Stampa delle problematicità per ogni risposta separatamente
 output_file = stampa_su_file_ON("problematicita_risposte.txt")
