@@ -1,0 +1,2508 @@
+First row of ADZ:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+quaderno
+tappeto
+slide
+schede
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+techno-CLIL
+istruzioni di base
+esecuzione di istruzioni
+labirinto
+strutture dati
+lettura codice
+riferimenti topologici
+pseudo-linguaggio
+intelligenza artificiale
+coding analogico
+costruzione mappe
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+conteggio
+mappe
+uso di app didattiche
+presentazione
+orientamento spaziale
+capacità di narrazione
+costruzione di mappe
+lavoro in coppia
+indicazioni topologiche
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+robot DOC
+Mind Designer
+Cubetto
+Super Doc
+Ozobot Bit
+Cyber Talk Robot
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Classroom
+G-Mail
+corso 2
+Labor. Artista
+G-Drive
+G-Disegni
+labirinto2
+corso C lezione 5 la collezionista
+laboratorio con Gumball
+G-Modules
+G-Design
+collezionista
+intelligenza artificiale per il mare
+Corso F (2021)
+conteggio con la collezionista
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+
+Second row of ADZ:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of ADZ:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+
+First row of CM:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+tappeto
+slide
+quaderno
+schede
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+labirinto
+esecuzione di istruzioni
+strutture dati
+lettura codice
+techno-CLIL
+istruzioni di base
+riferimenti topologici
+pseudo-linguaggio
+intelligenza artificiale
+coding analogico
+costruzione mappe
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+capacità di narrazione
+conteggio
+mappe
+presentazione
+uso di app didattiche
+orientamento spaziale
+lavoro in coppia
+costruzione di mappe
+indicazioni topologiche
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+robot DOC
+Cubetto
+Cyber Talk Robot
+Mind Designer
+Ozobot Bit
+Super Doc
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Classroom
+G-Mail
+corso 2
+Labor. Artista
+G-Modules
+laboratorio con Gumball
+G-Disegni
+corso C lezione 5 la collezionista
+labirinto2
+G-Drive
+G-Design
+intelligenza artificiale per il mare
+collezionista
+Corso F (2021)
+conteggio con la collezionista
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+
+Second row of CM:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of CM:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+
+First row of EN:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+tappeto
+quaderno
+slide
+schede
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+intelligenza artificiale
+techno-CLIL
+riferimenti topologici
+strutture dati
+lettura codice
+pseudo-linguaggio
+labirinto
+istruzioni di base
+esecuzione di istruzioni
+coding analogico
+costruzione mappe
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+capacità di narrazione
+costruzione di mappe
+lavoro in coppia
+conteggio
+uso di app didattiche
+mappe
+presentazione
+orientamento spaziale
+indicazioni topologiche
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+robot DOC
+Mind Designer
+Cubetto
+Super Doc
+Ozobot Bit
+Cyber Talk Robot
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Classroom
+G-Mail
+corso 2
+Labor. Artista
+intelligenza artificiale per il mare
+labirinto2
+collezionista
+laboratorio con Gumball
+G-Drive
+G-Design
+G-Modules
+corso C lezione 5 la collezionista
+G-Disegni
+Corso F (2021)
+conteggio con la collezionista
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+nan
+nan
+
+Second row of EN:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of EN:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+
+First row of GA:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+slide
+tappeto
+quaderno
+schede
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+techno-CLIL
+riferimenti topologici
+strutture dati
+intelligenza artificiale
+labirinto
+istruzioni di base
+lettura codice
+esecuzione di istruzioni
+pseudo-linguaggio
+coding analogico
+costruzione mappe
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+capacità di narrazione
+costruzione di mappe
+presentazione
+mappe
+orientamento spaziale
+uso di app didattiche
+lavoro in coppia
+conteggio
+indicazioni topologiche
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+robot DOC
+Mind Designer
+Cubetto
+Super Doc
+Ozobot Bit
+Cyber Talk Robot
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Mail
+corso 2
+Labor. Artista
+G-Drive
+G-Disegni
+labirinto2
+laboratorio con Gumball
+G-Classroom
+G-Modules
+Corso F (2021)
+intelligenza artificiale per il mare
+corso C lezione 5 la collezionista
+G-Design
+collezionista
+conteggio con la collezionista
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+
+Second row of GA:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of GA:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+
+First row of LF:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+quaderno
+tappeto
+slide
+schede
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+pseudo-linguaggio
+techno-CLIL
+strutture dati
+coding analogico
+lettura codice
+intelligenza artificiale
+riferimenti topologici
+istruzioni di base
+labirinto
+esecuzione di istruzioni
+costruzione mappe
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+capacità di narrazione
+orientamento spaziale
+indicazioni topologiche
+conteggio
+mappe
+uso di app didattiche
+lavoro in coppia
+costruzione di mappe
+presentazione
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+Cyber Talk Robot
+robot DOC
+Mind Designer
+Ozobot Bit
+Super Doc
+Cubetto
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Classroom
+G-Mail
+corso 2
+Labor. Artista
+G-Drive
+labirinto2
+laboratorio con Gumball
+G-Modules
+collezionista
+intelligenza artificiale per il mare
+corso C lezione 5 la collezionista
+Corso F (2021)
+G-Disegni
+G-Design
+conteggio con la collezionista
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+
+Second row of LF:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of LF:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+
+First row of ML:
+ID
+Domanda 1
+ore sett.
+pacchetto ore
+altro tempo
+classe
+libri
+robot
+carta / cartoncino
+dalla piattaforma
+mani
+PC / tablet
+LIM
+occhi
+segnalini
+corpo
+griglia/ scacchiera
+penn/arelli cancellini
+carte / blocchi di programmazione
+retta dei numeri
+altri materiali
+slide
+quaderno
+schede
+tappeto
+ETICHETTE AGGIUNTE
+origami
+cicli
+istruzioni condizionali
+variabili
+sperimentazione
+algoritmi
+percorsi
+dalla piattaforma (attività)
+giochi disciplinari interattivi / attività ludiche
+diagramma di flusso
+presentazione di una regione
+uso della tecnologia
+scienza
+misure
+storytelling
+geografia
+coding unplugged
+attività unplugged
+decomposizione
+geometria
+sviluppo iterativo
+verifica e correzione
+ricerca di informazioni
+pixel art
+sequenza
+programmazione
+coding
+altre attività
+aritmetica
+sviluppo contenuti2
+ludico-motoria2
+costruzione mappe
+techno-CLIL
+esecuzione di istruzioni
+pseudo-linguaggio
+strutture dati
+istruzioni di base
+lettura codice
+labirinto
+coding analogico
+intelligenza artificiale
+riferimenti topologici
+ETICHETTE AGGIUNTE2
+conversazione collaborativa / collaborazione
+pensiero critico
+pensiero creativo
+rianalizzare
+pensiero computazionale
+risoluzione di problemi
+videotutorial
+pianificazione
+uso della tecnologia2
+sviluppo contenuti
+videoscrittura
+capacità di narrazione
+orientamento spaziale
+mappe
+lavoro in coppia
+uso di app didattiche
+costruzione di mappe
+presentazione
+indicazioni topologiche
+conteggio
+ETICHETTE AGGIUNTE3
+Lego (dedotta da link inserita in altre risposte)
+Common Sense Selection
+BeeBot
+BlueBot
+Zaply
+Lego
+Kahoot
+Scratch
+mTiny
+Geogebra
+Code.org
+Gworkspace
+programma il futuro
+web
+Cody Roby
+robot DOC
+Cubetto
+Super Doc
+Ozobot Bit
+Cyber Talk Robot
+Mind Designer
+Word
+ETICHETTE AGGIUNTE4
+G-Slides
+corso B
+corso C (2021)
+corso D (2021)
+G-Classroom
+G-Mail
+corso 2
+Labor. Artista
+G-Drive
+G-Disegni
+intelligenza artificiale per il mare
+labirinto2
+conteggio con la collezionista
+laboratorio con Gumball
+collezionista
+corso C lezione 5 la collezionista
+Corso F (2021)
+G-Modules
+G-Design
+ETICHETTE AGGIUNTE5
+Sì
+forse (vago)
+ETICHETTE AGGIUNTE6
+
+Second row of ML:
+631
+2 ore settimanali
+piattaforma Code.org
+esercizi graduati di programmazione
+2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+Third row of ML:
+636
+Coding con code.org e scratch
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotti
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+dedotta
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+X
+nan
+nan
+X
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+
+

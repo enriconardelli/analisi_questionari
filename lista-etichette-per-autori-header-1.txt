@@ -1,0 +1,242 @@
+First row of ADZ:
+ID                                                                              631
+Domanda 1                         2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                                         2
+pacchetto ore                                                                   NaN
+altro tempo                                                                     NaN
+                                                        ...                        
+conteggio con la collezionista                                                  NaN
+ETICHETTE AGGIUNTE5                                                             NaN
+Sì                                                                              NaN
+forse (vago)                                                                    NaN
+ETICHETTE AGGIUNTE6                                                             NaN
+Name: 0, Length: 136, dtype: object
+
+Second row of ADZ:
+ID                                                          636
+Domanda 1                         Coding con code.org e scratch
+ore sett.                                                   NaN
+pacchetto ore                                               NaN
+altro tempo                                                 NaN
+                                              ...              
+conteggio con la collezionista                              NaN
+ETICHETTE AGGIUNTE5                                         NaN
+Sì                                                          NaN
+forse (vago)                                                NaN
+ETICHETTE AGGIUNTE6                                         NaN
+Name: 1, Length: 136, dtype: object
+
+Third row of ADZ:
+ID                                                                638
+Domanda 1                         Coding\n1 ora a settimana\nComputer
+ore sett.                                                           1
+pacchetto ore                                                     NaN
+altro tempo                                                       NaN
+                                                 ...                 
+conteggio con la collezionista                                    NaN
+ETICHETTE AGGIUNTE5                                               NaN
+Sì                                                                NaN
+forse (vago)                                                      NaN
+ETICHETTE AGGIUNTE6                                               NaN
+Name: 2, Length: 136, dtype: object
+
+First row of CM:
+ID                                                                              631
+Domanda 1                         2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                                       2.0
+pacchetto ore                                                                   NaN
+altro tempo                                                                     NaN
+                                                        ...                        
+conteggio con la collezionista                                                  NaN
+ETICHETTE AGGIUNTE5                                                             NaN
+Sì                                                                              NaN
+forse (vago)                                                                    NaN
+ETICHETTE AGGIUNTE6                                                             NaN
+Name: 0, Length: 136, dtype: object
+Second row of CM:
+ID                                                          636
+Domanda 1                         Coding con code.org e scratch
+ore sett.                                                   NaN
+pacchetto ore                                               NaN
+altro tempo                                                 NaN
+                                              ...              
+conteggio con la collezionista                              NaN
+ETICHETTE AGGIUNTE5                                         NaN
+Sì                                                          NaN
+forse (vago)                                                NaN
+ETICHETTE AGGIUNTE6                                         NaN
+Name: 1, Length: 136, dtype: object
+Third row of CM:
+ID                                                                638
+Domanda 1                         Coding\n1 ora a settimana\nComputer
+ore sett.                                                         1.0
+pacchetto ore                                                     NaN
+altro tempo                                                       NaN
+                                                 ...                 
+conteggio con la collezionista                                    NaN
+ETICHETTE AGGIUNTE5                                               NaN
+Sì                                                                NaN
+forse (vago)                                                      NaN
+ETICHETTE AGGIUNTE6                                               NaN
+Name: 2, Length: 136, dtype: object
+
+First row of EN:
+ID                                                                 631.0
+Domanda 1              2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                            2.0
+pacchetto ore                                                        NaN
+altro tempo                                                          NaN
+                                             ...                        
+Sì                                                                   NaN
+forse (vago)                                                         NaN
+ETICHETTE AGGIUNTE6                                                  NaN
+Unnamed: 136                                                         NaN
+Unnamed: 137                                                         NaN
+Name: 0, Length: 138, dtype: object
+Second row of EN:
+ID                                             636.0
+Domanda 1              Coding con code.org e scratch
+ore sett.                                        NaN
+pacchetto ore                                    NaN
+altro tempo                                      NaN
+                                   ...              
+Sì                                               NaN
+forse (vago)                                     NaN
+ETICHETTE AGGIUNTE6                              NaN
+Unnamed: 136                                     NaN
+Unnamed: 137                                     NaN
+Name: 1, Length: 138, dtype: object
+Third row of EN:
+ID                                                   638.0
+Domanda 1              Coding\n1 ora a settimana\nComputer
+ore sett.                                              1.0
+pacchetto ore                                          NaN
+altro tempo                                            NaN
+                                      ...                 
+Sì                                                     NaN
+forse (vago)                                           NaN
+ETICHETTE AGGIUNTE6                                    NaN
+Unnamed: 136                                           NaN
+Unnamed: 137                                           NaN
+Name: 2, Length: 138, dtype: object
+
+First row of GA:
+ID                                                                              631
+Domanda 1                         2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                                       2.0
+pacchetto ore                                                                   NaN
+altro tempo                                                                     NaN
+                                                        ...                        
+conteggio con la collezionista                                                  NaN
+ETICHETTE AGGIUNTE5                                                             NaN
+Sì                                                                              NaN
+forse (vago)                                                                    NaN
+ETICHETTE AGGIUNTE6                                                             NaN
+Name: 0, Length: 136, dtype: object
+Second row of GA:
+ID                                                          636
+Domanda 1                         Coding con code.org e scratch
+ore sett.                                                   NaN
+pacchetto ore                                               NaN
+altro tempo                                                 NaN
+                                              ...              
+conteggio con la collezionista                              NaN
+ETICHETTE AGGIUNTE5                                         NaN
+Sì                                                          NaN
+forse (vago)                                                NaN
+ETICHETTE AGGIUNTE6                                         NaN
+Name: 1, Length: 136, dtype: object
+Third row of GA:
+ID                                                                638
+Domanda 1                         Coding\n1 ora a settimana\nComputer
+ore sett.                                                         1.0
+pacchetto ore                                                     NaN
+altro tempo                                                       NaN
+                                                 ...                 
+conteggio con la collezionista                                    NaN
+ETICHETTE AGGIUNTE5                                               NaN
+Sì                                                                NaN
+forse (vago)                                                      NaN
+ETICHETTE AGGIUNTE6                                               NaN
+Name: 2, Length: 136, dtype: object
+
+First row of LF:
+ID                                                                              631
+Domanda 1                         2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                                         2
+pacchetto ore                                                                   NaN
+altro tempo                                                                     NaN
+                                                        ...                        
+conteggio con la collezionista                                                  NaN
+ETICHETTE AGGIUNTE5                                                             NaN
+Sì                                                                              NaN
+forse (vago)                                                                    NaN
+ETICHETTE AGGIUNTE6                                                             NaN
+Name: 0, Length: 136, dtype: object
+Second row of LF:
+ID                                                          636
+Domanda 1                         Coding con code.org e scratch
+ore sett.                                                   NaN
+pacchetto ore                                               NaN
+altro tempo                                                 NaN
+                                              ...              
+conteggio con la collezionista                              NaN
+ETICHETTE AGGIUNTE5                                         NaN
+Sì                                                          NaN
+forse (vago)                                                NaN
+ETICHETTE AGGIUNTE6                                         NaN
+Name: 1, Length: 136, dtype: object
+Third row of LF:
+ID                                                                638
+Domanda 1                         Coding\n1 ora a settimana\nComputer
+ore sett.                                                           1
+pacchetto ore                                                     NaN
+altro tempo                                                       NaN
+                                                 ...                 
+conteggio con la collezionista                                    NaN
+ETICHETTE AGGIUNTE5                                               NaN
+Sì                                                                NaN
+forse (vago)                                                      NaN
+ETICHETTE AGGIUNTE6                                               NaN
+Name: 2, Length: 136, dtype: object
+
+First row of ML:
+ID                                                                   631
+Domanda 1              2 ore settimanali\npiattaforma Code.org\neserc...
+ore sett.                                                            2.0
+pacchetto ore                                                        NaN
+altro tempo                                                          NaN
+                                             ...                        
+G-Design                                                             NaN
+ETICHETTE AGGIUNTE5                                                  NaN
+Sì                                                                   NaN
+forse (vago)                                                         NaN
+ETICHETTE AGGIUNTE6                                                  NaN
+Name: 0, Length: 136, dtype: object
+Second row of ML:
+ID                                               636
+Domanda 1              Coding con code.org e scratch
+ore sett.                                        NaN
+pacchetto ore                                    NaN
+altro tempo                                      NaN
+                                   ...              
+G-Design                                         NaN
+ETICHETTE AGGIUNTE5                              NaN
+Sì                                               NaN
+forse (vago)                                     NaN
+ETICHETTE AGGIUNTE6                              NaN
+Name: 1, Length: 136, dtype: object
+Third row of ML:
+ID                                                     638
+Domanda 1              Coding\n1 ora a settimana\nComputer
+ore sett.                                              1.0
+pacchetto ore                                          NaN
+altro tempo                                            NaN
+                                      ...                 
+G-Design                                               NaN
+ETICHETTE AGGIUNTE5                                    NaN
+Sì                                                     NaN
+forse (vago)                                           NaN
+ETICHETTE AGGIUNTE6                                    NaN
+Name: 2, Length: 136, dtype: object
+
