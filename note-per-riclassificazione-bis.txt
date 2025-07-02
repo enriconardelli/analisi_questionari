@@ -1,0 +1,7 @@
+
+aggiustamenti di nomi di etichette, fatti sia negli excel "XY_combined" che in "macro-etichette-per-riclassificazione-REV"
+
+D1_costruzione mappe -> D1_attività costruzione di mappe
+D1_sviluppo contenuti2 -> D1_attività sviluppo contenuti
+D1_ludico-motoria2 -> D1_attività ludico-motoria (non c'è un etichetta "ludico-motoria")
+D2_ comprensione dei comandi di progrmmazione -> D2_ comprensione dei comandi di programmazione (correzione errore lessicale)
