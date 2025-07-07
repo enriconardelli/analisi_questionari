@@ -1,0 +1,153 @@
+macro-etichetta __ problematicità PR_L __ numero di risposte R in cui è stata usata 
+   (ordinato per PR_L decrescente)
+-----------------------------------------------------------------------------------
+focus d2 -- contenuto 
+   PR_L: 4.308 __ R: 13
+risposta generica d2 -- vuoto-d2 
+   PR_L: 4.167 __ R: 6
+attività -- altro 
+   PR_L: 3.333 __ R: 6
+risposta generica d3 -- generico-d3 
+   PR_L: 2.75 __ R: 12
+metodologia -- forse 
+   PR_L: 2.667 __ R: 18
+risposta generica d3 -- copia risposta 2 
+   PR_L: 2.667 __ R: 3
+interdisciplinarità -- lingua straniera 
+   PR_L: 2.5 __ R: 2
+piattaforma/ ambiente -- google workspace 
+   PR_L: 2.333 __ R: 3
+attività -- coding 
+   PR_L: 2.273 __ R: 22
+soft skills/ trasversali/ metacognizione -- empowerment 
+   PR_L: 2.143 __ R: 14
+soft skills/ trasversali/ metacognizione -- ragionamento 
+   PR_L: 2.111 __ R: 9
+risposta generica d2 -- generico-d2 
+   PR_L: 2.042 __ R: 24
+materiali/strumenti fisici -- materiali che guidano/strutturano attività 
+   PR_L: 2.0 __ R: 18
+interdisciplinarità -- italiano 
+   PR_L: 2.0 __ R: 6
+obiettivi disciplinari -- intelligenza artificiale 
+   PR_L: 2.0 __ R: 1
+attività -- movimento e percorsi 
+   PR_L: 1.923 __ R: 13
+soft skills/ trasversali/ metacognizione -- comunicazione 
+   PR_L: 1.917 __ R: 12
+obiettivi disciplinari -- risoluzione computazionale dei problemi 
+   PR_L: 1.9 __ R: 10
+materiali/strumenti fisici -- corpo 
+   PR_L: 1.857 __ R: 7
+attività -- videogiochi 
+   PR_L: 1.8 __ R: 5
+attività -- strumentali per altre discipline 
+   PR_L: 1.692 __ R: 13
+attività -- uso tecnologia e sviluppo contenuti 
+   PR_L: 1.667 __ R: 9
+interdisciplinarità -- interdisciplinarità 
+   PR_L: 1.667 __ R: 3
+interdisciplinarità -- tecnologia 
+   PR_L: 1.667 __ R: 3
+piattaforma/ ambiente -- carte/blocchi programmazione 
+   PR_L: 1.667 __ R: 3
+soft skills/ trasversali/ metacognizione -- processi cognitivi 
+   PR_L: 1.636 __ R: 11
+focus d2 -- insegnante 
+   PR_L: 1.545 __ R: 11
+materiali/strumenti fisici -- cancelleria/uso comune 
+   PR_L: 1.429 __ R: 21
+interdisciplinarità -- geografia 
+   PR_L: 1.333 __ R: 3
+obiettivi disciplinari -- consapevolezza digitale 
+   PR_L: 1.25 __ R: 8
+piattaforma/ ambiente -- software di creazione/ricerca contenuti 
+   PR_L: 1.25 __ R: 4
+obiettivi disciplinari -- programmazione (generica) 
+   PR_L: 1.231 __ R: 13
+attività -- processi di informatica 
+   PR_L: 1.2 __ R: 5
+metodologia -- sì 
+   PR_L: 1.188 __ R: 16
+attività -- verifica e correzione 
+   PR_L: 1.111 __ R: 9
+attività -- programmazione 
+   PR_L: 1.053 __ R: 38
+obiettivi disciplinari -- metodi 
+   PR_L: 1.0 __ R: 5
+obiettivi pertinenti -- creatività digitale 
+   PR_L: 1.0 __ R: 4
+focus d2 -- studente 
+   PR_L: 0.95 __ R: 40
+materiali/strumenti fisici -- carte/blocchi 
+   PR_L: 0.889 __ R: 9
+risposta generica d3 -- vuoto-d3 
+   PR_L: 0.846 __ R: 13
+obiettivi disciplinari -- verifica/ correzione 
+   PR_L: 0.833 __ R: 6
+materiali/strumenti fisici -- pc/tablet 
+   PR_L: 0.8 __ R: 40
+attività -- unplugged 
+   PR_L: 0.737 __ R: 19
+soft skills/ trasversali/ metacognizione -- creatività 
+   PR_L: 0.714 __ R: 7
+obiettivi pertinenti -- logica 
+   PR_L: 0.692 __ R: 13
+materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività 
+   PR_L: 0.556 __ R: 9
+abilità strumentali digitali -- uso di strumenti digitali 
+   PR_L: 0.55 __ R: 20
+soft skills/ trasversali/ metacognizione -- collaborazione 
+   PR_L: 0.5 __ R: 16
+attività -- contenuti algoritmici 
+   PR_L: 0.5 __ R: 4
+soft skills/ trasversali/ metacognizione -- relazionale-sociale 
+   PR_L: 0.5 __ R: 6
+attività -- storytelling 
+   PR_L: 0.5 __ R: 2
+obiettivi disciplinari -- generico 
+   PR_L: 0.48 __ R: 25
+obiettivi pertinenti -- problem solving 
+   PR_L: 0.478 __ R: 23
+interdisciplinarità -- matematica 
+   PR_L: 0.455 __ R: 11
+obiettivi disciplinari -- programmazione (specifici) 
+   PR_L: 0.385 __ R: 13
+piattaforma/ ambiente -- scratch 
+   PR_L: 0.25 __ R: 8
+obiettivi disciplinari -- pratiche 
+   PR_L: 0.2 __ R: 5
+piattaforma/ ambiente -- code.org / programma il futuro 
+   PR_L: 0.182 __ R: 22
+materiali/strumenti fisici -- robot 
+   PR_L: 0.143 __ R: 14
+attività -- costrutti di base 
+   PR_L: 0.143 __ R: 7
+materiali/strumenti fisici -- lim 
+   PR_L: 0.111 __ R: 9
+interdisciplinarità -- spazialità 
+   PR_L: 0.1 __ R: 10
+piattaforma/ ambiente -- robot 
+   PR_L: 0.083 __ R: 12
+obiettivi disciplinari -- algoritmica 
+   PR_L: 0.0 __ R: 10
+obiettivi pertinenti -- progettazione 
+   PR_L: 0.0 __ R: 4
+obiettivi disciplinari -- rappresentazione dell'informazione 
+   PR_L: 0.0 __ R: 3
+interdisciplinarità -- educazione civica 
+   PR_L: 0.0 __ R: 1
+attività -- pixel art 
+   PR_L: 0.0 __ R: 4
+piattaforma/ ambiente -- ambiente pixel art 
+   PR_L: 0.0 __ R: 1
+interdisciplinarità -- scienze 
+   PR_L: 0.0 __ R: 3
+obiettivi pertinenti -- progettazione e sviluppo oggetti 
+   PR_L: 0.0 __ R: 1
+interdisciplinarità -- educazione fisica 
+   PR_L: 0.0 __ R: 1
+piattaforma/ ambiente -- geometria dinamica 
+   PR_L: 0.0 __ R: 1
+interdisciplinarità -- storia 
+   PR_L: 0.0 __ R: 1

@@ -1,0 +1,776 @@
+ID: 631, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 631, Macro-label: attività -- programmazione, Value: 6
+ID: 631, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 631, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 631, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 631, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 631, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 631, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 631, Macro-label: obiettivi pertinenti -- progettazione, Value: 6
+ID: 631, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 631, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 631, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 631, Macro-label: focus d2 -- studente, Value: 6
+ID: 636, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 636, Macro-label: attività -- coding, Value: 6
+ID: 636, Macro-label: attività -- programmazione, Value: 6
+ID: 636, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 636, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 636, Macro-label: risposta generica d2 -- vuoto-d2, Value: 6
+ID: 636, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 638, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 638, Macro-label: attività -- coding, Value: 6
+ID: 638, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 638, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 638, Macro-label: interdisciplinarità -- geografia, Value: 6
+ID: 638, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 638, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 643, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 643, Macro-label: attività -- unplugged, Value: 6
+ID: 643, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 643, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 643, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 646, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 646, Macro-label: attività -- programmazione, Value: 6
+ID: 646, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 646, Macro-label: metodologia -- forse, Value: 6
+ID: 646, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 646, Macro-label: focus d2 -- contenuto, Value: 6
+ID: 646, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 652, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 652, Macro-label: attività -- coding, Value: 6
+ID: 652, Macro-label: obiettivi disciplinari -- pratiche, Value: 6
+ID: 652, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 652, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 652, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 652, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 6
+ID: 652, Macro-label: focus d2 -- studente, Value: 6
+ID: 654, Macro-label: materiali/strumenti fisici -- corpo, Value: 6
+ID: 654, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 654, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 654, Macro-label: attività -- coding, Value: 6
+ID: 654, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 654, Macro-label: attività -- programmazione, Value: 6
+ID: 654, Macro-label: attività -- unplugged, Value: 6
+ID: 654, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 654, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 654, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- metodi, Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 654, Macro-label: obiettivi disciplinari -- rappresentazione dell'informazione, Value: 6
+ID: 654, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 654, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 654, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 654, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 654, Macro-label: focus d2 -- studente, Value: 6
+ID: 658, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 658, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 658, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 658, Macro-label: attività -- programmazione, Value: 6
+ID: 658, Macro-label: attività -- unplugged, Value: 6
+ID: 658, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 658, Macro-label: metodologia -- forse, Value: 6
+ID: 658, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 658, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 658, Macro-label: interdisciplinarità -- lingua straniera, Value: 6
+ID: 658, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 658, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 659, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 659, Macro-label: attività -- coding, Value: 6
+ID: 659, Macro-label: attività -- programmazione, Value: 6
+ID: 659, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 659, Macro-label: metodologia -- forse, Value: 6
+ID: 659, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 659, Macro-label: obiettivi disciplinari -- metodi, Value: 6
+ID: 659, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 659, Macro-label: obiettivi disciplinari -- rappresentazione dell'informazione, Value: 6
+ID: 659, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 659, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 659, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 659, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 6
+ID: 659, Macro-label: focus d2 -- studente, Value: 6
+ID: 662, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 662, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 662, Macro-label: attività -- programmazione, Value: 6
+ID: 662, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 662, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 662, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 662, Macro-label: piattaforma/ ambiente -- software di creazione/ricerca contenuti, Value: 6
+ID: 662, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 662, Macro-label: obiettivi pertinenti -- creatività digitale, Value: 6
+ID: 662, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 662, Macro-label: interdisciplinarità -- educazione civica, Value: 6
+ID: 662, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 662, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 662, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 662, Macro-label: focus d2 -- studente, Value: 6
+ID: 668, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 668, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 668, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 668, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 668, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 668, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 668, Macro-label: focus d2 -- studente, Value: 6
+ID: 680, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 680, Macro-label: attività -- coding, Value: 6
+ID: 680, Macro-label: attività -- programmazione, Value: 6
+ID: 680, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 680, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 680, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 680, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 680, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 680, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 680, Macro-label: focus d2 -- studente, Value: 6
+ID: 681, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 681, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 681, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 681, Macro-label: piattaforma/ ambiente -- software di creazione/ricerca contenuti, Value: 6
+ID: 681, Macro-label: metodologia -- sì, Value: 6
+ID: 681, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 681, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 681, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 681, Macro-label: focus d2 -- studente, Value: 6
+ID: 682, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 682, Macro-label: materiali/strumenti fisici -- corpo, Value: 6
+ID: 682, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 682, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 682, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 682, Macro-label: attività -- pixel art, Value: 6
+ID: 682, Macro-label: attività -- programmazione, Value: 6
+ID: 682, Macro-label: attività -- unplugged, Value: 6
+ID: 682, Macro-label: piattaforma/ ambiente -- ambiente pixel art, Value: 6
+ID: 682, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 682, Macro-label: metodologia -- sì, Value: 6
+ID: 682, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 682, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 682, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 682, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 682, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 682, Macro-label: focus d2 -- studente, Value: 6
+ID: 682, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 688, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 688, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 688, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 688, Macro-label: attività -- altro, Value: 6
+ID: 688, Macro-label: attività -- processi di informatica, Value: 6
+ID: 688, Macro-label: attività -- programmazione, Value: 6
+ID: 688, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 688, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 688, Macro-label: metodologia -- sì, Value: 6
+ID: 688, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 688, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 688, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 690, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 690, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 690, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 690, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 6
+ID: 690, Macro-label: piattaforma/ ambiente -- google workspace, Value: 6
+ID: 690, Macro-label: piattaforma/ ambiente -- software di creazione/ricerca contenuti, Value: 6
+ID: 690, Macro-label: metodologia -- sì, Value: 6
+ID: 690, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 690, Macro-label: interdisciplinarità -- interdisciplinarità, Value: 6
+ID: 690, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 690, Macro-label: focus d2 -- studente, Value: 6
+ID: 698, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 698, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 698, Macro-label: attività -- unplugged, Value: 6
+ID: 698, Macro-label: obiettivi pertinenti -- progettazione, Value: 6
+ID: 698, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 698, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 698, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 698, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 698, Macro-label: focus d2 -- studente, Value: 6
+ID: 706, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 706, Macro-label: attività -- contenuti algoritmici, Value: 6
+ID: 706, Macro-label: attività -- costrutti di base, Value: 6
+ID: 706, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 706, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 706, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 706, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 706, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 706, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 706, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 706, Macro-label: focus d2 -- studente, Value: 6
+ID: 717, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 717, Macro-label: attività -- videogiochi, Value: 6
+ID: 717, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 717, Macro-label: interdisciplinarità -- italiano, Value: 6
+ID: 717, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 717, Macro-label: interdisciplinarità -- scienze, Value: 6
+ID: 717, Macro-label: interdisciplinarità -- tecnologia, Value: 6
+ID: 717, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 717, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 6
+ID: 717, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 722, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 722, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 722, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 722, Macro-label: attività -- pixel art, Value: 6
+ID: 722, Macro-label: attività -- programmazione, Value: 6
+ID: 722, Macro-label: attività -- unplugged, Value: 6
+ID: 722, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 722, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 722, Macro-label: risposta generica d3 -- generico-d3, Value: 6
+ID: 723, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 723, Macro-label: attività -- costrutti di base, Value: 6
+ID: 723, Macro-label: attività -- processi di informatica, Value: 6
+ID: 723, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 723, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 723, Macro-label: metodologia -- forse, Value: 6
+ID: 723, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 723, Macro-label: obiettivi pertinenti -- progettazione e sviluppo oggetti, Value: 6
+ID: 723, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 723, Macro-label: interdisciplinarità -- italiano, Value: 6
+ID: 723, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 723, Macro-label: interdisciplinarità -- scienze, Value: 6
+ID: 723, Macro-label: interdisciplinarità -- tecnologia, Value: 6
+ID: 723, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 728, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 728, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 728, Macro-label: attività -- coding, Value: 6
+ID: 728, Macro-label: attività -- programmazione, Value: 6
+ID: 728, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 728, Macro-label: metodologia -- forse, Value: 6
+ID: 728, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 728, Macro-label: interdisciplinarità -- educazione fisica, Value: 6
+ID: 728, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 728, Macro-label: focus d2 -- studente, Value: 6
+ID: 730, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 730, Macro-label: materiali/strumenti fisici -- corpo, Value: 6
+ID: 730, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 730, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 6
+ID: 730, Macro-label: piattaforma/ ambiente -- geometria dinamica, Value: 6
+ID: 730, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 730, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 730, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 730, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 730, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 730, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 730, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 6
+ID: 730, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 736, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 736, Macro-label: attività -- pixel art, Value: 6
+ID: 736, Macro-label: attività -- unplugged, Value: 6
+ID: 736, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 736, Macro-label: obiettivi disciplinari -- pratiche, Value: 6
+ID: 736, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 736, Macro-label: obiettivi pertinenti -- progettazione, Value: 6
+ID: 736, Macro-label: interdisciplinarità -- interdisciplinarità, Value: 6
+ID: 736, Macro-label: focus d2 -- studente, Value: 6
+ID: 738, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 738, Macro-label: attività -- coding, Value: 6
+ID: 738, Macro-label: attività -- programmazione, Value: 6
+ID: 738, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 738, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 738, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 738, Macro-label: focus d2 -- studente, Value: 6
+ID: 738, Macro-label: risposta generica d3 -- generico-d3, Value: 6
+ID: 740, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 740, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 740, Macro-label: attività -- programmazione, Value: 6
+ID: 740, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 740, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 740, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 740, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 744, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 744, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 744, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 744, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 744, Macro-label: attività -- processi di informatica, Value: 6
+ID: 744, Macro-label: attività -- programmazione, Value: 6
+ID: 744, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 744, Macro-label: metodologia -- sì, Value: 6
+ID: 744, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 744, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 744, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 744, Macro-label: focus d2 -- studente, Value: 6
+ID: 745, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 745, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 745, Macro-label: attività -- coding, Value: 6
+ID: 745, Macro-label: attività -- contenuti algoritmici, Value: 6
+ID: 745, Macro-label: attività -- costrutti di base, Value: 6
+ID: 745, Macro-label: attività -- programmazione, Value: 6
+ID: 745, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 745, Macro-label: metodologia -- forse, Value: 6
+ID: 745, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 745, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 745, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 745, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 745, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 745, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 745, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 745, Macro-label: focus d2 -- studente, Value: 6
+ID: 745, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 747, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 747, Macro-label: attività -- altro, Value: 6
+ID: 747, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 747, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 747, Macro-label: risposta generica d3 -- generico-d3, Value: 6
+ID: 749, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 749, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 749, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 749, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 749, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 749, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 749, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 749, Macro-label: obiettivi disciplinari -- rappresentazione dell'informazione, Value: 6
+ID: 749, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 749, Macro-label: focus d2 -- studente, Value: 6
+ID: 756, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 756, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 756, Macro-label: attività -- programmazione, Value: 6
+ID: 756, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 756, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 756, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 756, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 759, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 759, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 759, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 759, Macro-label: attività -- programmazione, Value: 6
+ID: 759, Macro-label: attività -- storytelling, Value: 6
+ID: 759, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 759, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 759, Macro-label: metodologia -- sì, Value: 6
+ID: 759, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 759, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 759, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 6
+ID: 759, Macro-label: obiettivi pertinenti -- creatività digitale, Value: 6
+ID: 759, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 759, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 759, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 759, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 759, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 759, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 759, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 759, Macro-label: focus d2 -- studente, Value: 6
+ID: 766, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 766, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 766, Macro-label: attività -- costrutti di base, Value: 6
+ID: 766, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 766, Macro-label: attività -- programmazione, Value: 6
+ID: 766, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 766, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 766, Macro-label: metodologia -- forse, Value: 6
+ID: 766, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 766, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 766, Macro-label: interdisciplinarità -- geografia, Value: 6
+ID: 766, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 766, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 766, Macro-label: interdisciplinarità -- storia, Value: 6
+ID: 766, Macro-label: risposta generica d2 -- generico-d2, Value: 6
+ID: 767, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 767, Macro-label: attività -- videogiochi, Value: 6
+ID: 767, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 767, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 767, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 767, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 6
+ID: 767, Macro-label: focus d2 -- studente, Value: 6
+ID: 773, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 773, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 773, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 773, Macro-label: attività -- programmazione, Value: 6
+ID: 773, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 773, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 773, Macro-label: metodologia -- sì, Value: 6
+ID: 773, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 773, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 6
+ID: 773, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 774, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 774, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 6
+ID: 774, Macro-label: attività -- videogiochi, Value: 6
+ID: 774, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 774, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 774, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 774, Macro-label: focus d2 -- studente, Value: 6
+ID: 774, Macro-label: risposta generica d3 -- copia risposta 2, Value: 6
+ID: 779, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 779, Macro-label: materiali/strumenti fisici -- corpo, Value: 6
+ID: 779, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 779, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 779, Macro-label: attività -- costrutti di base, Value: 6
+ID: 779, Macro-label: attività -- movimento e percorsi, Value: 6
+ID: 779, Macro-label: attività -- programmazione, Value: 6
+ID: 779, Macro-label: attività -- unplugged, Value: 6
+ID: 779, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 779, Macro-label: piattaforma/ ambiente -- carte/blocchi programmazione, Value: 6
+ID: 779, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 779, Macro-label: metodologia -- sì, Value: 6
+ID: 779, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 779, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 6
+ID: 779, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 6
+ID: 779, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 779, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 779, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 779, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 6
+ID: 779, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 6
+ID: 779, Macro-label: focus d2 -- studente, Value: 6
+ID: 784, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 784, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 6
+ID: 784, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 784, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 784, Macro-label: attività -- costrutti di base, Value: 6
+ID: 784, Macro-label: attività -- programmazione, Value: 6
+ID: 784, Macro-label: attività -- unplugged, Value: 6
+ID: 784, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 784, Macro-label: piattaforma/ ambiente -- carte/blocchi programmazione, Value: 6
+ID: 784, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 784, Macro-label: metodologia -- sì, Value: 6
+ID: 784, Macro-label: obiettivi disciplinari -- pratiche, Value: 6
+ID: 784, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 6
+ID: 784, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 784, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 784, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 784, Macro-label: focus d2 -- studente, Value: 6
+ID: 788, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 788, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 6
+ID: 788, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 788, Macro-label: risposta generica d3 -- generico-d3, Value: 6
+ID: 791, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 791, Macro-label: attività -- programmazione, Value: 6
+ID: 791, Macro-label: attività -- verifica e correzione, Value: 6
+ID: 791, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 791, Macro-label: metodologia -- forse, Value: 6
+ID: 791, Macro-label: obiettivi disciplinari -- algoritmica, Value: 6
+ID: 791, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 791, Macro-label: focus d2 -- insegnante, Value: 6
+ID: 791, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 1
+ID: 548, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 548, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 548, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 1
+ID: 548, Macro-label: obiettivi disciplinari -- intelligenza artificiale, Value: 4
+ID: 548, Macro-label: interdisciplinarità -- scienze, Value: 6
+ID: 548, Macro-label: focus d2 -- studente, Value: 3
+ID: 548, Macro-label: interdisciplinarità -- interdisciplinarità, Value: 1
+ID: 548, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 3
+ID: 548, Macro-label: focus d2 -- contenuto, Value: 2
+ID: 548, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 2
+ID: 548, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 2
+ID: 548, Macro-label: attività -- altro, Value: 1
+ID: 548, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 1
+ID: 548, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 1
+ID: 548, Macro-label: risposta generica d3 -- generico-d3, Value: 1
+ID: 548, Macro-label: metodologia -- forse, Value: 1
+ID: 548, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 1
+ID: 550, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 4
+ID: 550, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 5
+ID: 550, Macro-label: attività -- coding, Value: 4
+ID: 550, Macro-label: attività -- programmazione, Value: 4
+ID: 550, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 2
+ID: 550, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 550, Macro-label: piattaforma/ ambiente -- google workspace, Value: 2
+ID: 550, Macro-label: metodologia -- forse, Value: 1
+ID: 550, Macro-label: obiettivi disciplinari -- generico, Value: 5
+ID: 550, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 550, Macro-label: focus d2 -- studente, Value: 5
+ID: 550, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 550, Macro-label: attività -- movimento e percorsi, Value: 1
+ID: 550, Macro-label: metodologia -- sì, Value: 1
+ID: 550, Macro-label: interdisciplinarità -- geografia, Value: 2
+ID: 550, Macro-label: interdisciplinarità -- matematica, Value: 1
+ID: 550, Macro-label: risposta generica d2 -- generico-d2, Value: 2
+ID: 550, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 2
+ID: 550, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 550, Macro-label: attività -- strumentali per altre discipline, Value: 1
+ID: 553, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 5
+ID: 553, Macro-label: materiali/strumenti fisici -- corpo, Value: 1
+ID: 553, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 4
+ID: 553, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 3
+ID: 553, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 4
+ID: 553, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 553, Macro-label: attività -- movimento e percorsi, Value: 3
+ID: 553, Macro-label: attività -- programmazione, Value: 4
+ID: 553, Macro-label: attività -- unplugged, Value: 6
+ID: 553, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 553, Macro-label: piattaforma/ ambiente -- robot, Value: 5
+ID: 553, Macro-label: metodologia -- sì, Value: 3
+ID: 553, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 553, Macro-label: interdisciplinarità -- italiano, Value: 5
+ID: 553, Macro-label: interdisciplinarità -- matematica, Value: 6
+ID: 553, Macro-label: interdisciplinarità -- spazialità, Value: 5
+ID: 553, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 5
+ID: 553, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 5
+ID: 553, Macro-label: focus d2 -- studente, Value: 2
+ID: 553, Macro-label: obiettivi pertinenti -- logica, Value: 5
+ID: 553, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 1
+ID: 553, Macro-label: focus d2 -- insegnante, Value: 2
+ID: 553, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 3
+ID: 553, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 2
+ID: 553, Macro-label: attività -- coding, Value: 1
+ID: 553, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 553, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 556, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 2
+ID: 556, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 556, Macro-label: attività -- programmazione, Value: 6
+ID: 556, Macro-label: attività -- unplugged, Value: 6
+ID: 556, Macro-label: obiettivi disciplinari -- metodi, Value: 6
+ID: 556, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 556, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 556, Macro-label: focus d2 -- studente, Value: 5
+ID: 556, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 3
+ID: 556, Macro-label: attività -- coding, Value: 3
+ID: 556, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 556, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 2
+ID: 556, Macro-label: metodologia -- forse, Value: 1
+ID: 556, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 1
+ID: 556, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 1
+ID: 556, Macro-label: attività -- altro, Value: 1
+ID: 556, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 1
+ID: 569, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 5
+ID: 569, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 569, Macro-label: focus d2 -- studente, Value: 6
+ID: 569, Macro-label: risposta generica d3 -- vuoto-d3, Value: 5
+ID: 569, Macro-label: risposta generica d2 -- vuoto-d2, Value: 1
+ID: 570, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 570, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 570, Macro-label: focus d2 -- insegnante, Value: 2
+ID: 570, Macro-label: focus d2 -- studente, Value: 5
+ID: 570, Macro-label: risposta generica d3 -- copia risposta 2, Value: 3
+ID: 570, Macro-label: risposta generica d3 -- generico-d3, Value: 3
+ID: 570, Macro-label: obiettivi pertinenti -- creatività digitale, Value: 2
+ID: 570, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 2
+ID: 570, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 1
+ID: 570, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 1
+ID: 570, Macro-label: interdisciplinarità -- lingua straniera, Value: 1
+ID: 570, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 1
+ID: 570, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 1
+ID: 570, Macro-label: metodologia -- forse, Value: 1
+ID: 570, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 1
+ID: 570, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 1
+ID: 572, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 572, Macro-label: obiettivi disciplinari -- generico, Value: 5
+ID: 572, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 572, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 572, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 572, Macro-label: attività -- programmazione, Value: 3
+ID: 572, Macro-label: focus d2 -- studente, Value: 2
+ID: 572, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 2
+ID: 572, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 3
+ID: 572, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 1
+ID: 572, Macro-label: risposta generica d2 -- vuoto-d2, Value: 1
+ID: 572, Macro-label: risposta generica d3 -- generico-d3, Value: 1
+ID: 572, Macro-label: attività -- coding, Value: 1
+ID: 572, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 580, Macro-label: materiali/strumenti fisici -- robot, Value: 6
+ID: 580, Macro-label: piattaforma/ ambiente -- robot, Value: 6
+ID: 580, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 580, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 5
+ID: 580, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 580, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 580, Macro-label: risposta generica d2 -- generico-d2, Value: 2
+ID: 580, Macro-label: risposta generica d3 -- generico-d3, Value: 3
+ID: 580, Macro-label: focus d2 -- contenuto, Value: 2
+ID: 580, Macro-label: risposta generica d2 -- vuoto-d2, Value: 1
+ID: 580, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 1
+ID: 580, Macro-label: piattaforma/ ambiente -- carte/blocchi programmazione, Value: 1
+ID: 581, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 581, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 581, Macro-label: attività -- programmazione, Value: 4
+ID: 581, Macro-label: obiettivi disciplinari -- pratiche, Value: 5
+ID: 581, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 6
+ID: 581, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 581, Macro-label: interdisciplinarità -- italiano, Value: 5
+ID: 581, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 581, Macro-label: attività -- movimento e percorsi, Value: 2
+ID: 581, Macro-label: attività -- processi di informatica, Value: 2
+ID: 581, Macro-label: attività -- unplugged, Value: 4
+ID: 581, Macro-label: focus d2 -- studente, Value: 5
+ID: 581, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 1
+ID: 581, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 1
+ID: 581, Macro-label: attività -- coding, Value: 1
+ID: 581, Macro-label: risposta generica d2 -- vuoto-d2, Value: 1
+ID: 581, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 1
+ID: 581, Macro-label: metodologia -- forse, Value: 1
+ID: 582, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 582, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 6
+ID: 582, Macro-label: metodologia -- forse, Value: 2
+ID: 582, Macro-label: obiettivi disciplinari -- consapevolezza digitale, Value: 6
+ID: 582, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 5
+ID: 582, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 6
+ID: 582, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 6
+ID: 582, Macro-label: risposta generica d2 -- generico-d2, Value: 2
+ID: 582, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 2
+ID: 582, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 1
+ID: 582, Macro-label: focus d2 -- studente, Value: 3
+ID: 582, Macro-label: risposta generica d3 -- generico-d3, Value: 1
+ID: 582, Macro-label: attività -- videogiochi, Value: 1
+ID: 582, Macro-label: metodologia -- sì, Value: 1
+ID: 582, Macro-label: interdisciplinarità -- tecnologia, Value: 1
+ID: 584, Macro-label: materiali/strumenti fisici -- lim, Value: 6
+ID: 584, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 3
+ID: 584, Macro-label: attività -- pixel art, Value: 6
+ID: 584, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 584, Macro-label: obiettivi disciplinari -- generico, Value: 5
+ID: 584, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 584, Macro-label: soft skills/ trasversali/ metacognizione -- creatività, Value: 6
+ID: 584, Macro-label: focus d2 -- studente, Value: 3
+ID: 584, Macro-label: risposta generica d3 -- generico-d3, Value: 4
+ID: 584, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 3
+ID: 584, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 584, Macro-label: risposta generica d3 -- vuoto-d3, Value: 1
+ID: 584, Macro-label: attività -- altro, Value: 1
+ID: 584, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 1
+ID: 584, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 584, Macro-label: attività -- programmazione, Value: 1
+ID: 589, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 4
+ID: 589, Macro-label: materiali/strumenti fisici -- robot, Value: 4
+ID: 589, Macro-label: attività -- coding, Value: 5
+ID: 589, Macro-label: attività -- strumentali per altre discipline, Value: 6
+ID: 589, Macro-label: attività -- verifica e correzione, Value: 5
+ID: 589, Macro-label: metodologia -- sì, Value: 5
+ID: 589, Macro-label: obiettivi disciplinari -- metodi, Value: 6
+ID: 589, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 589, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 589, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 2
+ID: 589, Macro-label: focus d2 -- studente, Value: 5
+ID: 589, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 4
+ID: 589, Macro-label: attività -- movimento e percorsi, Value: 4
+ID: 589, Macro-label: attività -- programmazione, Value: 4
+ID: 589, Macro-label: obiettivi disciplinari -- generico, Value: 4
+ID: 589, Macro-label: obiettivi pertinenti -- problem solving, Value: 2
+ID: 589, Macro-label: interdisciplinarità -- italiano, Value: 1
+ID: 589, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 1
+ID: 589, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 1
+ID: 589, Macro-label: risposta generica d3 -- generico-d3, Value: 1
+ID: 589, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 1
+ID: 589, Macro-label: metodologia -- forse, Value: 1
+ID: 603, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 5
+ID: 603, Macro-label: obiettivi disciplinari -- generico, Value: 5
+ID: 603, Macro-label: obiettivi pertinenti -- problem solving, Value: 5
+ID: 603, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 603, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 603, Macro-label: attività -- contenuti algoritmici, Value: 5
+ID: 603, Macro-label: attività -- programmazione, Value: 5
+ID: 603, Macro-label: attività -- unplugged, Value: 1
+ID: 603, Macro-label: focus d2 -- contenuto, Value: 2
+ID: 603, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 2
+ID: 603, Macro-label: attività -- coding, Value: 1
+ID: 605, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 1
+ID: 605, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 3
+ID: 605, Macro-label: attività -- programmazione, Value: 4
+ID: 605, Macro-label: attività -- unplugged, Value: 5
+ID: 605, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 605, Macro-label: obiettivi disciplinari -- generico, Value: 1
+ID: 605, Macro-label: obiettivi pertinenti -- logica, Value: 6
+ID: 605, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 605, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 605, Macro-label: focus d2 -- studente, Value: 2
+ID: 605, Macro-label: attività -- coding, Value: 3
+ID: 605, Macro-label: obiettivi pertinenti -- problem solving, Value: 5
+ID: 605, Macro-label: focus d2 -- contenuto, Value: 2
+ID: 605, Macro-label: risposta generica d2 -- vuoto-d2, Value: 1
+ID: 605, Macro-label: risposta generica d3 -- vuoto-d3, Value: 1
+ID: 607, Macro-label: materiali/strumenti fisici -- lim, Value: 5
+ID: 607, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 6
+ID: 607, Macro-label: attività -- storytelling, Value: 5
+ID: 607, Macro-label: attività -- strumentali per altre discipline, Value: 4
+ID: 607, Macro-label: piattaforma/ ambiente -- scratch, Value: 6
+ID: 607, Macro-label: metodologia -- sì, Value: 5
+ID: 607, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 6
+ID: 607, Macro-label: obiettivi pertinenti -- creatività digitale, Value: 6
+ID: 607, Macro-label: abilità strumentali digitali -- uso di strumenti digitali, Value: 6
+ID: 607, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 6
+ID: 607, Macro-label: focus d2 -- studente, Value: 6
+ID: 607, Macro-label: attività -- programmazione, Value: 2
+ID: 607, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 4
+ID: 607, Macro-label: attività -- verifica e correzione, Value: 1
+ID: 607, Macro-label: metodologia -- forse, Value: 1
+ID: 607, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 3
+ID: 607, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 1
+ID: 607, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 1
+ID: 607, Macro-label: attività -- coding, Value: 1
+ID: 607, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 1
+ID: 607, Macro-label: piattaforma/ ambiente -- software di creazione/ricerca contenuti, Value: 1
+ID: 612, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 5
+ID: 612, Macro-label: attività -- costrutti di base, Value: 5
+ID: 612, Macro-label: attività -- strumentali per altre discipline, Value: 1
+ID: 612, Macro-label: metodologia -- forse, Value: 2
+ID: 612, Macro-label: obiettivi disciplinari -- metodi, Value: 1
+ID: 612, Macro-label: obiettivi disciplinari -- risoluzione computazionale dei problemi, Value: 2
+ID: 612, Macro-label: obiettivi disciplinari -- verifica/ correzione, Value: 6
+ID: 612, Macro-label: obiettivi pertinenti -- logica, Value: 4
+ID: 612, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 612, Macro-label: soft skills/ trasversali/ metacognizione -- collaborazione, Value: 6
+ID: 612, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 2
+ID: 612, Macro-label: soft skills/ trasversali/ metacognizione -- ragionamento, Value: 5
+ID: 612, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 6
+ID: 612, Macro-label: focus d2 -- studente, Value: 5
+ID: 612, Macro-label: attività -- contenuti algoritmici, Value: 5
+ID: 612, Macro-label: attività -- movimento e percorsi, Value: 1
+ID: 612, Macro-label: attività -- programmazione, Value: 3
+ID: 612, Macro-label: metodologia -- sì, Value: 3
+ID: 612, Macro-label: focus d2 -- insegnante, Value: 1
+ID: 612, Macro-label: attività -- unplugged, Value: 2
+ID: 612, Macro-label: attività -- videogiochi, Value: 2
+ID: 612, Macro-label: obiettivi disciplinari -- programmazione (generica), Value: 1
+ID: 612, Macro-label: soft skills/ trasversali/ metacognizione -- processi cognitivi, Value: 2
+ID: 612, Macro-label: interdisciplinarità -- italiano, Value: 1
+ID: 612, Macro-label: materiali/strumenti fisici -- corpo, Value: 1
+ID: 613, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 4
+ID: 613, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 4
+ID: 613, Macro-label: attività -- unplugged, Value: 6
+ID: 613, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 613, Macro-label: obiettivi pertinenti -- problem solving, Value: 6
+ID: 613, Macro-label: risposta generica d2 -- generico-d2, Value: 1
+ID: 613, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 613, Macro-label: attività -- programmazione, Value: 2
+ID: 613, Macro-label: attività -- strumentali per altre discipline, Value: 1
+ID: 613, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 1
+ID: 613, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 1
+ID: 613, Macro-label: metodologia -- forse, Value: 1
+ID: 613, Macro-label: focus d2 -- studente, Value: 1
+ID: 613, Macro-label: attività -- coding, Value: 1
+ID: 613, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 613, Macro-label: attività -- movimento e percorsi, Value: 1
+ID: 617, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 3
+ID: 617, Macro-label: attività -- unplugged, Value: 6
+ID: 617, Macro-label: piattaforma/ ambiente -- scratch, Value: 4
+ID: 617, Macro-label: obiettivi disciplinari -- generico, Value: 5
+ID: 617, Macro-label: obiettivi pertinenti -- progettazione, Value: 6
+ID: 617, Macro-label: risposta generica d2 -- generico-d2, Value: 3
+ID: 617, Macro-label: risposta generica d3 -- vuoto-d3, Value: 6
+ID: 617, Macro-label: attività -- programmazione, Value: 2
+ID: 617, Macro-label: obiettivi pertinenti -- problem solving, Value: 1
+ID: 617, Macro-label: piattaforma/ ambiente -- google workspace, Value: 3
+ID: 617, Macro-label: attività -- coding, Value: 1
+ID: 617, Macro-label: attività -- uso tecnologia e sviluppo contenuti, Value: 2
+ID: 617, Macro-label: focus d2 -- contenuto, Value: 1
+ID: 626, Macro-label: materiali/strumenti fisici -- cancelleria/uso comune, Value: 6
+ID: 626, Macro-label: materiali/strumenti fisici -- carte/blocchi, Value: 6
+ID: 626, Macro-label: materiali/strumenti fisici -- corpo, Value: 3
+ID: 626, Macro-label: materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività, Value: 6
+ID: 626, Macro-label: attività -- processi di informatica, Value: 4
+ID: 626, Macro-label: attività -- unplugged, Value: 4
+ID: 626, Macro-label: metodologia -- sì, Value: 5
+ID: 626, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 626, Macro-label: obiettivi disciplinari -- pratiche, Value: 6
+ID: 626, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 626, Macro-label: soft skills/ trasversali/ metacognizione -- relazionale-sociale, Value: 4
+ID: 626, Macro-label: focus d2 -- studente, Value: 5
+ID: 626, Macro-label: attività -- coding, Value: 4
+ID: 626, Macro-label: attività -- movimento e percorsi, Value: 5
+ID: 626, Macro-label: attività -- programmazione, Value: 4
+ID: 626, Macro-label: attività -- verifica e correzione, Value: 2
+ID: 626, Macro-label: soft skills/ trasversali/ metacognizione -- comunicazione, Value: 2
+ID: 626, Macro-label: attività -- strumentali per altre discipline, Value: 1
+ID: 626, Macro-label: obiettivi disciplinari -- programmazione (specifici), Value: 1
+ID: 626, Macro-label: risposta generica d3 -- copia risposta 2, Value: 1
+ID: 626, Macro-label: materiali/strumenti fisici -- materiali che guidano/strutturano attività, Value: 1
+ID: 626, Macro-label: attività -- altro, Value: 1
+ID: 626, Macro-label: obiettivi pertinenti -- logica, Value: 1
+ID: 629, Macro-label: materiali/strumenti fisici -- pc/tablet, Value: 5
+ID: 629, Macro-label: attività -- unplugged, Value: 6
+ID: 629, Macro-label: piattaforma/ ambiente -- code.org / programma il futuro, Value: 6
+ID: 629, Macro-label: obiettivi disciplinari -- generico, Value: 6
+ID: 629, Macro-label: obiettivi pertinenti -- logica, Value: 5
+ID: 629, Macro-label: interdisciplinarità -- spazialità, Value: 6
+ID: 629, Macro-label: risposta generica d2 -- generico-d2, Value: 2
+ID: 629, Macro-label: focus d2 -- studente, Value: 1
+ID: 629, Macro-label: focus d2 -- insegnante, Value: 2
+ID: 629, Macro-label: attività -- coding, Value: 2
+ID: 629, Macro-label: risposta generica d3 -- generico-d3, Value: 1
+ID: 629, Macro-label: attività -- programmazione, Value: 2
+ID: 629, Macro-label: soft skills/ trasversali/ metacognizione -- empowerment, Value: 1
+ID: 629, Macro-label: focus d2 -- contenuto, Value: 1

@@ -1,0 +1,67 @@
+autori_file = {
+    "ADZ": "questionario-insegnanti-campione-60-ADZ.xlsx",
+...}
+
+substitutes some column names in the first three sheets of each excel file for clarity
+	SOLO PER DOMANDA D1
+    "costruzione mappe": "attività costruzione di mappe",
+    "sviluppo contenuti2": "attività sviluppo contenuti",
+    "ludico-motoria2": "attività ludico-motoria",
+    "uso della tecnologia": "attività uso della tecnologia",
+    "uso della tecnologia2": "uso della tecnologia",
+	SOLO PER DOMANDA D2
+    "comprensione dei comandi di progrmmazione": "comprensione dei comandi di programmazione",
+	SOLO PER DOMANDA D3
+    "osservazione, memoria, analisi": "osservazione/ memoria/ analisi"
+autori_substituted_file = {
+    "ADZ": "ADZ_substituted.xlsx",
+...}
+
+filters out columns starting with "ETICHETTE" or "ETICHETE" from the first three sheets of each workbook
+autori_filtered_file = {
+    "ADZ": "ADZ_filtered.xlsx",
+...}
+
+create a new Excel file with column names which are the concatenation of Dn + original column name
+autori_labeled_file = {
+    "ADZ": "ADZ_labeled.xlsx",
+...}
+
+combines the first three sheets of each workbook into a new workbook,
+taking the first 130 columns from the first sheet, 94 from the second, and 102 from the third.
+autori_combined_file = {
+...}
+
+removes columns:
+	- BS D1_rianalizzare
+	- [DF-DX] categoria dettagli piattaforma ambiente
+	-	HP D2 ambiguità
+autori_combined_cleaned_file = {
+    "ADZ": "ADZ_combined_cleaned.xlsx",
+...}
+
+creation of the dictionary with categories/macro-labels/labels and its inverse from the file "macro-etichette-per-riclassificazione-REV.txt"
+
+VERIFICA DELLA COMPLETEZZA: OGNI ETICHETTA DEL DIZIONARIO INVERSO DEVE ESSERE UN'ETICHETTA DEI FILE EXCEL E VICEVERSA OGNI ETICHETTA DEI FILE EXCEL DEVE ESSERE NEL DIZIONARIO INVERSO.
+
+VERIFICA DELL'UNICITÀ: OGNI ETICHETTA DEL DIZIONARIO INVERSO DEVE ESSERE UNICA E OGNI ETICHETTA DEI FILE EXCEL DEVE ESSERE UNICA
+
+replace each label with the concatenation of its category and macro-label provided by the inverse dictionary and any not empty cell with X
+autori_macroed_file = {
+    "ADZ": "ADZ_macroed.xlsx",
+...}
+
+merge columns with the same concatenation of categories and macro-labels in a single column
+autori_macroed_merged_file = {
+    "ADZ": "ADZ_macroed-merged.xlsx",
+...}
+
+reorder columns according to the requirements
+autori_ordered_file = {
+    "ADZ": "ADZ_ordered.xlsx",
+...}
+
+format the resulting file
+autori_formatted_file = {
+    "ADZ": "ADZ_formatted.xlsx",
+...}

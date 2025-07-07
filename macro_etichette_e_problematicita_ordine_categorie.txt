@@ -1,0 +1,78 @@
+macro-etichetta __ problematicità PR_L __ numero di risposte R in cui è stata usata 
+   (ordinato per categoria e macro-etichetta)
+-----------------------------------------------------------------------------------
+materiali/strumenti fisici -- cancelleria/uso comune __ PR_L: 1.429 __ R: 21
+materiali/strumenti fisici -- carte/blocchi __ PR_L: 0.889 __ R: 9
+materiali/strumenti fisici -- corpo __ PR_L: 1.857 __ R: 7
+materiali/strumenti fisici -- lim __ PR_L: 0.111 __ R: 9
+materiali/strumenti fisici -- materiali che guidano/strutturano attività __ PR_L: 2.0 __ R: 18
+materiali/strumenti fisici -- materiali di ambiente/movimento in cui si opera per le attività __ PR_L: 0.556 __ R: 9
+materiali/strumenti fisici -- pc/tablet __ PR_L: 0.8 __ R: 40
+materiali/strumenti fisici -- robot __ PR_L: 0.143 __ R: 14
+attività -- altro __ PR_L: 3.333 __ R: 6
+attività -- coding __ PR_L: 2.273 __ R: 22
+attività -- contenuti algoritmici __ PR_L: 0.5 __ R: 4
+attività -- costrutti di base __ PR_L: 0.143 __ R: 7
+attività -- movimento e percorsi __ PR_L: 1.923 __ R: 13
+attività -- pixel art __ PR_L: 0.0 __ R: 4
+attività -- processi di informatica __ PR_L: 1.2 __ R: 5
+attività -- programmazione __ PR_L: 1.053 __ R: 38
+attività -- storytelling __ PR_L: 0.5 __ R: 2
+attività -- strumentali per altre discipline __ PR_L: 1.692 __ R: 13
+attività -- unplugged __ PR_L: 0.737 __ R: 19
+attività -- uso tecnologia e sviluppo contenuti __ PR_L: 1.667 __ R: 9
+attività -- verifica e correzione __ PR_L: 1.111 __ R: 9
+attività -- videogiochi __ PR_L: 1.8 __ R: 5
+piattaforma/ ambiente -- ambiente pixel art __ PR_L: 0.0 __ R: 1
+piattaforma/ ambiente -- carte/blocchi programmazione __ PR_L: 1.667 __ R: 3
+piattaforma/ ambiente -- code.org / programma il futuro __ PR_L: 0.182 __ R: 22
+piattaforma/ ambiente -- geometria dinamica __ PR_L: 0.0 __ R: 1
+piattaforma/ ambiente -- google workspace __ PR_L: 2.333 __ R: 3
+piattaforma/ ambiente -- robot __ PR_L: 0.083 __ R: 12
+piattaforma/ ambiente -- scratch __ PR_L: 0.25 __ R: 8
+piattaforma/ ambiente -- software di creazione/ricerca contenuti __ PR_L: 1.25 __ R: 4
+metodologia -- forse __ PR_L: 2.667 __ R: 18
+metodologia -- sì __ PR_L: 1.188 __ R: 16
+obiettivi disciplinari -- algoritmica __ PR_L: 0.0 __ R: 10
+obiettivi disciplinari -- consapevolezza digitale __ PR_L: 1.25 __ R: 8
+obiettivi disciplinari -- generico __ PR_L: 0.48 __ R: 25
+obiettivi disciplinari -- intelligenza artificiale __ PR_L: 2.0 __ R: 1
+obiettivi disciplinari -- metodi __ PR_L: 1.0 __ R: 5
+obiettivi disciplinari -- pratiche __ PR_L: 0.2 __ R: 5
+obiettivi disciplinari -- programmazione (generica) __ PR_L: 1.231 __ R: 13
+obiettivi disciplinari -- programmazione (specifici) __ PR_L: 0.385 __ R: 13
+obiettivi disciplinari -- rappresentazione dell'informazione __ PR_L: 0.0 __ R: 3
+obiettivi disciplinari -- risoluzione computazionale dei problemi __ PR_L: 1.9 __ R: 10
+obiettivi disciplinari -- verifica/ correzione __ PR_L: 0.833 __ R: 6
+obiettivi pertinenti -- creatività digitale __ PR_L: 1.0 __ R: 4
+obiettivi pertinenti -- logica __ PR_L: 0.692 __ R: 13
+obiettivi pertinenti -- problem solving __ PR_L: 0.478 __ R: 23
+obiettivi pertinenti -- progettazione __ PR_L: 0.0 __ R: 4
+obiettivi pertinenti -- progettazione e sviluppo oggetti __ PR_L: 0.0 __ R: 1
+abilità strumentali digitali -- uso di strumenti digitali __ PR_L: 0.55 __ R: 20
+interdisciplinarità -- educazione civica __ PR_L: 0.0 __ R: 1
+interdisciplinarità -- educazione fisica __ PR_L: 0.0 __ R: 1
+interdisciplinarità -- geografia __ PR_L: 1.333 __ R: 3
+interdisciplinarità -- interdisciplinarità __ PR_L: 1.667 __ R: 3
+interdisciplinarità -- italiano __ PR_L: 2.0 __ R: 6
+interdisciplinarità -- lingua straniera __ PR_L: 2.5 __ R: 2
+interdisciplinarità -- matematica __ PR_L: 0.455 __ R: 11
+interdisciplinarità -- scienze __ PR_L: 0.0 __ R: 3
+interdisciplinarità -- spazialità __ PR_L: 0.1 __ R: 10
+interdisciplinarità -- storia __ PR_L: 0.0 __ R: 1
+interdisciplinarità -- tecnologia __ PR_L: 1.667 __ R: 3
+soft skills/ trasversali/ metacognizione -- collaborazione __ PR_L: 0.5 __ R: 16
+soft skills/ trasversali/ metacognizione -- comunicazione __ PR_L: 1.917 __ R: 12
+soft skills/ trasversali/ metacognizione -- creatività __ PR_L: 0.714 __ R: 7
+soft skills/ trasversali/ metacognizione -- empowerment __ PR_L: 2.143 __ R: 14
+soft skills/ trasversali/ metacognizione -- processi cognitivi __ PR_L: 1.636 __ R: 11
+soft skills/ trasversali/ metacognizione -- ragionamento __ PR_L: 2.111 __ R: 9
+soft skills/ trasversali/ metacognizione -- relazionale-sociale __ PR_L: 0.5 __ R: 6
+risposta generica d2 -- generico-d2 __ PR_L: 2.042 __ R: 24
+risposta generica d2 -- vuoto-d2 __ PR_L: 4.167 __ R: 6
+focus d2 -- contenuto __ PR_L: 4.308 __ R: 13
+focus d2 -- insegnante __ PR_L: 1.545 __ R: 11
+focus d2 -- studente __ PR_L: 0.95 __ R: 40
+risposta generica d3 -- copia risposta 2 __ PR_L: 2.667 __ R: 3
+risposta generica d3 -- generico-d3 __ PR_L: 2.75 __ R: 12
+risposta generica d3 -- vuoto-d3 __ PR_L: 0.846 __ R: 13

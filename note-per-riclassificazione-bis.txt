@@ -1,7 +1,21 @@
 
-aggiustamenti di nomi di etichette, fatti sia negli excel "XY_combined" che in "macro-etichette-per-riclassificazione-REV"
+aggiustamenti di nomi di etichette, fatti sia negli excel "questionario-insegnanti-campione-60-XY" che in "macro-etichette-per-riclassificazione-REV"
 
 D1_costruzione mappe -> D1_attività costruzione di mappe
 D1_sviluppo contenuti2 -> D1_attività sviluppo contenuti
-D1_ludico-motoria2 -> D1_attività ludico-motoria (non c'è un etichetta "ludico-motoria")
-D2_ comprensione dei comandi di progrmmazione -> D2_ comprensione dei comandi di programmazione (correzione errore lessicale)
+D1_uso della tecnologia -> D1_attività uso della tecnologia
+D1_uso della tecnologia2 -> D1_uso della tecnologia
+D1_ludico-motoria2 -> D1_attività ludico-motoria (solo per omogeneità, non c'è un etichetta "ludico-motoria")
+D2_ comprensione dei comandi di progrmmazione -> D2_comprensione dei comandi di programmazione (correzione errore lessicale e rimozione spazio)
+D3_osservazione, memoria, analisi -> D3_osservazione/ memoria/ analisi
+
+in "macro-etichette-per-riclassificazione-REV" avevamo 3 duplicazioni di etichette che sono state rimosse
+	D1_Gworkspace (nella stessa macro-etichetta GOOGLE WORKSPACE)
+	D2_selezione (nella stessa macro-etichetta PROGRAMMAZIONE(specifici))
+	D3_pensiero logico (sia nella macro-etichetta PROBLEM SOLVING che in PROCESSI COGNITIVI, rimossa da quest'ultima)
+
+verificato che sia negli excel "questionario-insegnanti-campione-60-XY" che in "macro-etichette-per-riclassificazione-REV" non ci sono etichette duplicate
+
+verificato che ogni etichetta negli excel file compare anche in "macro-etichette-per-riclassificazione-REV" e viceversa
+
+

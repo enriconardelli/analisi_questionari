@@ -1,0 +1,66 @@
+ADZ - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3
+CM - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3
+EN - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3
+GA - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3
+LF - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3
+ML - missing labels (10):
+  D1_ID
+  D1_Domanda 1
+  D1_ore sett.
+  D1_pacchetto ore
+  D1_altro tempo
+  D1_classe
+  D2_ID
+  D2_Domanda 2
+  D3_ID
+  D3_Domanda 3

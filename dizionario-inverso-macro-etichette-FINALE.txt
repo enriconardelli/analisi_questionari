@@ -1,0 +1,295 @@
+D1_tappeto: MATERIALI DI AMBIENTE/MOVIMENTO IN CUI SI OPERA PER LE ATTIVITÀ, materiali/strumenti fisici
+D1_griglia/ scacchiera: MATERIALI DI AMBIENTE/MOVIMENTO IN CUI SI OPERA PER LE ATTIVITÀ, materiali/strumenti fisici
+D1_retta dei numeri: MATERIALI DI AMBIENTE/MOVIMENTO IN CUI SI OPERA PER LE ATTIVITÀ, materiali/strumenti fisici
+D1_schede: MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ, materiali/strumenti fisici
+D1_dalla piattaforma: MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ, materiali/strumenti fisici
+D1_dalla piattaforma (attività): MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ, materiali/strumenti fisici
+D1_slide: MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ, materiali/strumenti fisici
+D1_libri: MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ, materiali/strumenti fisici
+D1_quaderno: CANCELLERIA/USO COMUNE, materiali/strumenti fisici
+D1_carta / cartoncino: CANCELLERIA/USO COMUNE, materiali/strumenti fisici
+D1_penn/arelli cancellini: CANCELLERIA/USO COMUNE, materiali/strumenti fisici
+D1_segnalini: CANCELLERIA/USO COMUNE, materiali/strumenti fisici
+D1_altri materiali: CANCELLERIA/USO COMUNE, materiali/strumenti fisici
+D1_corpo: CORPO, materiali/strumenti fisici
+D1_occhi: CORPO, materiali/strumenti fisici
+D1_mani: CORPO, materiali/strumenti fisici
+D1_robot: ROBOT, materiali/strumenti fisici
+D1_PC / tablet: PC/TABLET, materiali/strumenti fisici
+D1_carte / blocchi di programmazione: CARTE/BLOCCHI, materiali/strumenti fisici
+D1_LIM: LIM, materiali/strumenti fisici
+D1_coding unplugged: UNPLUGGED, attività
+D1_attività unplugged: UNPLUGGED, attività
+D1_coding analogico: UNPLUGGED, attività
+D1_coding: CODING, attività
+D1_aritmetica: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_attività costruzione di mappe: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_geografia: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_geometria: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_presentazione di una regione: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_misure: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_origami: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_scienza: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_riferimenti topologici: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_techno-CLIL: STRUMENTALI PER ALTRE DISCIPLINE, attività
+D1_programmazione: PROGRAMMAZIONE, attività
+D1_cicli: COSTRUTTI DI BASE, attività
+D1_istruzioni condizionali: COSTRUTTI DI BASE, attività
+D1_istruzioni di base: COSTRUTTI DI BASE, attività
+D1_sequenza: COSTRUTTI DI BASE, attività
+D1_variabili: COSTRUTTI DI BASE, attività
+D1_algoritmi: CONTENUTI ALGORITMICI, attività
+D1_diagramma di flusso: CONTENUTI ALGORITMICI, attività
+D1_pseudo-linguaggio: CONTENUTI ALGORITMICI, attività
+D1_strutture dati: CONTENUTI ALGORITMICI, attività
+D1_verifica e correzione: VERIFICA E CORREZIONE, attività
+D1_esecuzione di istruzioni: PROCESSI DI INFORMATICA, attività
+D1_lettura codice: PROCESSI DI INFORMATICA, attività
+D1_sviluppo iterativo: PROCESSI DI INFORMATICA, attività
+D1_decomposizione: PROCESSI DI INFORMATICA, attività
+D1_attività sviluppo contenuti: USO TECNOLOGIA E SVILUPPO CONTENUTI, attività
+D1_attività uso della tecnologia: USO TECNOLOGIA E SVILUPPO CONTENUTI, attività
+D1_ricerca di informazioni: USO TECNOLOGIA E SVILUPPO CONTENUTI, attività
+D1_giochi disciplinari interattivi / attività ludiche: VIDEOGIOCHI, attività
+D1_attività ludico-motoria: MOVIMENTO E PERCORSI, attività
+D1_percorsi: MOVIMENTO E PERCORSI, attività
+D1_labirinto: MOVIMENTO E PERCORSI, attività
+D1_pixel art: PIXEL ART, attività
+D1_storytelling: STORYTELLING, attività
+D1_altre attività: ALTRO, attività
+D1_sperimentazione: ALTRO, attività
+D1_Code.org: CODE.ORG / PROGRAMMA IL FUTURO, piattaforma/ ambiente
+D1_programma il futuro: CODE.ORG / PROGRAMMA IL FUTURO, piattaforma/ ambiente
+D1_BeeBot: ROBOT, piattaforma/ ambiente
+D1_BlueBot: ROBOT, piattaforma/ ambiente
+D1_mTiny: ROBOT, piattaforma/ ambiente
+D1_Ozobot Bit: ROBOT, piattaforma/ ambiente
+D1_Cubetto: ROBOT, piattaforma/ ambiente
+D1_Cyber Talk Robot: ROBOT, piattaforma/ ambiente
+D1_Lego: ROBOT, piattaforma/ ambiente
+D1_Lego (dedotta da link inserita in altre risposte): ROBOT, piattaforma/ ambiente
+D1_Mind Designer: ROBOT, piattaforma/ ambiente
+D1_robot DOC: ROBOT, piattaforma/ ambiente
+D1_Super Doc: ROBOT, piattaforma/ ambiente
+D1_Cody Roby: CARTE/BLOCCHI PROGRAMMAZIONE, piattaforma/ ambiente
+D1_Common Sense Selection: SOFTWARE DI CREAZIONE/RICERCA CONTENUTI, piattaforma/ ambiente
+D1_Kahoot: SOFTWARE DI CREAZIONE/RICERCA CONTENUTI, piattaforma/ ambiente
+D1_web: SOFTWARE DI CREAZIONE/RICERCA CONTENUTI, piattaforma/ ambiente
+D1_Word: SOFTWARE DI CREAZIONE/RICERCA CONTENUTI, piattaforma/ ambiente
+D1_Gworkspace: GOOGLE WORKSPACE, piattaforma/ ambiente
+D1_Geogebra: GEOMETRIA DINAMICA, piattaforma/ ambiente
+D1_Scratch: SCRATCH, piattaforma/ ambiente
+D1_Zaply: AMBIENTE PIXEL ART, piattaforma/ ambiente
+D1_forse (vago): FORSE, metodologia
+D1_Sì: SÌ, metodologia
+D2_programmazione: PROGRAMMAZIONE (generica), obiettivi disciplinari
+D3_programmazione: PROGRAMMAZIONE (generica), obiettivi disciplinari
+D2_linguaggio formale: PROGRAMMAZIONE (generica), obiettivi disciplinari
+D3_programmazione di robot: PROGRAMMAZIONE (generica), obiettivi disciplinari
+D2_sequenza: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D3_sequenza: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D2_selezione: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D3_selezione: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D2_cicli: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D2_conoscere le istruzioni del linguaggio: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D2_concetti base della programmazione: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D3_concetti base della programmazione: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D3_utilizzare espressioni condizionali: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D3_manipolazione: PROGRAMMAZIONE (specifici), obiettivi disciplinari
+D2_informatica: GENERICO, obiettivi disciplinari
+D1_pensiero computazionale: GENERICO, obiettivi disciplinari
+D2_pensiero computazionale: GENERICO, obiettivi disciplinari
+D2_coding: GENERICO, obiettivi disciplinari
+D3_coding: GENERICO, obiettivi disciplinari
+D2_abilità informatiche: GENERICO, obiettivi disciplinari
+D3_abilità informatiche: GENERICO, obiettivi disciplinari
+D3_obiettivi piattaforma: GENERICO, obiettivi disciplinari
+D3_robotica educativa: GENERICO, obiettivi disciplinari
+D2_coniugare informatica e pratica: GENERICO, obiettivi disciplinari
+D2_scomposizione problemi: METODI, obiettivi disciplinari
+D3_decomposizione: METODI, obiettivi disciplinari
+D3_modellazione dell'informazione: RAPPRESENTAZIONE DELL'INFORMAZIONE, obiettivi disciplinari
+D3_pixel art: RAPPRESENTAZIONE DELL'INFORMAZIONE, obiettivi disciplinari
+D3_analisi dati e organizzazione: RAPPRESENTAZIONE DELL'INFORMAZIONE, obiettivi disciplinari
+D3_rappresentazione dei dati/ informazione: RAPPRESENTAZIONE DELL'INFORMAZIONE, obiettivi disciplinari
+D2_verifica/ correzione di programmi: VERIFICA/ CORREZIONE, obiettivi disciplinari
+D3_verifica/ correzione errori: VERIFICA/ CORREZIONE, obiettivi disciplinari
+D2_esecuzione di istruzioni: PRATICHE, obiettivi disciplinari
+D2_mettersi dal punto di vista dell'altro per input: PRATICHE, obiettivi disciplinari
+D2_leggere comandi e trasformarli in output: PRATICHE, obiettivi disciplinari
+D2_svolgere (?) algoritmi: PRATICHE, obiettivi disciplinari
+D2_algoritmi quotidiani: ALGORITMICA, obiettivi disciplinari
+D2_descrizioni algoritmiche: ALGORITMICA, obiettivi disciplinari
+D2_soluzioni algoritmiche: ALGORITMICA, obiettivi disciplinari
+D3_soluzioni algoritmiche: ALGORITMICA, obiettivi disciplinari
+D2_scrittura e uso di diagrammi di flusso: ALGORITMICA, obiettivi disciplinari
+D3_potenzialità del linguaggio informatico di descrivere altre attività: ALGORITMICA, obiettivi disciplinari
+D3_rappresentare processi mediante modelli logici: ALGORITMICA, obiettivi disciplinari
+D3_descrizione algoritmica di processi concreti: ALGORITMICA, obiettivi disciplinari
+D1_intelligenza artificiale: INTELLIGENZA ARTIFICIALE, obiettivi disciplinari
+D2_intelligenza artificiale: INTELLIGENZA ARTIFICIALE, obiettivi disciplinari
+D2_uso IA: INTELLIGENZA ARTIFICIALE, obiettivi disciplinari
+D2_automatizzazione risoluzione di problemi: RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI, obiettivi disciplinari
+D2_generalizzazione processo di soluzione: RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI, obiettivi disciplinari
+D2_programmazione per la risoluzione di problemi: RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI, obiettivi disciplinari
+D2_problem posing computazionale: RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI, obiettivi disciplinari
+D3_risoluzione computazionale di problemi: RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI, obiettivi disciplinari
+D2_consapevolezza digitale: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D2_scelta degli strumenti: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D3_scelta degli strumenti: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D2_responsabilizzare: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D2_uso consapevole/critico della tecnologia/rete: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D3_selezione strumenti: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D3_uso sicuro della tecnologia: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D3_uso consapevole della tecnologia: CONSAPEVOLEZZA DIGITALE, obiettivi disciplinari
+D1_risoluzione di problemi: PROBLEM SOLVING, obiettivi pertinenti
+D2_problem solving: PROBLEM SOLVING, obiettivi pertinenti
+D3_risoluzione di problemi: PROBLEM SOLVING, obiettivi pertinenti
+D3_comprensione/analisi del problema: PROBLEM SOLVING, obiettivi pertinenti
+D3_considerare diverse strategie risolutive: PROBLEM SOLVING, obiettivi pertinenti
+D3_valutazione della soluzione: PROBLEM SOLVING, obiettivi pertinenti
+D3_differenti strategie di risoluzione: PROBLEM SOLVING, obiettivi pertinenti
+D3_approccio per tentativi ed errori: PROBLEM SOLVING, obiettivi pertinenti
+D3_formulazione di ipotesi: PROBLEM SOLVING, obiettivi pertinenti
+D3_formulazione di domande: PROBLEM SOLVING, obiettivi pertinenti
+D2_logica/ pensiero logico/ competenze logiche: LOGICA, obiettivi pertinenti
+D2_pensiero logico: LOGICA, obiettivi pertinenti
+D3_pensiero logico: LOGICA, obiettivi pertinenti
+D2_progettazione: PROGETTAZIONE, obiettivi pertinenti
+D2_progettazione robotica: PROGETTAZIONE, obiettivi pertinenti
+D2_progettare un percorso: PROGETTAZIONE, obiettivi pertinenti
+D2_smontare oggetti: PROGETTAZIONE E SVILUPPO OGGETTI, obiettivi pertinenti
+D2_pianificare fabbricazione oggetti: PROGETTAZIONE E SVILUPPO OGGETTI, obiettivi pertinenti
+D2_migliorare oggetti: PROGETTAZIONE E SVILUPPO OGGETTI, obiettivi pertinenti
+D2_analizzare oggetti: PROGETTAZIONE E SVILUPPO OGGETTI, obiettivi pertinenti
+D2_riconoscere difetti: PROGETTAZIONE E SVILUPPO OGGETTI, obiettivi pertinenti
+D2_animazione digitale: CREATIVITÀ DIGITALE, obiettivi pertinenti
+D2_narrazione digitale: CREATIVITÀ DIGITALE, obiettivi pertinenti
+D3_narrazione digitale con programmazione: CREATIVITÀ DIGITALE, obiettivi pertinenti
+D3_storie interattive e animazioni: CREATIVITÀ DIGITALE, obiettivi pertinenti
+D2_generico: GENERICO-D2, risposta generica D2
+D2_vuoto: VUOTO-D2, risposta generica D2
+D2_contenuto: CONTENUTO, focus D2
+D2_insegnante: INSEGNANTE, focus D2
+D2_studente: STUDENTE, focus D2
+D2_alfabetizzazione digitale: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D3_alfabetizzazione digitale: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_uso dei mezzi di comunicazione: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_uso della tecnologia: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_uso della tecnologia: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_piattaforma di debate: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_uso di giochi didattici: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_uso di Internet: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_videoscrittura: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_videoscrittura: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_videotutorial: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D3_competenze digitali: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D3_uso di siti web: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_uso di app didattiche: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_sviluppo contenuti: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_utilizzo di robot: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D2_ricerca di informazioni su Internet: USO DI STRUMENTI DIGITALI, abilità strumentali digitali
+D1_pensiero critico: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_pensiero critico: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_pensiero divergente: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_astrazione: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_analizzare processi: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_riflettere sull'esperienza: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D2_comprensione dei comandi di programmazione: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_comprensione di istruzioni: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_valutazione attendibilità informazioni: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_capacità di previsione: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_osservazione/ memoria/ analisi: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D1_pianificazione: PROCESSI COGNITIVI, soft skills/ trasversali/ metacognizione
+D3_esprimersi correttamente: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D3_presentare in modo esplicativo: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D3_comunicare con linguaggi specifici per la situazione: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D3_documentare attività svolte: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_comunicare con tecnologia: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_competenze narrative: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D1_capacità di narrazione: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_comunicazione con linguaggio specifico: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_descrizione di strategie: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_utilizzare codici e linguaggi diversi: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D1_presentazione: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D3_uso espressivo della tecnologia: COMUNICAZIONE, soft skills/ trasversali/ metacognizione
+D2_cooperative learning: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D3_collaborazione: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D2_peer to peer: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D3_cooperative learning: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D2_collaborazione/ lavoro squadra: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D1_conversazione collaborativa / collaborazione: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D1_lavoro in coppia: COLLABORAZIONE, soft skills/ trasversali/ metacognizione
+D2_creazione di lezioni: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_coping power: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_responsabilità: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_auto-imprenditorialità: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_autonomia: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_imparare per errori: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_apprendimento attraverso il gioco: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_autocorrezione: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_rielaborazione dei saperi: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_imparare a imparare: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_imparare a imparare: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D2_spirito di iniziativa: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_spirito di iniziativa: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_precisione / rigore: EMPOWERMENT, soft skills/ trasversali/ metacognizione
+D3_capacità di ascolto: RELAZIONALE-SOCIALE, soft skills/ trasversali/ metacognizione
+D3_empatia: RELAZIONALE-SOCIALE, soft skills/ trasversali/ metacognizione
+D3_punto di vista dell'altro: RELAZIONALE-SOCIALE, soft skills/ trasversali/ metacognizione
+D3_capacità relazionali: RELAZIONALE-SOCIALE, soft skills/ trasversali/ metacognizione
+D2_inclusione: RELAZIONALE-SOCIALE, soft skills/ trasversali/ metacognizione
+D2_argomentare: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_ragionamento: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_scaffolding: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_imparare a ragionare: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_uso trasversale del PeCo: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_intelligenze multiple: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D2_pensiero astratto: RAGIONAMENTO, soft skills/ trasversali/ metacognizione
+D1_pensiero creativo: CREATIVITÀ, soft skills/ trasversali/ metacognizione
+D3_pensiero creativo: CREATIVITÀ, soft skills/ trasversali/ metacognizione
+D2_creatività: CREATIVITÀ, soft skills/ trasversali/ metacognizione
+D2_gioco: CREATIVITÀ, soft skills/ trasversali/ metacognizione
+D2_modalità giocosa: CREATIVITÀ, soft skills/ trasversali/ metacognizione
+D3_italiano: ITALIANO, interdisciplinarità
+D3_comprensione del testo: ITALIANO, interdisciplinarità
+D3_costruzione di un testo: ITALIANO, interdisciplinarità
+D3_alfabetico-funzionale: ITALIANO, interdisciplinarità
+D3_scrittura: ITALIANO, interdisciplinarità
+D3_ascolto e parlato: ITALIANO, interdisciplinarità
+D3_competenze linguistiche: ITALIANO, interdisciplinarità
+D3_storia: STORIA, interdisciplinarità
+D3_geografia: GEOGRAFIA, interdisciplinarità
+D1_costruzione di mappe: GEOGRAFIA, interdisciplinarità
+D1_mappe: GEOGRAFIA, interdisciplinarità
+D3_educazione civica: EDUCAZIONE CIVICA, interdisciplinarità
+D3_lingua straniera: LINGUA STRANIERA, interdisciplinarità
+D3_spazio e figure: MATEMATICA, interdisciplinarità
+D3_geometria: MATEMATICA, interdisciplinarità
+D3_matematica: MATEMATICA, interdisciplinarità
+D3_operazioni retta dei numeri: MATEMATICA, interdisciplinarità
+D3_rappresentazione dei dati: MATEMATICA, interdisciplinarità
+D3_contorno di figura piana: MATEMATICA, interdisciplinarità
+D3_sequenzialità: MATEMATICA, interdisciplinarità
+D3_lato: MATEMATICA, interdisciplinarità
+D3_modelli geometrici: MATEMATICA, interdisciplinarità
+D1_conteggio: MATEMATICA, interdisciplinarità
+D2_calcolare: MATEMATICA, interdisciplinarità
+D2_coding per matematica: MATEMATICA, interdisciplinarità
+D2_concetti matematici: MATEMATICA, interdisciplinarità
+D3_riferimenti spaziali/ indicatori topologici: SPAZIALITÀ, interdisciplinarità
+D1_orientamento spaziale: SPAZIALITÀ, interdisciplinarità
+D2_orientamento spaziale: SPAZIALITÀ, interdisciplinarità
+D3_orientamento spaziale: SPAZIALITÀ, interdisciplinarità
+D1_indicazioni topologiche: SPAZIALITÀ, interdisciplinarità
+D3_ecologia: SCIENZE, interdisciplinarità
+D3_ambiente: SCIENZE, interdisciplinarità
+D3_scienze: SCIENZE, interdisciplinarità
+D3_tecnologia: TECNOLOGIA, interdisciplinarità
+D3_esplorare e descrivere oggetti e materiali: TECNOLOGIA, interdisciplinarità
+D3_movimenti del corpo al ritmo della musica: EDUCAZIONE FISICA, interdisciplinarità
+D2_interdisciplinarità: INTERDISCIPLINARITÀ, interdisciplinarità
+D3_altre discipline: INTERDISCIPLINARITÀ, interdisciplinarità
+D3_copia-incolla risposta 2: COPIA RISPOSTA 2, risposta generica D3
+D3_generico: GENERICO-D3, risposta generica D3
+D3_vuoto: VUOTO-D3, risposta generica D3

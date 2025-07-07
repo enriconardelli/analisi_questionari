@@ -1,0 +1,382 @@
+materiali/strumenti fisici:
+  MATERIALI DI AMBIENTE/MOVIMENTO IN CUI SI OPERA PER LE ATTIVITÀ:
+    D1_tappeto
+    D1_griglia/ scacchiera
+    D1_retta dei numeri
+  MATERIALI CHE GUIDANO/STRUTTURANO ATTIVITÀ:
+    D1_schede
+    D1_dalla piattaforma
+    D1_dalla piattaforma (attività)
+    D1_slide
+    D1_libri
+  CANCELLERIA/USO COMUNE:
+    D1_quaderno
+    D1_carta / cartoncino
+    D1_penn/arelli cancellini
+    D1_segnalini
+    D1_altri materiali
+  CORPO:
+    D1_corpo
+    D1_occhi
+    D1_mani
+  ROBOT:
+    D1_robot
+  PC/TABLET:
+    D1_PC / tablet
+  CARTE/BLOCCHI:
+    D1_carte / blocchi di programmazione
+  LIM:
+    D1_LIM
+attività:
+  UNPLUGGED:
+    D1_coding unplugged
+    D1_attività unplugged
+    D1_coding analogico
+  CODING:
+    D1_coding
+  STRUMENTALI PER ALTRE DISCIPLINE:
+    D1_aritmetica
+    D1_attività costruzione di mappe
+    D1_geografia
+    D1_geometria
+    D1_presentazione di una regione
+    D1_misure
+    D1_origami
+    D1_scienza
+    D1_riferimenti topologici
+    D1_techno-CLIL
+  PROGRAMMAZIONE:
+    D1_programmazione
+  COSTRUTTI DI BASE:
+    D1_cicli
+    D1_istruzioni condizionali
+    D1_istruzioni di base
+    D1_sequenza
+    D1_variabili
+  CONTENUTI ALGORITMICI:
+    D1_algoritmi
+    D1_diagramma di flusso
+    D1_pseudo-linguaggio
+    D1_strutture dati
+  VERIFICA E CORREZIONE:
+    D1_verifica e correzione
+  PROCESSI DI INFORMATICA:
+    D1_esecuzione di istruzioni
+    D1_lettura codice
+    D1_sviluppo iterativo
+    D1_decomposizione
+  USO TECNOLOGIA E SVILUPPO CONTENUTI:
+    D1_attività sviluppo contenuti
+    D1_attività uso della tecnologia
+    D1_ricerca di informazioni
+  VIDEOGIOCHI:
+    D1_giochi disciplinari interattivi / attività ludiche
+  MOVIMENTO E PERCORSI:
+    D1_attività ludico-motoria
+    D1_percorsi
+    D1_labirinto
+  PIXEL ART:
+    D1_pixel art
+  STORYTELLING:
+    D1_storytelling
+  ALTRO:
+    D1_altre attività
+    D1_sperimentazione
+piattaforma/ ambiente:
+  CODE.ORG / PROGRAMMA IL FUTURO:
+    D1_Code.org
+    D1_programma il futuro
+  ROBOT:
+    D1_BeeBot
+    D1_BlueBot
+    D1_mTiny
+    D1_Ozobot Bit
+    D1_Cubetto
+    D1_Cyber Talk Robot
+    D1_Lego
+    D1_Lego (dedotta da link inserita in altre risposte)
+    D1_Mind Designer
+    D1_robot DOC
+    D1_Super Doc
+  CARTE/BLOCCHI PROGRAMMAZIONE:
+    D1_Cody Roby
+  SOFTWARE DI CREAZIONE/RICERCA CONTENUTI:
+    D1_Common Sense Selection
+    D1_Kahoot
+    D1_web
+    D1_Word
+  GOOGLE WORKSPACE:
+    D1_Gworkspace
+  GEOMETRIA DINAMICA:
+    D1_Geogebra
+  SCRATCH:
+    D1_Scratch
+  AMBIENTE PIXEL ART:
+    D1_Zaply
+metodologia:
+  FORSE:
+    D1_forse (vago)
+  SÌ:
+    D1_Sì
+obiettivi disciplinari:
+  PROGRAMMAZIONE (generica):
+    D2_programmazione
+    D3_programmazione
+    D2_linguaggio formale
+    D3_programmazione di robot
+  PROGRAMMAZIONE (specifici):
+    D2_sequenza
+    D3_sequenza
+    D2_selezione
+    D3_selezione
+    D2_cicli
+    D2_conoscere le istruzioni del linguaggio
+    D2_concetti base della programmazione
+    D3_concetti base della programmazione
+    D3_utilizzare espressioni condizionali
+    D3_manipolazione
+  GENERICO:
+    D2_informatica
+    D1_pensiero computazionale
+    D2_pensiero computazionale
+    D2_coding
+    D3_coding
+    D2_abilità informatiche
+    D3_abilità informatiche
+    D3_obiettivi piattaforma
+    D3_robotica educativa
+    D2_coniugare informatica e pratica
+  METODI:
+    D2_scomposizione problemi
+    D3_decomposizione
+  RAPPRESENTAZIONE DELL'INFORMAZIONE:
+    D3_modellazione dell'informazione
+    D3_pixel art
+    D3_analisi dati e organizzazione
+    D3_rappresentazione dei dati/ informazione
+  VERIFICA/ CORREZIONE:
+    D2_verifica/ correzione di programmi
+    D3_verifica/ correzione errori
+  PRATICHE:
+    D2_esecuzione di istruzioni
+    D2_mettersi dal punto di vista dell'altro per input
+    D2_leggere comandi e trasformarli in output
+    D2_svolgere (?) algoritmi
+  ALGORITMICA:
+    D2_algoritmi quotidiani
+    D2_descrizioni algoritmiche
+    D2_soluzioni algoritmiche
+    D3_soluzioni algoritmiche
+    D2_scrittura e uso di diagrammi di flusso
+    D3_potenzialità del linguaggio informatico di descrivere altre attività
+    D3_rappresentare processi mediante modelli logici
+    D3_descrizione algoritmica di processi concreti
+  INTELLIGENZA ARTIFICIALE:
+    D1_intelligenza artificiale
+    D2_intelligenza artificiale
+    D2_uso IA
+  RISOLUZIONE COMPUTAZIONALE DEI PROBLEMI:
+    D2_automatizzazione risoluzione di problemi
+    D2_generalizzazione processo di soluzione
+    D2_programmazione per la risoluzione di problemi
+    D2_problem posing computazionale
+    D3_risoluzione computazionale di problemi
+  CONSAPEVOLEZZA DIGITALE:
+    D2_consapevolezza digitale
+    D2_scelta degli strumenti
+    D3_scelta degli strumenti
+    D2_responsabilizzare
+    D2_uso consapevole/critico della tecnologia/rete
+    D3_selezione strumenti
+    D3_uso sicuro della tecnologia
+    D3_uso consapevole della tecnologia
+obiettivi pertinenti:
+  PROBLEM SOLVING:
+    D1_risoluzione di problemi
+    D2_problem solving
+    D3_risoluzione di problemi
+    D3_comprensione/analisi del problema
+    D3_considerare diverse strategie risolutive
+    D3_valutazione della soluzione
+    D3_differenti strategie di risoluzione
+    D3_approccio per tentativi ed errori
+    D3_formulazione di ipotesi
+    D3_formulazione di domande
+  LOGICA:
+    D2_logica/ pensiero logico/ competenze logiche
+    D2_pensiero logico
+    D3_pensiero logico
+  PROGETTAZIONE:
+    D2_progettazione
+    D2_progettazione robotica
+    D2_progettare un percorso
+  PROGETTAZIONE E SVILUPPO OGGETTI:
+    D2_smontare oggetti
+    D2_pianificare fabbricazione oggetti
+    D2_migliorare oggetti
+    D2_analizzare oggetti
+    D2_riconoscere difetti
+  CREATIVITÀ DIGITALE:
+    D2_animazione digitale
+    D2_narrazione digitale
+    D3_narrazione digitale con programmazione
+    D3_storie interattive e animazioni
+risposta generica D2:
+  GENERICO-D2:
+    D2_generico
+  VUOTO-D2:
+    D2_vuoto
+focus D2:
+  CONTENUTO:
+    D2_contenuto
+  INSEGNANTE:
+    D2_insegnante
+  STUDENTE:
+    D2_studente
+abilità strumentali digitali:
+  USO DI STRUMENTI DIGITALI:
+    D2_alfabetizzazione digitale
+    D3_alfabetizzazione digitale
+    D2_uso dei mezzi di comunicazione
+    D1_uso della tecnologia
+    D2_uso della tecnologia
+    D2_piattaforma di debate
+    D2_uso di giochi didattici
+    D2_uso di Internet
+    D1_videoscrittura
+    D2_videoscrittura
+    D1_videotutorial
+    D3_competenze digitali
+    D3_uso di siti web
+    D1_uso di app didattiche
+    D1_sviluppo contenuti
+    D2_utilizzo di robot
+    D2_ricerca di informazioni su Internet
+soft skills/ trasversali/ metacognizione:
+  PROCESSI COGNITIVI:
+    D1_pensiero critico
+    D3_pensiero critico
+    D3_pensiero divergente
+    D3_astrazione
+    D3_analizzare processi
+    D3_riflettere sull'esperienza
+    D2_comprensione dei comandi di programmazione
+    D3_comprensione di istruzioni
+    D3_valutazione attendibilità informazioni
+    D3_capacità di previsione
+    D3_osservazione/ memoria/ analisi
+    D1_pianificazione
+  COMUNICAZIONE:
+    D3_esprimersi correttamente
+    D3_presentare in modo esplicativo
+    D3_comunicare con linguaggi specifici per la situazione
+    D3_documentare attività svolte
+    D2_comunicare con tecnologia
+    D2_competenze narrative
+    D1_capacità di narrazione
+    D2_comunicazione con linguaggio specifico
+    D2_descrizione di strategie
+    D2_utilizzare codici e linguaggi diversi
+    D1_presentazione
+    D3_uso espressivo della tecnologia
+  COLLABORAZIONE:
+    D2_cooperative learning
+    D3_collaborazione
+    D2_peer to peer
+    D3_cooperative learning
+    D2_collaborazione/ lavoro squadra
+    D1_conversazione collaborativa / collaborazione
+    D1_lavoro in coppia
+  EMPOWERMENT:
+    D2_creazione di lezioni
+    D2_coping power
+    D2_responsabilità
+    D2_auto-imprenditorialità
+    D2_autonomia
+    D3_imparare per errori
+    D3_apprendimento attraverso il gioco
+    D3_autocorrezione
+    D3_rielaborazione dei saperi
+    D2_imparare a imparare
+    D3_imparare a imparare
+    D2_spirito di iniziativa
+    D3_spirito di iniziativa
+    D3_precisione / rigore
+  RELAZIONALE-SOCIALE:
+    D3_capacità di ascolto
+    D3_empatia
+    D3_punto di vista dell'altro
+    D3_capacità relazionali
+    D2_inclusione
+  RAGIONAMENTO:
+    D2_argomentare
+    D2_ragionamento
+    D2_scaffolding
+    D2_imparare a ragionare
+    D2_uso trasversale del PeCo
+    D2_intelligenze multiple
+    D2_pensiero astratto
+  CREATIVITÀ:
+    D1_pensiero creativo
+    D3_pensiero creativo
+    D2_creatività
+    D2_gioco
+    D2_modalità giocosa
+interdisciplinarità:
+  ITALIANO:
+    D3_italiano
+    D3_comprensione del testo
+    D3_costruzione di un testo
+    D3_alfabetico-funzionale
+    D3_scrittura
+    D3_ascolto e parlato
+    D3_competenze linguistiche
+  STORIA:
+    D3_storia
+  GEOGRAFIA:
+    D3_geografia
+    D1_costruzione di mappe
+    D1_mappe
+  EDUCAZIONE CIVICA:
+    D3_educazione civica
+  LINGUA STRANIERA:
+    D3_lingua straniera
+  MATEMATICA:
+    D3_spazio e figure
+    D3_geometria
+    D3_matematica
+    D3_operazioni retta dei numeri
+    D3_rappresentazione dei dati
+    D3_contorno di figura piana
+    D3_sequenzialità
+    D3_lato
+    D3_modelli geometrici
+    D1_conteggio
+    D2_calcolare
+    D2_coding per matematica
+    D2_concetti matematici
+  SPAZIALITÀ:
+    D3_riferimenti spaziali/ indicatori topologici
+    D1_orientamento spaziale
+    D2_orientamento spaziale
+    D3_orientamento spaziale
+    D1_indicazioni topologiche
+  SCIENZE:
+    D3_ecologia
+    D3_ambiente
+    D3_scienze
+  TECNOLOGIA:
+    D3_tecnologia
+    D3_esplorare e descrivere oggetti e materiali
+  EDUCAZIONE FISICA:
+    D3_movimenti del corpo al ritmo della musica
+  INTERDISCIPLINARITÀ:
+    D2_interdisciplinarità
+    D3_altre discipline
+risposta generica D3:
+  COPIA RISPOSTA 2:
+    D3_copia-incolla risposta 2
+  GENERICO-D3:
+    D3_generico
+  VUOTO-D3:
+    D3_vuoto
